@@ -1,0 +1,66 @@
+[Crtsh]           www.get.inspectorio.com
+[Crtsh]           www.inspectorio.com
+[Crtsh]           corp.inspectorio.com
+[Crtsh]           dev.target-dashboard.inspectorio.com
+[Crtsh]           restore.inspectorio.com
+[Crtsh]           iot-test.inspectorio.com
+[Crtsh]           gcp.inspectorio.com
+[Crtsh]           kong-kube-staging.inspectorio.com
+[Crtsh]           devops.inspectorio.com
+[Crtsh]           gcp-stg.inspectorio.com
+[Crtsh]           kong-api-gcp.inspectorio.com
+[Crtsh]           gitlab-beta.inspectorio.com
+[Crtsh]           kong-kube-dev.inspectorio.com
+[Crtsh]           gcp-prd.inspectorio.com
+[Crtsh]           app-gcp.inspectorio.com
+[Crtsh]           staging.dashboard.inspectorio.com
+[Crtsh]           kube-dashboard-gitlab.inspectorio.com
+[Crtsh]           prometheus.devops.inspectorio.com
+[Crtsh]           kong-dashboard.devops.inspectorio.com
+[Forward DNS]     inspectorio.com
+[Crtsh]           sight-app-pre.inspectorio.com
+[Crtsh]           portal-gcp.inspectorio.com
+[Crtsh]           influxdb.devops.inspectorio.com
+[Crtsh]           grafana.devops.inspectorio.com
+[Crtsh]           alertmanager.devops.inspectorio.com
+[Crtsh]           pushgateway.devops.inspectorio.com
+[Crtsh]           sight-app.inspectorio.com
+[Crtsh]           dashboard.inspectorio.com
+[Crtsh]           chronograf.devops.inspectorio.com
+[Crtsh]           sight-app-staging.inspectorio.com
+[Crtsh]           konga.devops.inspectorio.com
+[Crtsh]           gateway.devops.inspectorio.com
+[BufferOver]      gitlab.inspectorio.com
+[BufferOver]      app.inspectorio.com
+[Brute Forcing]   id.inspectorio.com
+[BufferOver]      training.inspectorio.com
+[BufferOver]      target.inspectorio.com
+[BufferOver]      docs.inspectorio.com
+[Crtsh]           api-specs.inspectorio.com
+[VirusTotal]      trackme.inspectorio.com
+[AlienVault]      archive.saas.inspectorio.com
+[Crtsh]           support.inspectorio.com
+[Crtsh]           kong-kube-stag.inspectorio.com
+[Crtsh]           get.inspectorio.com
+[Crtsh]           sight-pre.inspectorio.com
+[Crtsh]           traefik.saas.inspectorio.com
+[VirusTotal]      kong-api-pre.inspectorio.com
+[VirusTotal]      kong-kube-pre.inspectorio.com
+[Brute Forcing]   kb.inspectorio.com
+[Alterations]     ds.inspectorio.com
+[DNSDumpster]     wp-staging.inspectorio.com
+[Yahoo]           pre.saas.inspectorio.com
+[Brute Forcing]   dev.dashboard.inspectorio.com
+[Alterations]     developers-staging.inspectorio.com
+[Alterations]     sight-staging.inspectorio.com
+[Alterations]     rs-staging.inspectorio.com
+[Alterations]     rs-pre.inspectorio.com
+[DNSDumpster]     o1.ptr5844.em3313.inspectorio.com
+[Brute Forcing]   developers.inspectorio.com
+[BufferOver]      traefik-dashboard-prod.saas.inspectorio.com
+[Brute Forcing]   portal.saas.inspectorio.com
+[Censys]          blog.inspectorio.com
+[Brute Forcing]   autodiscover.inspectorio.com
+[BufferOver]      stag.saas.inspectorio.com
+[AlienVault]      www.stag.saas.inspectorio.com
+[Name Service]    mail.inspectorio.com

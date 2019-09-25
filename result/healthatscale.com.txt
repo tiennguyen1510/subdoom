@@ -1,0 +1,7 @@
+[AlienVault]      staging.healthatscale.com
+[Brute Forcing]   vpn2.healthatscale.com
+[Forward DNS]     healthatscale.com
+[Riddler]         www.healthatscale.com
+[Brute Forcing]   vpn.healthatscale.com
+[VirusTotal]      snf.healthatscale.com
+[Brute Forcing]   email.healthatscale.com

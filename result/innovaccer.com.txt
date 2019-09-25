@@ -1,0 +1,60 @@
+[Crtsh]           mountrail.innovaccer.com
+[Forward DNS]     innovaccer.com
+[Crtsh]           physician.innovaccer.com
+[BufferOver]      vbr.innovaccer.com
+[Brute Forcing]   careers.innovaccer.com
+[Crtsh]           www.innovaccer.com
+[Crtsh]           survey.innovaccer.com
+[Crtsh]           datashop.innovaccer.com
+[Crtsh]           resources.innovaccer.com
+[Crtsh]           utilization.innovaccer.com
+[Riddler]         legal.innovaccer.com
+[BufferOver]      sdoh.innovaccer.com
+[Brute Forcing]   docs.innovaccer.com
+[Brute Forcing]   mail.innovaccer.com
+[Riddler]         store.innovaccer.com
+[AlienVault]      aco.innovaccer.com
+[Crtsh]           stratifi.innovaccer.com
+[Brute Forcing]   qa.innovaccer.com
+[Brute Forcing]   calendar.innovaccer.com
+[BufferOver]      imperium.innovaccer.com
+[Brute Forcing]   feedback.innovaccer.com
+[Brute Forcing]   solutions.innovaccer.com
+[BufferOver]      psw.innovaccer.com
+[Brute Forcing]   orlando.innovaccer.com
+[Brute Forcing]   lib.innovaccer.com
+[Brute Forcing]   blog.innovaccer.com
+[Riddler]         hola.innovaccer.com
+[BufferOver]      training.innovaccer.com
+[BufferOver]      ucsd.innovaccer.com
+[BufferOver]      ahn.innovaccer.com
+[BufferOver]      demo.innovaccer.com
+[BufferOver]      imperium-mssp.innovaccer.com
+[BufferOver]      tessellate.innovaccer.com
+[Brute Forcing]   beta.innovaccer.com
+[BufferOver]      hartford.innovaccer.com
+[Brute Forcing]   support.innovaccer.com
+[BufferOver]      indata-beta.innovaccer.com
+[BufferOver]      inmediata.innovaccer.com
+[BufferOver]      staging-dupage.innovaccer.com
+[BufferOver]      cmics.innovaccer.com
+[BufferOver]      humana.innovaccer.com
+[BufferOver]      pediatric.innovaccer.com
+[BufferOver]      osler.innovaccer.com
+[Brute Forcing]   apps.innovaccer.com
+[VirusTotal]      mercy-training.innovaccer.com
+[BufferOver]      git.innovaccer.com
+[BufferOver]      boncura.innovaccer.com
+[BufferOver]      dupage.innovaccer.com
+[Brute Forcing]   saturn.innovaccer.com
+[CommonCrawl]     500strong.innovaccer.com
+[DNSDumpster]     staging-imperium-mssp.innovaccer.com
+[Brute Forcing]   imap.innovaccer.com
+[DNSDumpster]     staging-imperium.innovaccer.com
+[DNSDumpster]     sanjoaquingeneral.innovaccer.com
+[Crtsh]           developers.innovaccer.com
+[Crtsh]           content.innovaccer.com
+[Brute Forcing]   smtp.innovaccer.com
+[Brute Forcing]   pop.innovaccer.com
+[Alterations]     mssp.innovaccer.com
+[Alterations]     staging-sanjoaquingeneral.innovaccer.com

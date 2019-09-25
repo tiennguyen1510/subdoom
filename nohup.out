@@ -118,3 +118,474 @@ ASN: 39111 - ADSI-AS, IE
 ASN: 53580 - MARKETO - MARKETO
 	199.15.213.0/24   	1    Subdomain Name(s)
 	192.28.154.0/23   	1    Subdomain Name(s)
+Average DNS queries performed: 207/sec, DNS names remaining: 3
+Average DNS queries performed: 3/sec, DNS names remaining: 2
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+6 names discovered - dns: 1, api: 1, brute: 3, scrape: 1
+--------------------------------------------------------------------------------
+ASN: 15169 - GOOGLE - Google LLC, US
+	34.96.0.0/14      	3    Subdomain Name(s)
+	35.224.0.0/14     	1    Subdomain Name(s)
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc., US
+	13.35.0.0/21      	4    Subdomain Name(s)
+	52.84.224.0/22    	4    Subdomain Name(s)
+	2600:9000:21b4::/48	8    Subdomain Name(s)
+Average DNS queries performed: 1664/sec, DNS names remaining: 4189
+Average DNS queries performed: 587/sec, DNS names remaining: 49
+Average DNS queries performed: 59/sec, DNS names remaining: 24
+Average DNS queries performed: 6/sec, DNS names remaining: 16
+Average DNS queries performed: 0/sec, DNS names remaining: 12
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+77 names discovered - alt: 1, scrape: 1, api: 29, cert: 28, brute: 15, dns: 3
+--------------------------------------------------------------------------------
+ASN: 29944 - LATISYS-ASHBURN - Latisys-Ashburn
+	74.209.192.0/18   	1    Subdomain Name(s)
+ASN: 20940 - AKAMAI-ASN1, US
+	23.49.60.0/24     	2    Subdomain Name(s)
+ASN: 24940 - HETZNER-AS
+	88.198.0.0/16     	2    Subdomain Name(s)
+ASN: 6939 - HURRICANE - Hurricane Electric LLC
+	72.52.64.0/18     	1    Subdomain Name(s)
+ASN: 14340 - SALESFORCE - Salesforce.com, Inc., US
+	13.108.0.0/15     	2    Subdomain Name(s)
+ASN: 174 - COGENT-174 - Cogent Communications, US
+	38.0.0.0/8        	1    Subdomain Name(s)
+ASN: 16509 - AMAZON-02 - Amazon.com
+	54.244.128.0/17   	1    Subdomain Name(s)
+	13.56.0.0/16      	1    Subdomain Name(s)
+	52.28.0.0/16      	1    Subdomain Name(s)
+	54.183.128.0/17   	1    Subdomain Name(s)
+	52.52.0.0/15      	1    Subdomain Name(s)
+	54.244.0.0/18     	1    Subdomain Name(s)
+	54.192.148.0/22   	8    Subdomain Name(s)
+	52.218.249.0/24   	1    Subdomain Name(s)
+	52.57.0.0/16      	1    Subdomain Name(s)
+	18.194.0.0/15     	1    Subdomain Name(s)
+	18.196.0.0/15     	2    Subdomain Name(s)
+	184.169.128.0/17  	1    Subdomain Name(s)
+	54.67.0.0/17      	2    Subdomain Name(s)
+	54.214.128.0/17   	1    Subdomain Name(s)
+	35.156.0.0/14     	1    Subdomain Name(s)
+	3.120.0.0/14      	1    Subdomain Name(s)
+	50.18.208.0/20    	2    Subdomain Name(s)
+	13.57.0.0/16      	1    Subdomain Name(s)
+	13.224.160.0/22   	4    Subdomain Name(s)
+	54.241.192.0/18   	1    Subdomain Name(s)
+	52.9.0.0/16       	2    Subdomain Name(s)
+	54.176.0.0/15     	1    Subdomain Name(s)
+	143.204.208.0/21  	4    Subdomain Name(s)
+	34.208.0.0/12     	1    Subdomain Name(s)
+	50.112.160.0/19   	1    Subdomain Name(s)
+	54.219.128.0/18   	1    Subdomain Name(s)
+	52.29.0.0/16      	1    Subdomain Name(s)
+	52.24.0.0/14      	3    Subdomain Name(s)
+ASN: 29863 - LATISYS-DENVER - Latisys-Denver
+	208.42.224.0/19   	11   Subdomain Name(s)
+ASN: 8987 - AMAZON EXPANSION
+	2620:108:d000::/44	6    Subdomain Name(s)
+	52.222.0.0/17     	1    Subdomain Name(s)
+	52.61.0.0/16      	6    Subdomain Name(s)
+	96.127.0.0/17     	2    Subdomain Name(s)
+ASN: 19047 - AWS-01, US
+	54.88.0.0/16      	2    Subdomain Name(s)
+ASN: 53580 - MARKETO - MARKETO
+	192.28.150.0/23   	1    Subdomain Name(s)
+	192.28.152.0/23   	1    Subdomain Name(s)
+ASN: 7922 - COMCAST-7922 - Comcast Cable Communications
+	50.128.0.0/9      	1    Subdomain Name(s)
+ASN: 14618 - AMAZON-AES - Amazon.com
+	52.72.0.0/15      	3    Subdomain Name(s)
+ASN: 19551 - INCAPSULA - Incapsula Inc
+	45.60.112.0/24    	4    Subdomain Name(s)
+	45.60.87.0/24     	1    Subdomain Name(s)
+	149.126.72.0/24   	1    Subdomain Name(s)
+	45.60.33.0/24     	1    Subdomain Name(s)
+ASN: 8075 - MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation
+	13.64.0.0/11      	1    Subdomain Name(s)
+ASN: 19994 - RACKSPACE - Rackspace Hosting
+	50.57.0.0/17      	1    Subdomain Name(s)
+ASN: 13335 - CLOUDFLARENET - Cloudflare
+	2606:4700::/44    	20   Subdomain Name(s)
+	104.18.208.0/20   	10   Subdomain Name(s)
+	104.17.64.0/20    	10   Subdomain Name(s)
+	104.18.64.0/20    	6    Subdomain Name(s)
+	104.17.0.0/20     	5    Subdomain Name(s)
+Average DNS queries performed: 1618/sec, DNS names remaining: 13754
+Average DNS queries performed: 1268/sec, DNS names remaining: 4304
+Average DNS queries performed: 561/sec, DNS names remaining: 2345
+Average DNS queries performed: 29/sec, DNS names remaining: 2317
+Average DNS queries performed: 3/sec, DNS names remaining: 3313
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+151 names discovered - api: 84, cert: 40, dns: 2, brute: 11, scrape: 7, alt: 7
+--------------------------------------------------------------------------------
+ASN: 14618 - AMAZON-AES - Amazon.com, Inc., US
+	3.80.0.0/12       	8    Subdomain Name(s)
+	34.224.0.0/12     	7    Subdomain Name(s)
+	34.192.0.0/12     	7    Subdomain Name(s)
+	3.208.0.0/12      	8    Subdomain Name(s)
+	52.20.0.0/14      	1    Subdomain Name(s)
+	35.168.0.0/13     	1    Subdomain Name(s)
+	52.70.0.0/15      	1    Subdomain Name(s)
+	54.174.0.0/15     	1    Subdomain Name(s)
+	54.160.0.0/14     	1    Subdomain Name(s)
+ASN: 8218 - NEO-ASN legacy Neotelecoms
+	158.255.96.0/19   	1    Subdomain Name(s)
+	83.167.32.0/19    	2    Subdomain Name(s)
+ASN: 29447 - TIF-AS, FR
+	163.172.0.0/16    	2    Subdomain Name(s)
+	62.210.0.0/17     	1    Subdomain Name(s)
+ASN: 46450 - PILOT - Pilot Fiber, Inc., US
+	158.106.192.0/19  	1    Subdomain Name(s)
+ASN: 16276 - OVH SAS Dedicated Servers http://www.ovh.com
+	158.69.0.0/16     	5    Subdomain Name(s)
+	167.114.0.0/17    	2    Subdomain Name(s)
+	51.79.0.0/17      	1    Subdomain Name(s)
+	94.23.0.0/16      	1    Subdomain Name(s)
+	54.38.0.0/16      	1    Subdomain Name(s)
+ASN: 13335 - CLOUDFLARENET - Cloudflare, Inc., US
+	104.25.128.0/20   	12   Subdomain Name(s)
+	2606:4700:20::/44 	10   Subdomain Name(s)
+	104.16.48.0/20    	5    Subdomain Name(s)
+	104.17.128.0/20   	10   Subdomain Name(s)
+ASN: 35540 - OVH-TELECOM, FR
+	151.80.32.0/20    	4    Subdomain Name(s)
+	176.31.224.0/19   	1    Subdomain Name(s)
+	37.187.128.0/21   	1    Subdomain Name(s)
+	37.59.0.0/18      	3    Subdomain Name(s)
+	37.187.144.0/20   	10   Subdomain Name(s)
+	37.187.136.0/21   	4    Subdomain Name(s)
+	147.135.128.0/17  	5    Subdomain Name(s)
+	37.187.248.0/21   	1    Subdomain Name(s)
+	217.182.0.0/16    	9    Subdomain Name(s)
+	188.165.192.0/18  	3    Subdomain Name(s)
+	176.31.96.0/19    	1    Subdomain Name(s)
+	37.187.72.0/21    	3    Subdomain Name(s)
+	37.187.0.0/19     	2    Subdomain Name(s)
+	193.70.0.0/17     	1    Subdomain Name(s)
+	51.91.0.0/16      	2    Subdomain Name(s)
+	151.80.16.0/20    	1    Subdomain Name(s)
+	149.202.0.0/16    	11   Subdomain Name(s)
+	51.254.0.0/15     	4    Subdomain Name(s)
+ASN: 2635 - AUTOMATTIC - Automattic, Inc, US
+	192.0.78.0/24     	4    Subdomain Name(s)
+ASN: 39111 - ADSI-AS, IE
+	34.240.0.0/13     	5    Subdomain Name(s)
+ASN: 12876 - VeePee is based in France
+	62.210.0.0/16     	1    Subdomain Name(s)
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc., US
+	54.153.0.0/17     	3    Subdomain Name(s)
+	34.248.0.0/13     	1    Subdomain Name(s)
+	35.160.0.0/13     	1    Subdomain Name(s)
+	52.58.0.0/15      	2    Subdomain Name(s)
+	3.8.0.0/14        	8    Subdomain Name(s)
+	35.180.0.0/16     	1    Subdomain Name(s)
+	13.56.0.0/16      	2    Subdomain Name(s)
+	54.194.0.0/16     	1    Subdomain Name(s)
+	52.208.0.0/13     	1    Subdomain Name(s)
+	18.216.0.0/14     	2    Subdomain Name(s)
+	52.10.0.0/15      	1    Subdomain Name(s)
+	52.15.128.0/17    	2    Subdomain Name(s)
+	13.225.96.0/21    	2    Subdomain Name(s)
+	54.183.128.0/17   	2    Subdomain Name(s)
+	18.184.0.0/15     	2    Subdomain Name(s)
+	54.241.128.0/19   	2    Subdomain Name(s)
+ASN: 3356 - LEVEL3 - Level 3 Parent, LLC, US
+	194.88.64.0/19    	1    Subdomain Name(s)
+Average DNS queries performed: 1483/sec, DNS names remaining: 5016
+Average DNS queries performed: 1675/sec, DNS names remaining: 6267
+Average DNS queries performed: 1698/sec, DNS names remaining: 5232
+Average DNS queries performed: 1738/sec, DNS names remaining: 5934
+Average DNS queries performed: 1736/sec, DNS names remaining: 5693
+Average DNS queries performed: 1624/sec, DNS names remaining: 406
+Average DNS queries performed: 368/sec, DNS names remaining: 232
+Average DNS queries performed: 23/sec, DNS names remaining: 18
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+150 names discovered - scrape: 1, alt: 18, cert: 16, api: 73, dns: 12, brute: 30
+--------------------------------------------------------------------------------
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc., US
+	54.68.0.0/15      	1    Subdomain Name(s)
+	54.213.0.0/16     	1    Subdomain Name(s)
+	13.224.192.0/21   	4    Subdomain Name(s)
+	13.33.64.0/21     	4    Subdomain Name(s)
+	54.192.148.0/22   	4    Subdomain Name(s)
+	13.225.160.0/21   	4    Subdomain Name(s)
+	52.40.0.0/14      	1    Subdomain Name(s)
+	143.204.96.0/21   	4    Subdomain Name(s)
+	52.36.0.0/14      	1    Subdomain Name(s)
+	34.208.0.0/12     	3    Subdomain Name(s)
+ASN: 174 - COGENT-174 - Cogent Communications, US
+	38.0.0.0/8        	4    Subdomain Name(s)
+	0.0.0.0/0         	30   Subdomain Name(s)
+	::/0              	28   Subdomain Name(s)
+ASN: 0 - Reserved Network Address Blocks
+	10.0.0.0/8        	63   Subdomain Name(s)
+ASN: 14618 - Amazon-AES-IAD Amazon-AES-IAD
+	52.90.0.0/15      	6    Subdomain Name(s)
+	52.86.0.0/15      	4    Subdomain Name(s)
+	54.242.0.0/15     	1    Subdomain Name(s)
+	54.164.0.0/15     	2    Subdomain Name(s)
+	52.2.0.0/15       	2    Subdomain Name(s)
+	34.224.0.0/12     	9    Subdomain Name(s)
+	52.20.0.0/14      	3    Subdomain Name(s)
+	54.152.0.0/16     	3    Subdomain Name(s)
+	54.86.0.0/16      	2    Subdomain Name(s)
+	52.72.0.0/15      	2    Subdomain Name(s)
+	54.226.0.0/15     	2    Subdomain Name(s)
+	34.192.0.0/12     	13   Subdomain Name(s)
+	54.196.0.0/15     	1    Subdomain Name(s)
+	54.84.0.0/15      	5    Subdomain Name(s)
+	54.208.0.0/15     	2    Subdomain Name(s)
+	107.22.0.0/16     	1    Subdomain Name(s)
+	35.153.0.0/16     	2    Subdomain Name(s)
+	52.200.0.0/13     	10   Subdomain Name(s)
+	18.204.0.0/14     	4    Subdomain Name(s)
+	52.0.0.0/15       	1    Subdomain Name(s)
+	3.208.0.0/12      	4    Subdomain Name(s)
+	52.4.0.0/14       	3    Subdomain Name(s)
+	18.208.0.0/13     	3    Subdomain Name(s)
+	54.210.0.0/16     	3    Subdomain Name(s)
+	54.172.0.0/15     	6    Subdomain Name(s)
+	3.224.0.0/12      	1    Subdomain Name(s)
+	52.70.0.0/15      	3    Subdomain Name(s)
+	52.44.0.0/15      	4    Subdomain Name(s)
+	35.168.0.0/13     	4    Subdomain Name(s)
+	107.21.0.0/18     	2    Subdomain Name(s)
+	54.236.128.0/17   	3    Subdomain Name(s)
+	54.174.0.0/15     	5    Subdomain Name(s)
+	184.73.0.0/16     	1    Subdomain Name(s)
+	54.80.0.0/14      	3    Subdomain Name(s)
+	54.156.0.0/14     	1    Subdomain Name(s)
+	54.144.0.0/14     	2    Subdomain Name(s)
+	107.20.0.0/16     	1    Subdomain Name(s)
+	23.20.0.0/15      	1    Subdomain Name(s)
+	52.54.0.0/15      	1    Subdomain Name(s)
+Average DNS queries performed: 434/sec, DNS names remaining: 4
+Average DNS queries performed: 4/sec, DNS names remaining: 4
+Average DNS queries performed: 2/sec, DNS names remaining: 2
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+16 names discovered - cert: 2, brute: 4, api: 9, dns: 1
+--------------------------------------------------------------------------------
+ASN: 15169 - GOOGLE - Google LLC, US
+	35.224.0.0/14     	2    Subdomain Name(s)
+ASN: 13335 - CLOUDFLARENET - Cloudflare, Inc., US
+	104.17.64.0/20    	5    Subdomain Name(s)
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc., US
+	54.70.0.0/15      	12   Subdomain Name(s)
+	54.186.0.0/15     	1    Subdomain Name(s)
+Average DNS queries performed: 1554/sec, DNS names remaining: 1058
+Average DNS queries performed: 214/sec, DNS names remaining: 56
+Average DNS queries performed: 176/sec, DNS names remaining: 190
+Average DNS queries performed: 257/sec, DNS names remaining: 55
+Average DNS queries performed: 56/sec, DNS names remaining: 19
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+88 names discovered - cert: 29, dns: 1, brute: 37, api: 17, alt: 4
+--------------------------------------------------------------------------------
+ASN: 35914 - ARMOR-DEFENSE - Armor Defense Inc, US
+	198.90.20.0/22    	1    Subdomain Name(s)
+ASN: 13335 - CLOUDFLARENET - Cloudflare, Inc., US
+	104.25.208.0/20   	2    Subdomain Name(s)
+	2606:4700:20::/44 	2    Subdomain Name(s)
+ASN: 14618 - AMAZON-AES - Amazon.com, Inc., US
+	54.174.0.0/15     	3    Subdomain Name(s)
+	52.2.0.0/15       	2    Subdomain Name(s)
+	52.200.0.0/13     	2    Subdomain Name(s)
+	54.236.0.0/18     	1    Subdomain Name(s)
+	54.226.0.0/15     	2    Subdomain Name(s)
+	54.88.0.0/16      	1    Subdomain Name(s)
+	52.0.0.0/15       	1    Subdomain Name(s)
+	54.237.0.0/16     	1    Subdomain Name(s)
+	52.90.0.0/15      	2    Subdomain Name(s)
+	23.20.0.0/15      	1    Subdomain Name(s)
+	54.208.0.0/15     	1    Subdomain Name(s)
+	54.221.0.0/16     	1    Subdomain Name(s)
+	3.224.0.0/12      	1    Subdomain Name(s)
+	18.204.0.0/14     	1    Subdomain Name(s)
+	54.172.0.0/15     	1    Subdomain Name(s)
+	34.224.0.0/12     	4    Subdomain Name(s)
+	54.156.0.0/14     	1    Subdomain Name(s)
+	52.20.0.0/14      	3    Subdomain Name(s)
+	54.234.0.0/15     	1    Subdomain Name(s)
+	52.70.0.0/15      	3    Subdomain Name(s)
+	18.232.0.0/14     	3    Subdomain Name(s)
+	54.210.0.0/16     	1    Subdomain Name(s)
+	54.84.0.0/15      	1    Subdomain Name(s)
+	54.166.0.0/15     	1    Subdomain Name(s)
+	52.4.0.0/14       	2    Subdomain Name(s)
+	54.80.0.0/14      	3    Subdomain Name(s)
+	34.192.0.0/12     	4    Subdomain Name(s)
+	54.164.0.0/15     	1    Subdomain Name(s)
+	35.168.0.0/13     	1    Subdomain Name(s)
+	3.208.0.0/12      	4    Subdomain Name(s)
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc., US
+	143.204.8.0/21    	8    Subdomain Name(s)
+	52.216.130.0/24   	2    Subdomain Name(s)
+	13.225.76.0/22    	3    Subdomain Name(s)
+	52.85.24.0/22     	5    Subdomain Name(s)
+	54.242.0.0/15     	1    Subdomain Name(s)
+	52.216.112.0/24   	1    Subdomain Name(s)
+	52.216.170.0/24   	1    Subdomain Name(s)
+	143.204.208.0/21  	4    Subdomain Name(s)
+	52.216.114.0/24   	1    Subdomain Name(s)
+	54.230.12.0/22    	1    Subdomain Name(s)
+	54.231.48.0/24    	1    Subdomain Name(s)
+	13.224.160.0/22   	1    Subdomain Name(s)
+	13.226.60.0/22    	4    Subdomain Name(s)
+	13.225.96.0/21    	4    Subdomain Name(s)
+	52.216.88.0/24    	1    Subdomain Name(s)
+	52.216.131.0/24   	1    Subdomain Name(s)
+	50.18.64.0/18     	1    Subdomain Name(s)
+	54.192.148.0/22   	6    Subdomain Name(s)
+	13.35.8.0/23      	2    Subdomain Name(s)
+	52.216.145.0/24   	1    Subdomain Name(s)
+	18.216.0.0/14     	1    Subdomain Name(s)
+	99.79.0.0/16      	1    Subdomain Name(s)
+	52.216.236.0/24   	1    Subdomain Name(s)
+	52.216.144.0/24   	1    Subdomain Name(s)
+	143.204.96.0/21   	1    Subdomain Name(s)
+	52.216.0.0/24     	1    Subdomain Name(s)
+	18.136.0.0/16     	3    Subdomain Name(s)
+ASN: 15169 - GOOGLE - Google LLC, US
+	104.196.160.0/19  	1    Subdomain Name(s)
+	2a00:1450:4010::/48	1    Subdomain Name(s)
+ASN: 54113 - FASTLY - Fastly, US
+	23.185.0.0/24     	5    Subdomain Name(s)
+	2620:12a:8000::/44	6    Subdomain Name(s)
+ASN: 53580 - MARKETO - MARKETO, Inc., US
+	199.15.212.0/24   	1    Subdomain Name(s)
+	199.15.213.0/24   	1    Subdomain Name(s)
+ASN: 16406 - AS-INTERMEDIA - Intermedia.net, Inc., US
+	199.193.204.0/22  	6    Subdomain Name(s)
+Average DNS queries performed: 192/sec, DNS names remaining: 3
+Average DNS queries performed: 6/sec, DNS names remaining: 2
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+7 names discovered - brute: 3, dns: 1, scrape: 1, api: 2
+--------------------------------------------------------------------------------
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc., US
+	52.40.0.0/14      	1    Subdomain Name(s)
+	52.36.0.0/14      	3    Subdomain Name(s)
+	35.160.0.0/13     	2    Subdomain Name(s)
+ASN: 15169 - GOOGLE - Google LLC, US
+	172.217.194.0/24  	1    Subdomain Name(s)
+Average DNS queries performed: 1190/sec, DNS names remaining: 38
+Average DNS queries performed: 72/sec, DNS names remaining: 1037
+Average DNS queries performed: 51/sec, DNS names remaining: 4
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+60 names discovered - scrape: 6, alt: 2, cert: 10, dns: 1, api: 24, brute: 17
+--------------------------------------------------------------------------------
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc., US
+	54.68.0.0/15      	2    Subdomain Name(s)
+	18.220.0.0/14     	1    Subdomain Name(s)
+	18.216.0.0/14     	1    Subdomain Name(s)
+	34.208.0.0/12     	2    Subdomain Name(s)
+	35.160.0.0/13     	2    Subdomain Name(s)
+	52.88.0.0/15      	1    Subdomain Name(s)
+	52.14.0.0/16      	1    Subdomain Name(s)
+	13.58.0.0/15      	1    Subdomain Name(s)
+	54.213.0.0/16     	1    Subdomain Name(s)
+ASN: 15169 - GOOGLE - Google LLC, US
+	216.239.34.0/24   	1    Subdomain Name(s)
+	172.217.22.0/24   	15   Subdomain Name(s)
+	2404:6800:4008::/48	15   Subdomain Name(s)
+	107.178.192.0/18  	1    Subdomain Name(s)
+	216.239.32.0/24   	2    Subdomain Name(s)
+	35.228.0.0/14     	1    Subdomain Name(s)
+	216.239.36.0/24   	1    Subdomain Name(s)
+	216.239.38.0/24   	1    Subdomain Name(s)
+	2001:4860::/32    	4    Subdomain Name(s)
+	104.197.96.0/19   	1    Subdomain Name(s)
+	104.198.64.0/19   	1    Subdomain Name(s)
+ASN: 132542 - CHINETWORKS1-AS-AP Chinetworks India Pvt. Ltd., IN
+	103.245.202.0/24  	1    Subdomain Name(s)
+ASN: 14618 - Amazon-AES-IAD Amazon-AES-IAD
+	52.54.0.0/15      	1    Subdomain Name(s)
+	100.24.0.0/13     	4    Subdomain Name(s)
+	34.192.0.0/12     	3    Subdomain Name(s)
+	52.200.0.0/13     	2    Subdomain Name(s)
+	54.172.0.0/15     	1    Subdomain Name(s)
+	107.21.0.0/18     	1    Subdomain Name(s)
+	54.210.0.0/16     	2    Subdomain Name(s)
+	18.232.0.0/14     	1    Subdomain Name(s)
+	3.80.0.0/12       	3    Subdomain Name(s)
+	52.20.0.0/14      	1    Subdomain Name(s)
+	52.44.0.0/15      	1    Subdomain Name(s)
+	3.208.0.0/12      	3    Subdomain Name(s)
+ASN: 26496 - AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+	97.74.132.0/22    	4    Subdomain Name(s)
+	173.201.192.0/22  	8    Subdomain Name(s)
+	68.178.252.0/22   	2    Subdomain Name(s)
+	72.167.216.0/22   	2    Subdomain Name(s)
+	68.178.212.0/22   	2    Subdomain Name(s)
+	72.167.236.0/22   	1    Subdomain Name(s)
+ASN: 13335 - CLOUDFLARENET - Cloudflare, Inc., US
+	104.17.128.0/20   	4    Subdomain Name(s)
+	104.17.112.0/20   	1    Subdomain Name(s)
+	2606:4700::/44    	5    Subdomain Name(s)
+Average DNS queries performed: 911/sec, DNS names remaining: 17
+Average DNS queries performed: 69/sec, DNS names remaining: 49
+Average DNS queries performed: 45/sec, DNS names remaining: 22
+Average DNS queries performed: 13/sec, DNS names remaining: 9
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+66 names discovered - dns: 1, api: 12, brute: 6, alt: 6, scrape: 3, cert: 38
+--------------------------------------------------------------------------------
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc., US
+	54.186.0.0/15     	18   Subdomain Name(s)
+	52.74.0.0/16      	1    Subdomain Name(s)
+	13.125.0.0/16     	1    Subdomain Name(s)
+	54.251.128.0/20   	1    Subdomain Name(s)
+	52.32.0.0/14      	10   Subdomain Name(s)
+	3.0.0.0/15        	1    Subdomain Name(s)
+	52.68.0.0/15      	3    Subdomain Name(s)
+	34.208.0.0/12     	15   Subdomain Name(s)
+	35.155.0.0/16     	1    Subdomain Name(s)
+	13.225.96.0/21    	4    Subdomain Name(s)
+	52.40.0.0/14      	10   Subdomain Name(s)
+	13.112.0.0/14     	3    Subdomain Name(s)
+	99.86.160.0/21    	4    Subdomain Name(s)
+	13.224.140.0/22   	3    Subdomain Name(s)
+	52.24.0.0/14      	1    Subdomain Name(s)
+	143.204.8.0/21    	4    Subdomain Name(s)
+	3.112.0.0/14      	3    Subdomain Name(s)
+	54.192.148.0/22   	4    Subdomain Name(s)
+	52.219.32.0/24    	1    Subdomain Name(s)
+	18.138.0.0/15     	1    Subdomain Name(s)
+	52.220.0.0/15     	1    Subdomain Name(s)
+	13.35.160.0/21    	8    Subdomain Name(s)
+ASN: 14618 - AMAZON-AES - Amazon.com, Inc., US
+	52.20.0.0/14      	9    Subdomain Name(s)
+	3.208.0.0/12      	9    Subdomain Name(s)
+	54.196.0.0/15     	8    Subdomain Name(s)
+ASN: 15169 - GOOGLE - Google LLC, US
+	35.240.0.0/14     	1    Subdomain Name(s)
+	34.96.0.0/14      	1    Subdomain Name(s)
+	34.92.0.0/14      	1    Subdomain Name(s)
+ASN: 37963 - CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+	139.224.128.0/17  	1    Subdomain Name(s)
+ASN: 54113 - FASTLY - Fastly, US
+	185.199.111.0/24  	1    Subdomain Name(s)
+ASN: 13335 - CLOUDFLARENET - Cloudflare, Inc., US
+	104.16.48.0/20    	5    Subdomain Name(s)
+	104.17.112.0/20   	5    Subdomain Name(s)
+	2606:4700::/44    	5    Subdomain Name(s)
+ASN: 11377 - SENDGRID - SendGrid, Inc., US
+	149.72.128.0/17   	1    Subdomain Name(s)
+ASN: 8075 - MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
+	40.64.0.0/10      	5    Subdomain Name(s)
+	2603:1000::/25    	5    Subdomain Name(s)

@@ -3,3 +3,4 @@
 [Brute Forcing]   app.compression.ai
 [Brute Forcing]   www.compression.ai
 [Yahoo]           playground.compression.ai
+[Brute Forcing]   cdn.compression.ai

@@ -1,0 +1,150 @@
+[Crtsh]           cursor.sfo.datarobot.com
+[Crtsh]           iis.adfs-test.int.datarobot.com
+[BufferOver]      labs.datarobot.com
+[BufferOver]      orion.datarobot.com
+[Forward DNS]     datarobot.com
+[Crtsh]           www.datarobot.com
+[Forward DNS]     developers.datarobot.com
+[Brute Forcing]   discuss.datarobot.com
+[BufferOver]      kyiv-admin3.hq.datarobot.com
+[BufferOver]      bos-admin1.hq.datarobot.com
+[BufferOver]      hq.datarobot.com
+[BufferOver]      staging-green.ent.datarobot.com
+[BufferOver]      staging-blue.ent.datarobot.com
+[BufferOver]      staging-haproxy.ent.datarobot.com
+[Forward DNS]     kyiv-admin2.hq.datarobot.com
+[Brute Forcing]   is.orm.datarobot.com
+[Ask]             relationships.labs.datarobot.com
+[BufferOver]      drdoc.ent.datarobot.com
+[Forward DNS]     kyiv-admin1.hq.datarobot.com
+[Brute Forcing]   gamma.ent.datarobot.com
+[Brute Forcing]   discuss.hq.datarobot.com
+[Brute Forcing]   test.orm.datarobot.com
+[Brute Forcing]   auth.hq.datarobot.com
+[Brute Forcing]   vpn.hq.datarobot.com
+[Brute Forcing]   staging.ent.datarobot.com
+[Brute Forcing]   canon.orm.datarobot.com
+[Brute Forcing]   marvin.hq.datarobot.com
+[Brute Forcing]   db.sfo.datarobot.com
+[Brute Forcing]   docs.hq.datarobot.com
+[Brute Forcing]   alpha.hq.datarobot.com
+[Brute Forcing]   mm.hq.datarobot.com
+[Brute Forcing]   dhcp.hq.datarobot.com
+[Brute Forcing]   ns.hq.datarobot.com
+[Brute Forcing]   fileserv.hq.datarobot.com
+[Crtsh]           ci3.int.datarobot.com
+[Crtsh]           beta.datarobot.com
+[Crtsh]           helpdesk.datarobot.com
+[Brute Forcing]   app.datarobot.com
+[Brute Forcing]   me.datarobot.com
+[BufferOver]      forum.datarobot.com
+[Crtsh]           support.datarobot.com
+[Crtsh]           apifeedback.datarobot.com
+[Crtsh]           terrabot.secops.datarobot.com
+[Crtsh]           community.datarobot.com
+[Brute Forcing]   mobilemail.datarobot.com
+[Crtsh]           community-stage.datarobot.com
+[BufferOver]      56c1fd1363ea5463c44b2b56.orm.datarobot.com
+[BufferOver]      intelegence.poc.datarobot.com
+[BufferOver]      intelegence-pred.poc.datarobot.com
+[BufferOver]      5a467e796d022d229cc0a34d.orm.datarobot.com
+[BufferOver]      56bdb8f963ea54533223dd17.orm.datarobot.com
+[BufferOver]      57853b43c8089129bf634e68.orm.datarobot.com
+[BufferOver]      5a467e726d022d2259580f82.orm.datarobot.com
+[Name Service]    ns1.hq.datarobot.com
+[BufferOver]      azure.hq.datarobot.com
+[BufferOver]      kiev-admin1.hq.datarobot.com
+[Brute Forcing]   ns2.hq.datarobot.com
+[Markov Model]    bos-admin3.hq.datarobot.com
+[BufferOver]      568fbf45c808913e2db5cf06.orm.datarobot.com
+[BufferOver]      5a7051cc739c5d2cc76c0e45.orm.datarobot.com
+[BufferOver]      59e7734da300285e0d92e728.orm.datarobot.com
+[BufferOver]      59e7ad5ec808912c22fa4504.orm.datarobot.com
+[BufferOver]      5a102a9aeeb38c1284f35b8a.orm.datarobot.com
+[BufferOver]      5990e7d5c808914e83331f8e.orm.datarobot.com
+[BufferOver]      59f27fc4c8089134fd316699.orm.datarobot.com
+[BufferOver]      59e8cc7ca300287122ce0b47.orm.datarobot.com
+[BufferOver]      5727aff0218ef114e2ffa3e9.orm.datarobot.com
+[BufferOver]      59fb5119a300281d800acb61.orm.datarobot.com
+[BufferOver]      59b336b1c80891079022cf4c.orm.datarobot.com
+[BufferOver]      5a5f8789739c5d15c72cb2af.orm.datarobot.com
+[BufferOver]      5a12cf80eeb38c45d8161d07.orm.datarobot.com
+[BufferOver]      5940a16cc8089174d8712305.orm.datarobot.com
+[BufferOver]      5a1470b2eeb38c0237be172e.orm.datarobot.com
+[BufferOver]      5a435d976d022d5fb03492f6.orm.datarobot.com
+[BufferOver]      57929f74c808914687d96382.orm.datarobot.com
+[BufferOver]      5747127cc8089175254b25ab.orm.datarobot.com
+[BufferOver]      55e9de13852d9b29309024f3.orm.datarobot.com
+[BufferOver]      59f09a6feeb38c3d364049a1.orm.datarobot.com
+[BufferOver]      5941de9fc8089134d84a401d.orm.datarobot.com
+[BufferOver]      59b93b9ec80891224ab8c74d.orm.datarobot.com
+[BufferOver]      59f2aa3ac8089103a3e49f63.orm.datarobot.com
+[BufferOver]      5723c6b6c808911159b01880.orm.datarobot.com
+[BufferOver]      5628a2465034f352122db4e5.orm.datarobot.com
+[BufferOver]      5702f2b9c808915fc3430f7f.orm.datarobot.com
+[BufferOver]      59f8b7ffa30028405f3750cc.orm.datarobot.com
+[BufferOver]      57a9d5cdc808917f4f1b3d3e.orm.datarobot.com
+[Brute Forcing]   mail.datarobot.com
+[BufferOver]      5a104607eeb38c13aa501111.orm.datarobot.com
+[BufferOver]      5a67cd5b739c5d25fae6eef0.orm.datarobot.com
+[BufferOver]      59c23097c808917af28d2c6c.orm.datarobot.com
+[BufferOver]      5a44ac8c6d022d7c4004fa1c.orm.datarobot.com
+[BufferOver]      57acb8d9c8089145a7317b1b.orm.datarobot.com
+[BufferOver]      59e4b677a3002837164936d1.orm.datarobot.com
+[BufferOver]      59ffa59ca300287eb74e8a99.orm.datarobot.com
+[BufferOver]      55ca4014b1fc437dcbf6ea60.orm.datarobot.com
+[Brute Forcing]   atlas.orm.datarobot.com
+[BufferOver]      59ffa695a3002878469271f8.orm.datarobot.com
+[BufferOver]      5669ccd5c808917d6bc1cb9d.orm.datarobot.com
+[BufferOver]      57aa01e2c80891702a5e112f.orm.datarobot.com
+[BufferOver]      56983cd1c8089131282ce0bc.orm.datarobot.com
+[Brute Forcing]   vault.int.datarobot.com
+[BufferOver]      5a674d91739c5d0e47df2fc7.orm.datarobot.com
+[BufferOver]      5794c6fcc8089154134cdc1b.orm.datarobot.com
+[BufferOver]      kyiv-admin4.hq.datarobot.com
+[Crtsh]           staging.datarobot.com
+[Crtsh]           ent-staging-shared-frontproxy.ent.datarobot.com
+[BufferOver]      5994a3e8c808915bbeaba2f7.orm.datarobot.com
+[BufferOver]      59ef3ce4eeb38c2678074ca5.orm.datarobot.com
+[Brute Forcing]   registry.int.datarobot.com
+[Alterations]     ci0.int.datarobot.com
+[Crtsh]           blog.datarobot.com
+[Crtsh]           go4.datarobot.com
+[Crtsh]           account.developers.datarobot.com
+[BufferOver]      go.datarobot.com
+[BufferOver]      57916a0b218ef134b8e576af.orm.datarobot.com
+[Alterations]     ci2.int.datarobot.com
+[Alterations]     ci.int.datarobot.com
+[Brute Forcing]   david.poc.datarobot.com
+[Brute Forcing]   fax.orm.datarobot.com
+[Brute Forcing]   reports.hq.datarobot.com
+[Brute Forcing]   fileserv001.hq.datarobot.com
+[Brute Forcing]   fs.hq.datarobot.com
+[Forward DNS]     kdc.ent.datarobot.com
+[Forward DNS]     _kerberos._tcp.ent.datarobot.com
+[Forward DNS]     _kerberos._udp.ent.datarobot.com
+[Forward DNS]     _kerberos-master._tcp.ent.datarobot.com
+[Forward DNS]     _kerberos-master._udp.ent.datarobot.com
+[Forward DNS]     _kpasswd._tcp.ent.datarobot.com
+[Forward DNS]     _kpasswd._udp.ent.datarobot.com
+[VirusTotal]      go2.datarobot.com
+[Alterations]     staging2.datarobot.com
+[VirusTotal]      softbankcs.orm.datarobot.com
+[VirusTotal]      58bd7a6ac8089138dd4a7b6c.orm.datarobot.com
+[Alterations]     staging3.datarobot.com
+[Alterations]     intelegence2.poc.datarobot.com
+[VirusTotal]      softbankcs2.orm.datarobot.com
+[VirusTotal]      govt.datarobot.com
+[VirusTotal]      59d3b096c808915ec92d2f41.orm.datarobot.com
+[BufferOver]      partnerportal.datarobot.com
+[Forward DNS]     bos-admin2.hq.datarobot.com
+[Alterations]     dt.orm.datarobot.com
+[Alterations]     staging-green-pred.ent.datarobot.com
+[Alterations]     staging-pred.ent.datarobot.com
+[Alterations]     staging-blue-pred.ent.datarobot.com
+[Alterations]     bos-admin5.hq.datarobot.com
+[Alterations]     auth2.hq.datarobot.com
+[Alterations]     auth1.hq.datarobot.com
+[Alterations]     gamma-2.ent.datarobot.com
+[Alterations]     acs.orm.datarobot.com
+[Alterations]     kdc2.ent.datarobot.com
