@@ -1,0 +1,2201 @@
+[94m[*] Loaded configuration file from ~/.sniper.conf [[0m[92mOK[0m[94m][0m
+[94m[*] Saving loot to /usr/share/sniper/loot/ [[0m[92mOK[0m[94m][0m
+[94m[*] Saving loot to /usr/share/sniper/loot/workspace/hunters.ai [[0m[92mOK[0m[94m][0m
+[94m[*] Loaded configuration file from ~/.sniper.conf [[0m[92mOK[0m[94m][0m
+[94m[*] Saving loot to /usr/share/sniper/loot/workspace/hunters.ai [[0m[92mOK[0m[94m][0m
+[91m                ____               [0m
+[91m    _________  /  _/___  ___  _____[0m
+[91m   / ___/ __ \ / // __ \/ _ \/ ___/[0m
+[91m  (__  ) / / // // /_/ /  __/ /    [0m
+[91m /____/_/ /_/___/ .___/\___/_/     [0m
+[91m               /_/                 [0m
+[0m
+[93m + -- --=[https://xerosecurity.com
+[93m + -- --=[Sn1per v7.2 by @xer0dayz
+[91m 
+[91m     ./\.
+[91m   ./    '\.
+[91m   \.       '\.
+[91m     '\.       '\.
+[91m        '\.       '\.
+[91m           '\.       '\.
+[91m           ./           '\.
+[91m         ./            ____'\.
+[91m       ./                  <  '\.
+[91m       \-------\            '>   '\.
+[91m         '\=====>        ___<       '\.
+[91m        ./-----/             __________'\.
+[91m        \.------\       _____   ___(_)(_\."\
+[91m          '\=====>          <            ./'
+[91m         ./-----/            '>        ./
+[91m         \.               ___<       ./
+[91m           '\.                     ./
+[91m              '\.                ./
+[91m                 '\.           ./
+[91m                 ./          ./
+[91m               ./          ./  Carl Pilcher
+[91m             ./          ./
+[91m           ./          ./
+[91m         ./          ./
+[91m         \.        ./
+[91m           '\.   ./
+[91m              '\/
+[0m
+[93m + -- --=[Launching stealth scan: hunters.ai [0m
+[92m [0m
+[92m====================================================================================[0m
+[91m GATHERING WHOIS INFO [0m
+[92m====================================================================================[0m
+Domain Name: hunters.ai
+Registry Domain ID: 261943_nic_ai
+Registrar WHOIS Server: whois.nic.ai
+Updated Date: 2018-12-09T16:09:03.619Z
+Creation Date: 2017-12-16T02:37:23.84Z
+Registry Expiry Date: 2021-02-26T02:37:23.133Z
+Registrar Registration Expiration Date: 2021-02-26T02:37:23.133Z
+Registrar: 101domain
+Registrar Abuse Contact Email: domreg@101domain.com
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 621970_nic_ai
+Registrant Name: Private Registrant
+Registrant Organization: Digital Privacy Corporation
+Registrant Street: 3220 Executive Ridge Drive, Suite 101.
+Registrant Street: C/O HUNTERS.AI
+Registrant City: Vista
+Registrant State/Province: CA
+Registrant Postal Code: 92081
+Registrant Country: US
+Registrant Phone: +1.7604482392
+Registrant Email: 1fe9c3.RiUbg1s5R843@digitalprivacy.co
+Registry Admin ID: 621970_nic_ai
+Admin Name: Private Registrant
+Admin Organization: Digital Privacy Corporation
+Admin Street: 3220 Executive Ridge Drive, Suite 101.
+Admin Street: C/O HUNTERS.AI
+Admin City: Vista
+Admin State/Province: CA
+Admin Postal Code: 92081
+Admin Country: US
+Admin Phone: +1.7604482392
+Admin Email: 1fe9c3.RiUbg1s5R843@digitalprivacy.co
+Registry Tech ID: 621970_nic_ai
+Tech Name: Private Registrant
+Tech Organization: Digital Privacy Corporation
+Tech Street: 3220 Executive Ridge Drive, Suite 101.
+Tech Street: C/O HUNTERS.AI
+Tech City: Vista
+Tech State/Province: CA
+Tech Postal Code: 92081
+Tech Country: US
+Tech Phone: +1.7604482392
+Tech Email: 1fe9c3.RiUbg1s5R843@digitalprivacy.co
+Registry Billing ID: 621970_nic_ai
+Billing Name: Private Registrant
+Billing Organization: Digital Privacy Corporation
+Billing Street: 3220 Executive Ridge Drive, Suite 101.
+Billing Street: C/O HUNTERS.AI
+Billing City: Vista
+Billing State/Province: CA
+Billing Postal Code: 92081
+Billing Country: US
+Billing Phone: +1.7604482392
+Billing Email: 1fe9c3.RiUbg1s5R843@digitalprivacy.co
+Name Server: ns-90.awsdns-11.com
+Name Server: ns-532.awsdns-02.net
+Name Server: ns-1282.awsdns-32.org
+Name Server: ns-1859.awsdns-40.co.uk
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2019-09-25T08:30:32.697Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  THis WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CoCCA it's members (or CoCCA or member computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.
+[92m====================================================================================[0m
+[91m GATHERING DNS INFO [0m
+[92m====================================================================================[0m
+dnsenum VERSION:1.2.4
+[1;34m
+-----   hunters.ai   -----
+[0m[1;31m
+
+Host's addresses:
+__________________
+
+[0mhunters.ai.                              299      IN    A        185.56.75.150
+[1;31m
+
+Wildcard detection using: vkkogoxylrsw
+_______________________________________
+
+[0mvkkogoxylrsw.hunters.ai.                 299      IN    CNAME             (
+[1;31m
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+ Wildcards detected, all subdomains will point to the same IP address
+ Omitting results containing .
+ Maybe you are using OpenDNS servers.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[0m[1;31m
+
+Name Servers:
+______________
+
+[0mns-1282.awsdns-32.org.                   21599    IN    A        205.251.197.2
+ns-90.awsdns-11.com.                     21599    IN    A        205.251.192.90
+ns-532.awsdns-02.net.                    21031    IN    A        205.251.194.20
+ns-1859.awsdns-40.co.uk.                 21599    IN    A        205.251.199.67
+[1;31m
+
+Mail (MX) Servers:
+___________________
+
+[0maspmx.l.google.com.                      190      IN    A        74.125.204.27
+alt3.aspmx.l.google.com.                 292      IN    A        64.233.177.27
+alt4.aspmx.l.google.com.                 292      IN    A        74.125.192.27
+alt1.aspmx.l.google.com.                 292      IN    A        108.177.8.27
+alt2.aspmx.l.google.com.                 292      IN    A        173.194.192.27
+[1;31m
+
+Trying Zone Transfers and getting Bind Versions:
+_________________________________________________
+
+[0m
+Trying Zone Transfer for hunters.ai on ns-1282.awsdns-32.org ... 
+
+Trying Zone Transfer for hunters.ai on ns-90.awsdns-11.com ... 
+
+Trying Zone Transfer for hunters.ai on ns-532.awsdns-02.net ... 
+
+Trying Zone Transfer for hunters.ai on ns-1859.awsdns-40.co.uk ... 
+
+brute force file not specified, bay.
+[92m====================================================================================[0m
+[91m CHECKING FOR SUBDOMAIN HIJACKING [0m
+[92m====================================================================================[0m
+[92m====================================================================================[0m
+[91m GATHERING WHOIS INFO [0m
+[92m====================================================================================[0m
+Domain Name: hunters.ai
+Registry Domain ID: 261943_nic_ai
+Registrar WHOIS Server: whois.nic.ai
+Updated Date: 2018-12-09T16:09:03.619Z
+Creation Date: 2017-12-16T02:37:23.84Z
+Registry Expiry Date: 2021-02-26T02:37:23.133Z
+Registrar Registration Expiration Date: 2021-02-26T02:37:23.133Z
+Registrar: 101domain
+Registrar Abuse Contact Email: domreg@101domain.com
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 621970_nic_ai
+Registrant Name: Private Registrant
+Registrant Organization: Digital Privacy Corporation
+Registrant Street: 3220 Executive Ridge Drive, Suite 101.
+Registrant Street: C/O HUNTERS.AI
+Registrant City: Vista
+Registrant State/Province: CA
+Registrant Postal Code: 92081
+Registrant Country: US
+Registrant Phone: +1.7604482392
+Registrant Email: 1fe9c3.RiUbg1s5R843@digitalprivacy.co
+Registry Admin ID: 621970_nic_ai
+Admin Name: Private Registrant
+Admin Organization: Digital Privacy Corporation
+Admin Street: 3220 Executive Ridge Drive, Suite 101.
+Admin Street: C/O HUNTERS.AI
+Admin City: Vista
+Admin State/Province: CA
+Admin Postal Code: 92081
+Admin Country: US
+Admin Phone: +1.7604482392
+Admin Email: 1fe9c3.RiUbg1s5R843@digitalprivacy.co
+Registry Tech ID: 621970_nic_ai
+Tech Name: Private Registrant
+Tech Organization: Digital Privacy Corporation
+Tech Street: 3220 Executive Ridge Drive, Suite 101.
+Tech Street: C/O HUNTERS.AI
+Tech City: Vista
+Tech State/Province: CA
+Tech Postal Code: 92081
+Tech Country: US
+Tech Phone: +1.7604482392
+Tech Email: 1fe9c3.RiUbg1s5R843@digitalprivacy.co
+Registry Billing ID: 621970_nic_ai
+Billing Name: Private Registrant
+Billing Organization: Digital Privacy Corporation
+Billing Street: 3220 Executive Ridge Drive, Suite 101.
+Billing Street: C/O HUNTERS.AI
+Billing City: Vista
+Billing State/Province: CA
+Billing Postal Code: 92081
+Billing Country: US
+Billing Phone: +1.7604482392
+Billing Email: 1fe9c3.RiUbg1s5R843@digitalprivacy.co
+Name Server: ns-90.awsdns-11.com
+Name Server: ns-532.awsdns-02.net
+Name Server: ns-1282.awsdns-32.org
+Name Server: ns-1859.awsdns-40.co.uk
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2019-09-25T08:30:32.697Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  THis WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CoCCA it's members (or CoCCA or member computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.
+[92m====================================================================================[0m
+[91m GATHERING OSINT INFO [0m
+[92m====================================================================================[0m
+
+Warning: Pycurl is not compiled against Openssl. Wfuzz might not work correctly when fuzzing SSL sites. Check Wfuzz's documentation for more information.
+
+
+[92m*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester Ver. 3.0.6                                         *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************[94m
+
+
+found supported engines
+[-] Starting harvesting process for domain: hunters.ai
+
+Full harvest on hunters.ai
+[-] Searching in Google..
+	Searching 0 results...
+	Searching 100 results...
+[-] Searching in PGP Key server..
+	Searching PGP results...
+[-] Searching in Netcraft server..
+	Searching Netcraft results..
+[-] Searching in ThreatCrowd server..
+	Searching Threatcrowd results..
+[-] Searching in CRTSH server..
+		Searching https://crt.sh?id=1747708462
+		Searching https://crt.sh?id=1747707403
+		Searching https://crt.sh?id=1497738023
+		Searching https://crt.sh?id=1497736830
+		Searching https://crt.sh?id=1150695919
+		Searching https://crt.sh?id=1060889516
+		Searching https://crt.sh?id=1039246039
+	Searching CRT.sh results..
+[-] Searching in Virustotal server..
+	Searching Virustotal results..
+[-] Searching in Bing..
+	Searching 50 results...
+	Searching 100 results...
+[-] Searching in Hunter:
+You need an API key in order to use the Hunter search engine. You can get one here: https://hunter.io
+[92m====================================================================================[0m
+[91m COLLECTING OSINT FROM ONLINE DOCUMENTS [0m
+[92m====================================================================================[0m
+
+******************************************************
+*     /\/\   ___| |_ __ _  __ _  ___   ___  / _(_) | *
+*    /    \ / _ \ __/ _` |/ _` |/ _ \ / _ \| |_| | | *
+*   / /\/\ \  __/ || (_| | (_| | (_) | (_) |  _| | | *
+*   \/    \/\___|\__\__,_|\__, |\___/ \___/|_| |_|_| *
+*                         |___/                      *
+* Metagoofil Ver 2.2                                 *
+* Christian Martorella                               *
+* Edge-Security.com                                  *
+* cmartorella_at_edge-security.com                   *
+******************************************************	
+
+[-] Starting online search...
+
+[-] Searching for doc files, with a limit of 100
+	Searching 100 results...
+Results: 2 files found
+Starting to download 100 of them:
+----------------------------------------
+
+[1/100] /?sa=X
+	 [x] Error downloading /?sa=X
+[2/100] /advanced_search
+	 [x] Error downloading /advanced_search
+
+[-] Searching for pdf files, with a limit of 100
+	Searching 100 results...
+Results: 2 files found
+Starting to download 100 of them:
+----------------------------------------
+
+[1/100] /?sa=X
+	 [x] Error downloading /?sa=X
+[2/100] /advanced_search
+	 [x] Error downloading /advanced_search
+
+[-] Searching for xls files, with a limit of 100
+	Searching 100 results...
+Results: 2 files found
+Starting to download 100 of them:
+----------------------------------------
+
+[1/100] /?sa=X
+	 [x] Error downloading /?sa=X
+[2/100] /advanced_search
+	 [x] Error downloading /advanced_search
+
+[-] Searching for csv files, with a limit of 100
+	Searching 100 results...
+Results: 2 files found
+Starting to download 100 of them:
+----------------------------------------
+
+[1/100] /?sa=X
+	 [x] Error downloading /?sa=X
+[2/100] /advanced_search
+	 [x] Error downloading /advanced_search
+
+[-] Searching for txt files, with a limit of 100
+	Searching 100 results...
+Results: 2 files found
+Starting to download 100 of them:
+----------------------------------------
+
+[1/100] /?sa=X
+	 [x] Error downloading /?sa=X
+[2/100] /advanced_search
+	 [x] Error downloading /advanced_search
+processing
+user
+email
+
+[+] List of users found:
+--------------------------
+
+[+] List of software found:
+-----------------------------
+
+[+] List of paths and servers found:
+---------------------------------------
+
+[+] List of e-mails found:
+----------------------------
+[92m====================================================================================[0m
+[91m GATHERING DNS SUBDOMAINS VIA SUBLIST3R [0m
+[92m====================================================================================[0m
+[91m
+                 ____        _     _ _     _   _____
+                / ___| _   _| |__ | (_)___| |_|___ / _ __
+                \___ \| | | | '_ \| | / __| __| |_ \| '__|
+                 ___) | |_| | |_) | | \__ \ |_ ___) | |
+                |____/ \__,_|_.__/|_|_|___/\__|____/|_|[0m[93m
+
+                # Coded By Ahmed Aboul-Ela - @aboul3la
+    
+[94m[-] Enumerating subdomains now for hunters.ai[0m
+[93m[-] verbosity is enabled, will show the subdomains results in realtime[0m
+[92m[-] Searching now in Baidu..[0m
+[92m[-] Searching now in Yahoo..[0m
+[92m[-] Searching now in Google..[0m
+[92m[-] Searching now in Bing..[0m
+[92m[-] Searching now in Ask..[0m
+[92m[-] Searching now in Netcraft..[0m
+[92m[-] Searching now in DNSdumpster..[0m
+[92m[-] Searching now in Virustotal..[0m
+[92m[-] Searching now in ThreatCrowd..[0m
+[92m[-] Searching now in SSL Certificates..[0m
+[92m[-] Searching now in PassiveDNS..[0m
+[91mSSL Certificates: [0mlogin.hunters.ai
+[91mSSL Certificates: [0mmail.hunters.ai
+[91mSSL Certificates: [0mwww.hunters.ai
+[91mSSL Certificates: [0msyslogs.hunters.ai
+[91mSSL Certificates: [0mvpnserver.hunters.ai
+[91mSSL Certificates: [0mvpnclient.hunters.ai
+[91mSSL Certificates: [0mvpn-uswest2.hunters.ai
+[93m[-] Saving results to file: [0m[91m/usr/share/sniper/loot/workspace/hunters.ai/domains/domains-hunters.ai.txt[0m
+[93m[-] Total Unique Subdomains Found: 7[0m
+[92mwww.hunters.ai[0m
+[92mlogin.hunters.ai[0m
+[92mmail.hunters.ai[0m
+[92msyslogs.hunters.ai[0m
+[92mvpn-uswest2.hunters.ai[0m
+[92mvpnclient.hunters.ai[0m
+[92mvpnserver.hunters.ai[0m
+[92m====================================================================================[0m
+[91m GATHERING DNS SUBDOMAINS VIA AMASS [0m
+[92m====================================================================================[0m
+404 Not Found
+[92m====================================================================================[0m
+[91m GATHERING DNS SUBDOMAINS VIA SUBFINDER (THIS COULD TAKE A WHILE...) [0m
+[92m====================================================================================[0m
+===============================================
+[33;1;1m[36;6;2m-=Subfinder[0m v1.1.3 github.com/subfinder/subfinder
+===============================================
+
+
+Running Source: [33;1;1mAsk[0m
+Running Source: [33;1;1mArchive.is[0m
+Running Source: [33;1;1mBaidu[0m
+Running Source: [33;1;1mBing[0m
+Running Source: [33;1;1mCertDB[0m
+Running Source: [33;1;1mCertificateTransparency[0m
+Running Source: [33;1;1mCertspotter[0m
+Running Source: [33;1;1mCommoncrawl[0m
+Running Source: [33;1;1mCrt.sh[0m
+Running Source: [33;1;1mDnsdb[0m
+Running Source: [33;1;1mDNSDumpster[0m
+Running Source: [33;1;1mDNSTable[0m
+Running Source: [33;1;1mDogpile[0m
+Running Source: [33;1;1mExalead[0m
+Running Source: [33;1;1mFindsubdomains[0m
+Running Source: [33;1;1mGoogleter[0m
+Running Source: [33;1;1mHackertarget[0m
+Running Source: [33;1;1mIpv4Info[0m
+Running Source: [33;1;1mPTRArchive[0m
+Running Source: [33;1;1mSitedossier[0m
+Running Source: [33;1;1mThreatcrowd[0m
+Running Source: [33;1;1mThreatMiner[0m
+Running Source: [33;1;1mWaybackArchive[0m
+Running Source: [33;1;1mYahoo[0m
+
+Running enumeration on hunters.ai
+
+waybackarchive: parse http://web.archive.org/cdx/search/cdx?url=*.hunters.ai/*&output=json&fl=original&collapse=urlkey&page= : net/url: invalid control character in URL
+
+ipv4info: <nil>
+
+dnsdb: Unexpected return status 404
+
+
+Starting Bruteforcing of [33;1;1mhunters.ai[0m with [33;1;1m9985[0m words
+
+Total [33;1;1m12[0m Unique subdomains found for hunters.ai
+
+.hunters.ai
+api.hunters.ai
+app.hunters.ai
+login.hunters.ai
+mail.hunters.ai
+syslogs.hunters.ai
+uswest2.hunters.ai
+vpn-uswest2.hunters.ai
+vpnclient.hunters.ai
+vpnserver.hunters.ai
+www.hunters.ai
+www.hunters.ai
+
+[92m====================================================================================[0m
+[91m BRUTE FORCING DNS SUBDOMAINS VIA DNSCAN (THIS COULD TAKE A WHILE...) [0m
+[92m====================================================================================[0m
+[*] Processing domain hunters.ai
+[*] Using system resolvers ['8.8.4.4', '8.8.8.8', '1.1.1.1']
+[+] Getting nameservers
+205.251.197.2 - ns-1282.awsdns-32.org
+205.251.199.67 - ns-1859.awsdns-40.co.uk
+205.251.194.20 - ns-532.awsdns-02.net
+205.251.192.90 - ns-90.awsdns-11.com
+[-] Zone transfer failed
+
+[+] TXT records found
+"google-site-verification=AlW9LOMtzo-TyIC5B8H1TC24HuxI7Ck4yheVxRnL-f8"
+
+[+] MX records found, added to target list
+1 aspmx.l.google.com.
+10 alt3.aspmx.l.google.com.
+10 alt4.aspmx.l.google.com.
+5 alt1.aspmx.l.google.com.
+5 alt2.aspmx.l.google.com.
+
+[*] Scanning hunters.ai for A records
+185.56.75.150 - hunters.ai
+13.224.253.11 - app.hunters.ai
+13.224.253.75 - app.hunters.ai
+13.224.253.73 - app.hunters.ai
+13.224.253.109 - app.hunters.ai
+185.56.75.150 - www.hunters.ai
+                                        
+
+[91m ╔═╗╦═╗╔╦╗╔═╗╦ ╦[0m
+[91m ║  ╠╦╝ ║ ╚═╗╠═╣[0m
+[91m ╚═╝╩╚═ ╩o╚═╝╩ ╩[0m
+[92m====================================================================================[0m
+[91m GATHERING CERTIFICATE SUBDOMAINS [0m
+[92m====================================================================================[0m
+[94m
+*.hunters.ai
+login.hunters.ai
+mail.hunters.ai
+syslogs.hunters.ai
+vpnclient.hunters.ai
+vpnserver.hunters.ai
+vpn-uswest2.hunters.ai
+www.hunters.ai
+
+[91m[+] Domains saved to: /usr/share/sniper/loot/workspace/hunters.ai/domains/domains-hunters.ai-full.txt
+[92m====================================================================================[0m
+[91m GATHERING PROJECT SONAR SUBDOMAINS [0m
+[92m====================================================================================[0m
+www.hunters.ai
+[0m
+[92m====================================================================================[0m
+[91m CHECKING FOR EMAIL SECURITY [0m
+[92m====================================================================================[0m
+[+] hunters.ai has no SPF record!
+[*] No DMARC record found. Looking for organizational record
+[+] No organizational DMARC record
+[+] Spoofing possible for hunters.ai!
+
+[92m====================================================================================[0m
+[91m CHECKING FOR CNAME SUBDOMAIN HIJACKING [0m
+[92m====================================================================================[0m
+hunters.ai.		899	IN	SOA	ns-90.awsdns-11.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+hunters.ai.		899	IN	SOA	ns-90.awsdns-11.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+hunters.ai.		899	IN	SOA	ns-90.awsdns-11.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+hunters.ai.		899	IN	SOA	ns-90.awsdns-11.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+[92m====================================================================================[0m
+[91m STARTING SUBOVER HIJACKING SCAN [0m
+[92m====================================================================================[0m
+
+SubOver v.1.2              Nizamul Rana (@Ice3man)
+==================================================
+
+
+[~] Enjoy your hunt !
+[92m====================================================================================[0m
+[91m STARTING SUBJACK HIJACKING SCAN [0m
+[92m====================================================================================[0m
+[92m====================================================================================[0m
+[91m STARTING PUBLIC S3 BUCKET SCAN [0m
+[92m====================================================================================[0m
+[92m====================================================================================[0m
+[91m STARTING SUBNET RETRIEVAL [0m
+[92m====================================================================================[0m
+185.56.72.0/22
+195.238.120.0/24
+
+
+[92m====================================================================================[0m
+[91m RUNNING TCP PORT SCAN [0m
+[92m====================================================================================[0m
+Starting Nmap 7.80 ( https://nmap.org ) at 2019-09-25 15:39 +07
+Nmap scan report for hunters.ai (185.56.75.150)
+Host is up (0.33s latency).
+rDNS record for 185.56.75.150: israel105.jetserver.net
+Not shown: 1 filtered port
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT      STATE SERVICE
+1/tcp     open  tcpmux
+7/tcp     open  echo
+9/tcp     open  discard
+13/tcp    open  daytime
+19/tcp    open  chargen
+21/tcp    open  ftp
+22/tcp    open  ssh
+23/tcp    open  telnet
+37/tcp    open  time
+42/tcp    open  nameserver
+49/tcp    open  tacacs
+53/tcp    open  domain
+67/tcp    open  dhcps
+68/tcp    open  dhcpc
+69/tcp    open  tftp
+79/tcp    open  finger
+80/tcp    open  http
+81/tcp    open  hosts2-ns
+85/tcp    open  mit-ml-dev
+88/tcp    open  kerberos-sec
+105/tcp   open  csnet-ns
+109/tcp   open  pop2
+110/tcp   open  pop3
+111/tcp   open  rpcbind
+113/tcp   open  ident
+123/tcp   open  ntp
+135/tcp   open  msrpc
+137/tcp   open  netbios-ns
+138/tcp   open  netbios-dgm
+139/tcp   open  netbios-ssn
+143/tcp   open  imap
+161/tcp   open  snmp
+162/tcp   open  snmptrap
+179/tcp   open  bgp
+222/tcp   open  rsh-spx
+264/tcp   open  bgmp
+384/tcp   open  arns
+389/tcp   open  ldap
+402/tcp   open  genie
+407/tcp   open  timbuktu
+443/tcp   open  https
+444/tcp   open  snpp
+445/tcp   open  microsoft-ds
+446/tcp   open  ddm-rdb
+465/tcp   open  smtps
+500/tcp   open  isakmp
+502/tcp   open  mbap
+512/tcp   open  exec
+513/tcp   open  login
+514/tcp   open  shell
+515/tcp   open  printer
+523/tcp   open  ibm-db2
+524/tcp   open  ncp
+540/tcp   open  uucp
+548/tcp   open  afp
+554/tcp   open  rtsp
+587/tcp   open  submission
+617/tcp   open  sco-dtmgr
+623/tcp   open  oob-ws-http
+631/tcp   open  ipp
+655/tcp   open  tinc
+689/tcp   open  nmap
+705/tcp   open  agentx
+771/tcp   open  rtip
+783/tcp   open  spamassassin
+831/tcp   open  netconf-beep
+873/tcp   open  rsync
+888/tcp   open  accessbuilder
+902/tcp   open  iss-realsecure
+910/tcp   open  kink
+912/tcp   open  apex-mesh
+921/tcp   open  unknown
+993/tcp   open  imaps
+995/tcp   open  pop3s
+998/tcp   open  busboy
+999/tcp   open  garcon
+1000/tcp  open  cadlock
+1024/tcp  open  kdm
+1030/tcp  open  iad1
+1035/tcp  open  multidropper
+1090/tcp  open  ff-fms
+1098/tcp  open  rmiactivation
+1099/tcp  open  rmiregistry
+1100/tcp  open  mctp
+1101/tcp  open  pt2-discover
+1102/tcp  open  adobeserver-1
+1103/tcp  open  xaudio
+1128/tcp  open  saphostctrl
+1129/tcp  open  saphostctrls
+1158/tcp  open  lsnr
+1199/tcp  open  dmidi
+1211/tcp  open  groove-dpp
+1220/tcp  open  quicktime
+1234/tcp  open  hotline
+1241/tcp  open  nessus
+1300/tcp  open  h323hostcallsc
+1311/tcp  open  rxmon
+1352/tcp  open  lotusnotes
+1433/tcp  open  ms-sql-s
+1434/tcp  open  ms-sql-m
+1435/tcp  open  ibm-cics
+1440/tcp  open  eicon-slp
+1471/tcp  open  csdmbase
+1494/tcp  open  citrix-ica
+1521/tcp  open  oracle
+1530/tcp  open  rap-service
+1533/tcp  open  virtual-places
+1581/tcp  open  mil-2045-47001
+1582/tcp  open  msims
+1604/tcp  open  icabrowser
+1720/tcp  open  h323q931
+1723/tcp  open  pptp
+1755/tcp  open  wms
+1811/tcp  open  scientia-sdb
+1900/tcp  open  upnp
+2000/tcp  open  cisco-sccp
+2001/tcp  open  dc
+2049/tcp  open  nfs
+2067/tcp  open  dlswpn
+2100/tcp  open  amiganetfs
+2103/tcp  open  zephyr-clt
+2121/tcp  open  ccproxy-ftp
+2199/tcp  open  onehome-help
+2207/tcp  open  hpssd
+2222/tcp  open  EtherNetIP-1
+2323/tcp  open  3d-nfsd
+2362/tcp  open  digiman
+2380/tcp  open  etcd-server
+2381/tcp  open  compaq-https
+2525/tcp  open  ms-v-worlds
+2533/tcp  open  snifferserver
+2598/tcp  open  citriximaclient
+2638/tcp  open  sybase
+2780/tcp  open  lbc-control
+2809/tcp  open  corbaloc
+2947/tcp  open  gpsd
+2967/tcp  open  symantec-av
+3000/tcp  open  ppp
+3037/tcp  open  hp-san-mgmt
+3050/tcp  open  gds_db
+3057/tcp  open  goahead-fldup
+3128/tcp  open  squid-http
+3200/tcp  open  tick-port
+3217/tcp  open  unite
+3273/tcp  open  sxmp
+3299/tcp  open  saprouter
+3306/tcp  open  mysql
+3310/tcp  open  dyna-access
+3333/tcp  open  dec-notes
+3389/tcp  open  ms-wbt-server
+3460/tcp  open  edm-manager
+3465/tcp  open  edm-mgr-cntrl
+3500/tcp  open  rtmp-port
+3628/tcp  open  ept-machine
+3632/tcp  open  distccd
+3690/tcp  open  svn
+3780/tcp  open  nnp
+3790/tcp  open  quickbooksrds
+3817/tcp  open  tapeware
+3900/tcp  open  udt_os
+4000/tcp  open  remoteanything
+4322/tcp  open  trim-event
+4433/tcp  open  vop
+4444/tcp  open  krb524
+4445/tcp  open  upnotifyp
+4659/tcp  open  playsta2-lob
+4672/tcp  open  rfa
+4679/tcp  open  mgesupervision
+4800/tcp  open  iims
+4848/tcp  open  appserv-http
+5000/tcp  open  upnp
+5009/tcp  open  airport-admin
+5038/tcp  open  unknown
+5040/tcp  open  unknown
+5051/tcp  open  ida-agent
+5060/tcp  open  sip
+5061/tcp  open  sip-tls
+5093/tcp  open  sentinel-lm
+5168/tcp  open  scte30
+5227/tcp  open  perfd
+5247/tcp  open  capwap-data
+5250/tcp  open  soagateway
+5351/tcp  open  nat-pmp
+5353/tcp  open  mdns
+5355/tcp  open  llmnr
+5400/tcp  open  pcduo-old
+5405/tcp  open  pcduo
+5432/tcp  open  postgresql
+5433/tcp  open  pyrrho
+5466/tcp  open  unknown
+5498/tcp  open  unknown
+5520/tcp  open  sdlog
+5521/tcp  open  unknown
+5554/tcp  open  sgi-esphttp
+5555/tcp  open  freeciv
+5560/tcp  open  isqlplus
+5580/tcp  open  tmosms0
+5631/tcp  open  pcanywheredata
+5632/tcp  open  pcanywherestat
+5666/tcp  open  nrpe
+5800/tcp  open  vnc-http
+5814/tcp  open  spt-automation
+5900/tcp  open  vnc
+5901/tcp  open  vnc-1
+5902/tcp  open  vnc-2
+5903/tcp  open  vnc-3
+5904/tcp  open  unknown
+5905/tcp  open  unknown
+5906/tcp  open  unknown
+5907/tcp  open  unknown
+5908/tcp  open  unknown
+5909/tcp  open  unknown
+5910/tcp  open  cm
+5920/tcp  open  unknown
+5984/tcp  open  couchdb
+5985/tcp  open  wsman
+5986/tcp  open  wsmans
+5999/tcp  open  ncd-conf
+6000/tcp  open  X11
+6050/tcp  open  arcserve
+6060/tcp  open  x11
+6070/tcp  open  messageasap
+6080/tcp  open  gue
+6082/tcp  open  p25cai
+6093/tcp  open  unknown
+6095/tcp  open  unknown
+6101/tcp  open  backupexec
+6106/tcp  open  isdninfo
+6112/tcp  open  dtspc
+6161/tcp  open  patrol-ism
+6262/tcp  open  unknown
+6379/tcp  open  redis
+6405/tcp  open  boe-pagesvr
+6502/tcp  open  netop-rc
+6503/tcp  open  boks_clntd
+6504/tcp  open  unknown
+6542/tcp  open  unknown
+6660/tcp  open  unknown
+6661/tcp  open  unknown
+6667/tcp  open  irc
+6789/tcp  open  ibm-db2-admin
+6905/tcp  open  unknown
+6988/tcp  open  unknown
+6996/tcp  open  unknown
+7000/tcp  open  afs3-fileserver
+7001/tcp  open  afs3-callback
+7021/tcp  open  dpserveadmin
+7071/tcp  open  iwg1
+7080/tcp  open  empowerid
+7144/tcp  open  unknown
+7181/tcp  open  janus-disc
+7210/tcp  open  unknown
+7272/tcp  open  watchme-7272
+7414/tcp  open  unknown
+7426/tcp  open  pmdmgr
+7443/tcp  open  oracleas-https
+7510/tcp  open  ovhpas
+7547/tcp  open  cwmp
+7579/tcp  open  unknown
+7580/tcp  open  unknown
+7700/tcp  open  em7-secom
+7770/tcp  open  unknown
+7777/tcp  open  cbt
+7778/tcp  open  interwise
+7787/tcp  open  popup-reminders
+7800/tcp  open  asr
+7801/tcp  open  ssp-client
+7878/tcp  open  owms
+7879/tcp  open  unknown
+7890/tcp  open  unknown
+7902/tcp  open  tnos-dp
+8000/tcp  open  http-alt
+8001/tcp  open  vcom-tunnel
+8008/tcp  open  http
+8009/tcp  open  ajp13
+8014/tcp  open  unknown
+8020/tcp  open  intu-ec-svcdisc
+8023/tcp  open  arca-api
+8028/tcp  open  unknown
+8030/tcp  open  unknown
+8050/tcp  open  unknown
+8051/tcp  open  rocrail
+8080/tcp  open  http-proxy
+8081/tcp  open  blackice-icecap
+8082/tcp  open  blackice-alerts
+8085/tcp  open  unknown
+8086/tcp  open  d-s-n
+8087/tcp  open  simplifymedia
+8088/tcp  open  radan-http
+8090/tcp  open  opsmessaging
+8091/tcp  open  jamlink
+8095/tcp  open  unknown
+8101/tcp  open  ldoms-migr
+8161/tcp  open  patrol-snmp
+8180/tcp  open  unknown
+8205/tcp  open  lm-instmgr
+8222/tcp  open  unknown
+8300/tcp  open  tmi
+8303/tcp  open  unknown
+8333/tcp  open  bitcoin
+8400/tcp  open  cvd
+8443/tcp  open  https-alt
+8444/tcp  open  pcsync-http
+8445/tcp  open  copy
+8503/tcp  open  lsp-self-ping
+8642/tcp  open  unknown
+8686/tcp  open  sun-as-jmxrmi
+8701/tcp  open  unknown
+8787/tcp  open  msgsrvr
+8800/tcp  open  sunwebadmin
+8812/tcp  open  unknown
+8834/tcp  open  nessus-xmlrpc
+8880/tcp  open  cddbp-alt
+8888/tcp  open  sun-answerbook
+8889/tcp  open  ddi-tcp-2
+8890/tcp  open  ddi-tcp-3
+8899/tcp  open  ospf-lite
+8901/tcp  open  jmb-cds2
+8902/tcp  open  unknown
+8903/tcp  open  unknown
+8980/tcp  open  nod-provider
+8983/tcp  open  unknown
+8999/tcp  open  bctp
+9000/tcp  open  cslistener
+9001/tcp  open  tor-orport
+9002/tcp  open  dynamid
+9003/tcp  open  unknown
+9004/tcp  open  unknown
+9005/tcp  open  golem
+9010/tcp  open  sdr
+9050/tcp  open  tor-socks
+9080/tcp  open  glrpc
+9081/tcp  open  cisco-aqos
+9084/tcp  open  aurora
+9090/tcp  open  zeus-admin
+9099/tcp  open  unknown
+9100/tcp  open  jetdirect
+9111/tcp  open  DragonIDSConsole
+9152/tcp  open  ms-sql2000
+9200/tcp  open  wap-wsp
+9256/tcp  open  unknown
+9300/tcp  open  vrace
+9390/tcp  open  otp
+9391/tcp  open  unknown
+9495/tcp  open  unknown
+9500/tcp  open  ismserver
+9711/tcp  open  unknown
+9788/tcp  open  unknown
+9809/tcp  open  unknown
+9810/tcp  open  unknown
+9811/tcp  open  unknown
+9812/tcp  open  unknown
+9813/tcp  open  unknown
+9814/tcp  open  unknown
+9815/tcp  open  unknown
+9855/tcp  open  unknown
+9875/tcp  open  sapv1
+9876/tcp  open  sd
+9910/tcp  open  unknown
+9991/tcp  open  issa
+9999/tcp  open  abyss
+10000/tcp open  snet-sensor-mgmt
+10001/tcp open  scp-config
+10008/tcp open  octopus
+10050/tcp open  zabbix-agent
+10051/tcp open  zabbix-trapper
+10080/tcp open  amanda
+10098/tcp open  unknown
+10099/tcp open  unknown
+10162/tcp open  snmptls-trap
+10202/tcp open  unknown
+10203/tcp open  unknown
+10443/tcp open  unknown
+10616/tcp open  unknown
+10628/tcp open  unknown
+11000/tcp open  irisa
+11001/tcp open  metasys
+11099/tcp open  unknown
+11211/tcp open  memcache
+11234/tcp open  unknown
+11333/tcp open  unknown
+11460/tcp open  unknown
+12000/tcp open  cce4x
+12174/tcp open  unknown
+12203/tcp open  unknown
+12221/tcp open  unknown
+12345/tcp open  netbus
+12397/tcp open  unknown
+12401/tcp open  unknown
+13013/tcp open  unknown
+13364/tcp open  unknown
+13500/tcp open  unknown
+13838/tcp open  unknown
+14000/tcp open  scotty-ft
+14330/tcp open  unknown
+15000/tcp open  hydap
+15001/tcp open  unknown
+15200/tcp open  unknown
+16000/tcp open  fmsas
+16102/tcp open  unknown
+16992/tcp open  amt-soap-http
+17185/tcp open  soundsvirtual
+17200/tcp open  unknown
+18881/tcp open  infotos
+18980/tcp open  unknown
+19300/tcp open  unknown
+19810/tcp open  unknown
+20000/tcp open  dnp
+20010/tcp open  unknown
+20031/tcp open  unknown
+20034/tcp open  nburn_id
+20101/tcp open  unknown
+20111/tcp open  unknown
+20171/tcp open  unknown
+20222/tcp open  ipulse-ics
+22222/tcp open  easyengine
+23423/tcp open  unknown
+23472/tcp open  unknown
+23791/tcp open  unknown
+23943/tcp open  unknown
+25000/tcp open  icl-twobase1
+25025/tcp open  unknown
+26000/tcp open  quake
+26122/tcp open  unknown
+26256/tcp open  unknown
+27000/tcp open  flexlm0
+27015/tcp open  unknown
+27017/tcp open  mongod
+27888/tcp open  unknown
+27960/tcp open  unknown
+28222/tcp open  unknown
+28784/tcp open  unknown
+30000/tcp open  ndmps
+30718/tcp open  unknown
+31001/tcp open  unknown
+31099/tcp open  unknown
+32022/tcp open  unknown
+32764/tcp open  unknown
+32913/tcp open  unknown
+33000/tcp open  unknown
+34205/tcp open  unknown
+34443/tcp open  unknown
+37718/tcp open  unknown
+37777/tcp open  unknown
+38080/tcp open  unknown
+38292/tcp open  landesk-cba
+40007/tcp open  unknown
+41025/tcp open  unknown
+41080/tcp open  unknown
+41523/tcp open  unknown
+41524/tcp open  unknown
+44334/tcp open  tinyfw
+44818/tcp open  EtherNetIP-2
+45230/tcp open  unknown
+46823/tcp open  unknown
+46824/tcp open  unknown
+47001/tcp open  winrm
+47002/tcp open  unknown
+48080/tcp open  unknown
+48899/tcp open  unknown
+49152/tcp open  unknown
+49180/tcp open  unknown
+50000/tcp open  ibm-db2
+50001/tcp open  unknown
+50002/tcp open  iiimsf
+50003/tcp open  unknown
+50004/tcp open  unknown
+50013/tcp open  unknown
+50050/tcp open  unknown
+50500/tcp open  unknown
+50501/tcp open  unknown
+50502/tcp open  unknown
+50503/tcp open  unknown
+50504/tcp open  unknown
+52302/tcp open  unknown
+52869/tcp open  unknown
+53413/tcp open  unknown
+55553/tcp open  unknown
+57772/tcp open  unknown
+62078/tcp open  iphone-sync
+62514/tcp open  unknown
+65535/tcp open  unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 2.65 seconds
+[93m + -- --=[Port 80 opened... running tests...[0m
+[92m====================================================================================[0m
+[91m CHECKING FOR WAF [0m
+[92m====================================================================================[0m
+
+                 [1;97m______
+                [1;97m/      \
+               [1;97m(  Woof! )
+                [1;97m\______/                      [1;91m)
+                [1;97m,,                           [1;91m) ([1;93m_
+           [1;93m.-. [1;97m-    [1;92m_______                 [1;91m( [1;93m|__|
+          [1;93m()``; [1;92m|==|_______)                [1;91m.)[1;93m|__|
+          [1;93m/ ('        [1;92m/|\                  [1;91m(  [1;93m|__|
+      [1;93m(  /  )       [1;92m / | \                  [1;91m. [1;93m|__|
+       [1;93m\(_)_))      [1;92m/  |  \                   [1;93m|__|[0m
+
+    WAFW00F - Web Application Firewall Detection Tool
+    
+
+Checking http://hunters.ai
+Generic Detection results:
+The site http://hunters.ai seems to be behind a WAF or some sort of security solution
+Reason: The server returned a different response code when a string trigged the blacklist.
+Normal response code is "301", while the response code to an attack is "403"
+Number of requests: 7
+[92m====================================================================================[0m
+[91m GATHERING HTTP INFO [0m
+[92m====================================================================================[0m
+[1m[34mhttp://hunters.ai[0m [403 Forbidden] [1m[37mHTML5[0m, [1m[37mHTTPServer[0m[[1m[36mLiteSpeed[0m], [1m[37mIP[0m[[37m185.56.75.150[0m], [1m[37mLiteSpeed[0m, [1m[37mTitle[0m[[1m[33m403 Forbidden[0m][[1m[31mTitle element contains newline(s)![0m]
+[92m====================================================================================[0m
+[91m CHECKING HTTP HEADERS AND METHODS [0m
+[92m====================================================================================[0m
+HTTP/1.1 301 Moved Permanently
+Connection: Keep-Alive
+X-Powered-By: PHP/7.0.33
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://hunters.ai/
+Date: Wed, 25 Sep 2019 08:39:46 GMT
+Server: LiteSpeed
+
+[92m====================================================================================[0m
+[91m GATHERING WEB FINGERPRINT [0m
+[92m====================================================================================[0m
+ WordPress 
+ LiteSpeed 
+ jQuery Migrate 
+ WordPress 5.2.3
+ Elementor 2.6.8
+ PHP 7.0.33
+ Elementor 
+ jQuery 1.12.4
+ Google QUIC 
+ Google Font API 
+[92m====================================================================================[0m
+[91m DISPLAYING META GENERATOR TAGS [0m
+[92m====================================================================================[0m
+WordPress 5.2.3
+[92m====================================================================================[0m
+[91m DISPLAYING COMMENTS [0m
+[92m====================================================================================[0m
+<!-- This site is optimized with the Yoast SEO plugin v11.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- / Yoast SEO plugin. -->
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.8.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<!-- / Google Analytics by MonsterInsights -->
+<!--[if IE]>
+			</header><!-- .entry-header -->
+	</div><!-- .entry-content .clear -->
+</article><!-- #post-## -->
+			</main><!-- #main -->
+	</div><!-- #primary -->
+			</div> <!-- ast-container -->
+		</div><!-- #content -->
+	</div><!-- #page -->
+<!-- Page supported by LiteSpeed Cache 2.9.8.5 on 2019-09-25 11:39:51 -->
+[92m====================================================================================[0m
+[91m DISPLAYING SITE LINKS [0m
+[92m====================================================================================[0m
+/
+https://hunters.ai
+https://hunters.ai/company/
+https://hunters.ai/wp-content/uploads/group-24.png
+https://hunters.ai/wp-content/uploads/group-30.png
+https://hunters.ai/wp-content/uploads/group-31.png
+https://meetings.hubspot.com/hunters/introduction-call
+https://s3-us-west-2.amazonaws.com/hunters.ai/documents/Hunters+-+Privacy+policy.pdf
+https://s3-us-west-2.amazonaws.com/hunters.ai/documents/Hunters+-+Terms+of+use.pdf
+https://schema.org/CreativeWork
+https://share.hsforms.com/1sh2Bnfy0R2agNoXDPlrBQw3fklm
+https://twitter.com/hunters_ai
+https://www.facebook.com/hunters.ai.cyber/
+https://www.linkedin.com/company/hunters-ai
+text/css
+text/javascript
+[92m====================================================================================[0m
+[91m RUNNING PASSIVE WEB SPIDER [0m
+[92m====================================================================================[0m
+null
+[92m====================================================================================[0m
+[91m FETCHING WAYBACK MACHINE URLS [0m
+[92m====================================================================================[0m
+http://hunters.ai:80/
+https://hunters.ai/sdk.js
+https://hunters.ai/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.5.9
+https://hunters.ai/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.5.9
+https://hunters.ai/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+https://hunters.ai/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.5.9
+https://hunters.ai/wp-content/plugins/elementor/assets/css/%22data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox='0%200%20120%20120'%20xmlns='http:/www.w3.org/2000/svg'%20xmlns:xlink='http:/www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cpath%20id='a'%20stroke='%236c6c6c'%20stroke-width='11'%20stroke-linecap='round'%20d='M60%207v20'/%3E%3C/defs%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'/%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'%20transform='rotate(30%2060%2060
+https://hunters.ai/wp-content/plugins/elementor/assets/css/%22data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox='0%200%20120%20120'%20xmlns='http:/www.w3.org/2000/svg'%20xmlns:xlink='http:/www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cpath%20id='a'%20stroke='%23fff'%20stroke-width='11'%20stroke-linecap='round'%20d='M60%207v20'/%3E%3C/defs%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'/%3E%3Cuse%20xlink:href='%23a'%20opacity='.27'%20transform='rotate(30%2060%2060
+https://hunters.ai/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.5.16
+https://hunters.ai/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.5.16
+https://hunters.ai/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.5.16
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.5.16
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.1
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=4.3.0
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?4.3.0
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?4.3.0
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?4.3.0
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?4.3.0
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?4.3.0
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=4.4.6
+https://hunters.ai/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+https://hunters.ai/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.7.1
+https://hunters.ai/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=1.8.4
+https://hunters.ai/wp-content/themes/astra/assets/css/minified/style.min.css?ver=1.8.4
+https://hunters.ai/wp-content/themes/astra/assets/fonts/astra.svg
+https://hunters.ai/wp-content/themes/astra/assets/fonts/astra.ttf
+https://hunters.ai/wp-content/themes/astra/assets/fonts/astra.woff
+https://hunters.ai/wp-content/themes/astra/assets/js/minified/style.min.js?ver=1.8.4
+https://hunters.ai/wp-content/themes/incubator-child/style.css?ver=1.0.0
+https://hunters.ai/wp-content/uploads/Actionable-Threat-Report-300x222.png
+https://hunters.ai/wp-content/uploads/Actionable-Threat-Report.png
+https://hunters.ai/wp-content/uploads/Aileron-Bold.otf
+https://hunters.ai/wp-content/uploads/Application.svg
+https://hunters.ai/wp-content/uploads/ArrowsDesktop-121x300.png
+https://hunters.ai/wp-content/uploads/ArrowsDesktop.png
+https://hunters.ai/wp-content/uploads/ArrowsMobile1-300x181.png
+https://hunters.ai/wp-content/uploads/ArrowsMobile1.png
+https://hunters.ai/wp-content/uploads/astra-addon/astra-addon-5cf279ff594b64-49758035.css?ver=1.8.2
+https://hunters.ai/wp-content/uploads/astra-addon/astra-addon-5cf279ff599a52-44599799.js?ver=1.8.2
+https://hunters.ai/wp-content/uploads/Autonomous-Hunting-technology.svg
+https://hunters.ai/wp-content/uploads/Cloud.svg
+https://hunters.ai/wp-content/uploads/elementor/css/global.css?ver=1559647375
+https://hunters.ai/wp-content/uploads/elementor/css/post-24.css?ver=1561387713
+https://hunters.ai/wp-content/uploads/elementor/css/post-283.css?ver=1559647375
+https://hunters.ai/wp-content/uploads/elementor/css/post-43.css?ver=1559647375
+https://hunters.ai/wp-content/uploads/elementor/css/post-6.css?ver=1561460849
+https://hunters.ai/wp-content/uploads/Endpoint.svg
+https://hunters.ai/wp-content/uploads/favicon-32x32.png
+https://hunters.ai/wp-content/uploads/FontsFree-Net-Proxima-Nova-Bold.otf
+https://hunters.ai/wp-content/uploads/FontsFree-Net-proxima_nova_reg-webfont.ttf
+https://hunters.ai/wp-content/uploads/group-24.png
+https://hunters.ai/wp-content/uploads/group-27@2x-300x49.png
+https://hunters.ai/wp-content/uploads/group-27@2x.png
+https://hunters.ai/wp-content/uploads/group-30.png
+https://hunters.ai/wp-content/uploads/group-31.png
+https://hunters.ai/wp-content/uploads/HP-HeroBottom2-1024x937.jpg
+https://hunters.ai/wp-content/uploads/HP-HeroBottom2-300x274.jpg
+https://hunters.ai/wp-content/uploads/HP-HeroBottom2-768x702.jpg
+https://hunters.ai/wp-content/uploads/HP-HeroBottom2.jpg
+https://hunters.ai/wp-content/uploads/Hunting-Experts.svg
+https://hunters.ai/wp-content/uploads/Identity.svg
+https://hunters.ai/wp-content/uploads/Logo.png
+https://hunters.ai/wp-content/uploads/Logo2x.png
+https://hunters.ai/wp-content/uploads/MainHero2-1024x959.jpg
+https://hunters.ai/wp-content/uploads/MainHero2-300x281.jpg
+https://hunters.ai/wp-content/uploads/MainHero2-768x719.jpg
+https://hunters.ai/wp-content/uploads/MainHero2.jpg
+https://hunters.ai/wp-content/uploads/mario-pic@2x-150x150.png
+https://hunters.ai/wp-content/uploads/mario-pic@2x-300x298.png
+https://hunters.ai/wp-content/uploads/mario-pic@2x.png
+https://hunters.ai/wp-content/uploads/menu-icon.png
+https://hunters.ai/wp-content/uploads/Network.svg
+https://hunters.ai/wp-content/uploads/rectangle-continue-mobile.jpg
+https://hunters.ai/wp-content/uploads/Siem.svg
+https://hunters.ai/wp-content/uploads/yg.png
+https://hunters.ai/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2
+https://hunters.ai/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+https://hunters.ai/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+https://hunters.ai/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4
+https://hunters.ai/wp-includes/js/wp-embed.min.js?ver=5.2.2
+[92m====================================================================================[0m
+[91m RUNNING ACTIVE WEB SPIDER [0m
+[92m====================================================================================[0m
+[91m
+[91m
+[91m                _.._
+[91m              .'    '.
+[91m             /   __   \ 
+[91m          ,  |   ><   |  ,
+[91m         . \  \      /  / .
+[91m          \_'--`(  )'--'_/
+[91m            .--'/()'--.
+[91m     1N3   /  /` '' `\  \ 
+[91m             |        |
+[91m              \      /
+[91m
+[0m
+[93m + -- --=[https://crowdshield.com[0m
+[93m + -- --=[blackwidow v1.0[0m
+[0m
+
+[92m==================================================================================================[0m
+[92mhttp://hunters.ai:80
+[92m==================================================================================================[0m
+[96m[i] External link found! http://www.litespeedtech.com/error-page [0m
+[92m__________________________________________________________________________________________________[0m
+[91m
+[91m
+[91m                _.._
+[91m              .'    '.
+[91m             /   __   \ 
+[91m          ,  |   ><   |  ,
+[91m         . \  \      /  / .
+[91m          \_'--`(  )'--'_/
+[91m            .--'/()'--.
+[91m     1N3   /  /` '' `\  \ 
+[91m             |        |
+[91m              \      /
+[91m
+[0m
+[93m + -- --=[https://crowdshield.com[0m
+[93m + -- --=[blackwidow v1.0[0m
+[0m
+[92m[+] URL's Discovered: 
+/usr/share/blackwidow/hunters.ai_80/hunters.ai_80-urls-sorted.txt[0m
+[92m__________________________________________________________________________________________________[0m
+[0m
+[92m[+] Dynamic URL's Discovered: 
+/usr/share/blackwidow/hunters.ai_80/hunters.ai_80-dynamic-sorted.txt[0m
+[92m__________________________________________________________________________________________________[0m
+[0m
+[92m[+] Form URL's Discovered: 
+/usr/share/blackwidow/hunters.ai_80/hunters.ai_80-forms-sorted.txt[0m
+[92m__________________________________________________________________________________________________[0m
+[0m
+[92m[+] Unique Dynamic Parameters Discovered: 
+/usr/share/blackwidow/hunters.ai_80/hunters.ai_80-dynamic-unique.txt[0m
+[92m__________________________________________________________________________________________________[0m
+[0m
+[92m[+] Sub-domains Discovered: 
+/usr/share/blackwidow/hunters.ai_80/hunters.ai_80-subdomains-sorted.txt[0m
+[92m__________________________________________________________________________________________________[0m
+[0m
+[92m[+] Emails Discovered: 
+/usr/share/blackwidow/hunters.ai_80/hunters.ai_80-emails-sorted.txt[0m
+[92m__________________________________________________________________________________________________[0m
+[0m
+[92m[+] Phones Discovered: 
+/usr/share/blackwidow/hunters.ai_80/hunters.ai_80-phones-sorted.txt[0m
+[92m__________________________________________________________________________________________________[0m
+[0m
+[91m[+] Loot Saved To: 
+/usr/share/blackwidow/hunters.ai_80/[0m
+[91m__________________________________________________________________________________________________[0m
+[0m
+[95m HACK THE PLANET!!!!!
+**************************************************************************************************
+If you haven't already, please donate to this project using the addresses below.
+This will help fascilitate improved features and ongoing support.
+
+[+] BTC 1Fav36btfmdrYpCAR65XjKHhxuJJwFyKum
+[+] ETH 0x20bB09273702eaBDFbEE9809473Fd04b969a794d
+[+] LTC LQ6mPewec3xeLBYMdRP4yzeta6b9urqs2f
+[+] XMR 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbS3EN24xprAQ1Z5Sy5s
+[+] ZCASH t1fsizsk2cqqJAjRoUmXJSyoVa9utYucXt7
+
+1N3@CrowdShield
+https://crowdshield.com
+[95m**************************************************************************************************[0m
+[92m====================================================================================[0m
+[91m RUNNING FILE/DIRECTORY BRUTE FORCE [0m
+[92m====================================================================================[0m
+200    67B   http://hunters.ai:80/robots.txt
+200    83KB  http://hunters.ai:80/home
+200    83KB  http://hunters.ai:80/index.php
+200    20KB  http://hunters.ai:80/admin
+200    67B   http://hunters.ai:80/robots.txt
+200    83KB  http://hunters.ai:80/home
+200    83KB  http://hunters.ai:80/index.php
+200    20KB  http://hunters.ai:80/admin
+[92m====================================================================================[0m
+[91m SAVING SCREENSHOTS [0m
+[92m====================================================================================[0m
+webscreenshot.py version 2.2.1
+
+[+] 1 URLs to be screenshot
+[ERROR][http://hunters.ai:80] Shell command PID 9855 returned an abnormal error code: '1'
+[ERROR][http://hunters.ai:80] Screenshot somehow failed
+
+[+] 0 actual URLs screenshot
+[+] 1 error(s)
+    http://hunters.ai:80
+[93m + -- --=[Port 443 opened... running tests...[0m
+[92m====================================================================================[0m
+[91m CHECKING FOR WAF [0m
+[92m====================================================================================[0m
+
+                 [1;97m______
+                [1;97m/      \
+               [1;97m(  Woof! )
+                [1;97m\______/                      [1;91m)
+                [1;97m,,                           [1;91m) ([1;93m_
+           [1;93m.-. [1;97m-    [1;92m_______                 [1;91m( [1;93m|__|
+          [1;93m()``; [1;92m|==|_______)                [1;91m.)[1;93m|__|
+          [1;93m/ ('        [1;92m/|\                  [1;91m(  [1;93m|__|
+      [1;93m(  /  )       [1;92m / | \                  [1;91m. [1;93m|__|
+       [1;93m\(_)_))      [1;92m/  |  \                   [1;93m|__|[0m
+
+    WAFW00F - Web Application Firewall Detection Tool
+    
+
+Checking https://hunters.ai
+Generic Detection results:
+The site https://hunters.ai seems to be behind a WAF or some sort of security solution
+Reason: The server returned a different response code when a string trigged the blacklist.
+Normal response code is "301", while the response code to an attack is "403"
+Number of requests: 6
+[92m====================================================================================[0m
+[91m GATHERING HTTP INFO [0m
+[92m====================================================================================[0m
+[1m[34mhttps://hunters.ai[0m [403 Forbidden] [1m[37mHTML5[0m, [1m[37mHTTPServer[0m[[1m[36mLiteSpeed[0m], [1m[37mIP[0m[[37m185.56.75.150[0m], [1m[37mLiteSpeed[0m, [1m[37mTitle[0m[[1m[33m403 Forbidden[0m][[1m[31mTitle element contains newline(s)![0m], [1m[37mUncommonHeaders[0m[[37malt-svc[0m]
+[92m====================================================================================[0m
+[91m CHECKING HTTP HEADERS AND METHODS [0m
+[92m====================================================================================[0m
+HTTP/1.1 200 OK
+Connection: Keep-Alive
+X-Powered-By: PHP/7.0.33
+Content-Type: text/html; charset=UTF-8
+Link: <https://hunters.ai/wp-json/>; rel="https://api.w.org/"
+Link: <https://hunters.ai/>; rel=shortlink
+Date: Wed, 25 Sep 2019 08:41:02 GMT
+Server: LiteSpeed
+Alt-Svc: quic=":443"; ma=2592000; v="39,43,46", h3-22=":443"; ma=2592000
+
+[92m====================================================================================[0m
+[91m GATHERING WEB FINGERPRINT [0m
+[92m====================================================================================[0m
+ WordPress 
+ jQuery 1.12.4
+ WordPress 5.2.3
+ Elementor 
+ Google Font API 
+ PHP 7.0.33
+ Google QUIC 
+ Elementor 2.6.8
+ jQuery Migrate 
+ LiteSpeed 
+[92m====================================================================================[0m
+[91m DISPLAYING META GENERATOR TAGS [0m
+[92m====================================================================================[0m
+WordPress 5.2.3
+[92m====================================================================================[0m
+[91m DISPLAYING COMMENTS [0m
+[92m====================================================================================[0m
+<!-- This site is optimized with the Yoast SEO plugin v11.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- / Yoast SEO plugin. -->
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.8.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<!-- / Google Analytics by MonsterInsights -->
+<!--[if IE]>
+			</header><!-- .entry-header -->
+	</div><!-- .entry-content .clear -->
+</article><!-- #post-## -->
+			</main><!-- #main -->
+	</div><!-- #primary -->
+			</div> <!-- ast-container -->
+		</div><!-- #content -->
+	</div><!-- #page -->
+<!-- Page supported by LiteSpeed Cache 2.9.8.5 on 2019-09-25 11:41:05 -->
+[92m====================================================================================[0m
+[91m DISPLAYING SITE LINKS [0m
+[92m====================================================================================[0m
+/
+https://hunters.ai
+https://hunters.ai/company/
+https://hunters.ai/wp-content/uploads/group-24.png
+https://hunters.ai/wp-content/uploads/group-30.png
+https://hunters.ai/wp-content/uploads/group-31.png
+https://meetings.hubspot.com/hunters/introduction-call
+https://s3-us-west-2.amazonaws.com/hunters.ai/documents/Hunters+-+Privacy+policy.pdf
+https://s3-us-west-2.amazonaws.com/hunters.ai/documents/Hunters+-+Terms+of+use.pdf
+https://schema.org/CreativeWork
+https://share.hsforms.com/1sh2Bnfy0R2agNoXDPlrBQw3fklm
+https://twitter.com/hunters_ai
+https://www.facebook.com/hunters.ai.cyber/
+https://www.linkedin.com/company/hunters-ai
+text/css
+text/javascript
+[92m====================================================================================[0m
+[91m RUNNING PASSIVE WEB SPIDER [0m
+[92m====================================================================================[0m
+null
+[92m====================================================================================[0m
+[91m RUNNING ACTIVE WEB SPIDER [0m
+[92m====================================================================================[0m
+[91m
+[91m
+[91m                _.._
+[91m              .'    '.
+[91m             /   __   \ 
+[91m          ,  |   ><   |  ,
+[91m         . \  \      /  / .
+[91m          \_'--`(  )'--'_/
+[91m            .--'/()'--.
+[91m     1N3   /  /` '' `\  \ 
+[91m             |        |
+[91m              \      /
+[91m
+[0m
+[93m + -- --=[https://crowdshield.com[0m
+[93m + -- --=[blackwidow v1.0[0m
+[0m
+
+[92m==================================================================================================[0m
+[92mhttps://hunters.ai:443
+[92m==================================================================================================[0m
+[96m[i] External link found! http://www.litespeedtech.com/error-page [0m
+[92m__________________________________________________________________________________________________[0m
+[91m
+[91m
+[91m                _.._
+[91m              .'    '.
+[91m             /   __   \ 
+[91m          ,  |   ><   |  ,
+[91m         . \  \      /  / .
+[91m          \_'--`(  )'--'_/
+[91m            .--'/()'--.
+[91m     1N3   /  /` '' `\  \ 
+[91m             |        |
+[91m              \      /
+[91m
+[0m
+[93m + -- --=[https://crowdshield.com[0m
+[93m + -- --=[blackwidow v1.0[0m
+[0m
+[92m[+] URL's Discovered: 
+/usr/share/blackwidow/hunters.ai_443/hunters.ai_443-urls-sorted.txt[0m
+[92m__________________________________________________________________________________________________[0m
+[0m
+[92m[+] Dynamic URL's Discovered: 
+/usr/share/blackwidow/hunters.ai_443/hunters.ai_443-dynamic-sorted.txt[0m
+[92m__________________________________________________________________________________________________[0m
+[0m
+[92m[+] Form URL's Discovered: 
+/usr/share/blackwidow/hunters.ai_443/hunters.ai_443-forms-sorted.txt[0m
+[92m__________________________________________________________________________________________________[0m
+[0m
+[92m[+] Unique Dynamic Parameters Discovered: 
+/usr/share/blackwidow/hunters.ai_443/hunters.ai_443-dynamic-unique.txt[0m
+[92m__________________________________________________________________________________________________[0m
+[0m
+[92m[+] Sub-domains Discovered: 
+/usr/share/blackwidow/hunters.ai_443/hunters.ai_443-subdomains-sorted.txt[0m
+[92m__________________________________________________________________________________________________[0m
+[0m
+[92m[+] Emails Discovered: 
+/usr/share/blackwidow/hunters.ai_443/hunters.ai_443-emails-sorted.txt[0m
+[92m__________________________________________________________________________________________________[0m
+[0m
+[92m[+] Phones Discovered: 
+/usr/share/blackwidow/hunters.ai_443/hunters.ai_443-phones-sorted.txt[0m
+[92m__________________________________________________________________________________________________[0m
+[0m
+[91m[+] Loot Saved To: 
+/usr/share/blackwidow/hunters.ai_443/[0m
+[91m__________________________________________________________________________________________________[0m
+[0m
+[95m HACK THE PLANET!!!!!
+**************************************************************************************************
+If you haven't already, please donate to this project using the addresses below.
+This will help fascilitate improved features and ongoing support.
+
+[+] BTC 1Fav36btfmdrYpCAR65XjKHhxuJJwFyKum
+[+] ETH 0x20bB09273702eaBDFbEE9809473Fd04b969a794d
+[+] LTC LQ6mPewec3xeLBYMdRP4yzeta6b9urqs2f
+[+] XMR 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbS3EN24xprAQ1Z5Sy5s
+[+] ZCASH t1fsizsk2cqqJAjRoUmXJSyoVa9utYucXt7
+
+1N3@CrowdShield
+https://crowdshield.com
+[95m**************************************************************************************************[0m
+[92m====================================================================================[0m
+[91m RUNNING FILE/DIRECTORY BRUTE FORCE [0m
+[92m====================================================================================[0m
+200    67B   https://hunters.ai:443/robots.txt
+200   585B   https://hunters.ai:443/sitemap.xml
+200    83KB  https://hunters.ai:443/index.php
+200    20KB  https://hunters.ai:443/admin
+200    83KB  https://hunters.ai:443/home
+200    67B   http://hunters.ai:80/robots.txt
+200    83KB  http://hunters.ai:80/home
+200    83KB  http://hunters.ai:80/index.php
+200    20KB  http://hunters.ai:80/admin
+200    67B   https://hunters.ai:443/robots.txt
+200   585B   https://hunters.ai:443/sitemap.xml
+200    83KB  https://hunters.ai:443/index.php
+200    20KB  https://hunters.ai:443/admin
+200    83KB  https://hunters.ai:443/home
+[92m====================================================================================[0m
+[91m GATHERING SSL/TLS INFO [0m
+[92m====================================================================================[0m
+Version: [32m1.11.13-static[0m
+OpenSSL 1.0.2-chacha (1.0.2g-dev)
+[0m
+[32mConnected to 185.56.75.150[0m
+
+Testing SSL server [32mhunters.ai[0m on port [32m443[0m using SNI name [32mhunters.ai[0m
+
+  [1;34mTLS Fallback SCSV:[0m
+Server [32msupports[0m TLS Fallback SCSV
+
+  [1;34mTLS renegotiation:[0m
+[32mSecure[0m session renegotiation supported
+
+  [1;34mTLS Compression:[0m
+Compression [32mdisabled[0m
+
+  [1;34mHeartbleed:[0m
+TLS 1.2 [32mnot vulnerable[0m to heartbleed
+TLS 1.1 [32mnot vulnerable[0m to heartbleed
+TLS 1.0 [32mnot vulnerable[0m to heartbleed
+
+  [1;34mSupported Server Cipher(s):[0m
+[32mPreferred[0m TLSv1.2  [32m128[0m bits  [32mECDHE-RSA-AES128-GCM-SHA256  [0m Curve P-256 DHE 256
+Accepted  TLSv1.2  [32m256[0m bits  [32mECDHE-RSA-AES256-GCM-SHA384  [0m Curve P-256 DHE 256
+Accepted  TLSv1.2  [32m128[0m bits  ECDHE-RSA-AES128-SHA          Curve P-256 DHE 256
+Accepted  TLSv1.2  [32m256[0m bits  ECDHE-RSA-AES256-SHA          Curve P-256 DHE 256
+Accepted  TLSv1.2  [32m128[0m bits  AES128-GCM-SHA256            
+Accepted  TLSv1.2  [32m256[0m bits  AES256-GCM-SHA384            
+Accepted  TLSv1.2  [32m128[0m bits  AES128-SHA                   
+Accepted  TLSv1.2  [32m256[0m bits  AES256-SHA                   
+Accepted  TLSv1.2  [32m112[0m bits  [33mDES-CBC3-SHA                 [0m
+[32mPreferred[0m TLSv1.1  [32m128[0m bits  ECDHE-RSA-AES128-SHA          Curve P-256 DHE 256
+Accepted  TLSv1.1  [32m256[0m bits  ECDHE-RSA-AES256-SHA          Curve P-256 DHE 256
+Accepted  TLSv1.1  [32m128[0m bits  AES128-SHA                   
+Accepted  TLSv1.1  [32m256[0m bits  AES256-SHA                   
+Accepted  TLSv1.1  [32m112[0m bits  [33mDES-CBC3-SHA                 [0m
+[32mPreferred[0m [33mTLSv1.0[0m  [32m128[0m bits  ECDHE-RSA-AES128-SHA          Curve P-256 DHE 256
+Accepted  [33mTLSv1.0[0m  [32m256[0m bits  ECDHE-RSA-AES256-SHA          Curve P-256 DHE 256
+Accepted  [33mTLSv1.0[0m  [32m128[0m bits  AES128-SHA                   
+Accepted  [33mTLSv1.0[0m  [32m256[0m bits  AES256-SHA                   
+Accepted  [33mTLSv1.0[0m  [32m112[0m bits  [33mDES-CBC3-SHA                 [0m
+
+  [1;34mSSL Certificate:[0m
+Signature Algorithm: [32msha256WithRSAEncryption[0m
+RSA Key Strength:    2048
+
+Subject:  hunters.ai
+Altnames: DNS:hunters.ai, DNS:mail.hunters.ai, DNS:www.hunters.ai
+Issuer:   cPanel, Inc. Certification Authority
+
+Not valid before: [32mAug  6 00:00:00 2019 GMT[0m
+Not valid after:  [32mNov  4 23:59:59 2019 GMT[0m
+[92m====================================================================================[0m
+[91m SAVING SCREENSHOTS [0m
+[92m====================================================================================[0m
+webscreenshot.py version 2.2.1
+
+[+] 1 URLs to be screenshot
+[ERROR][https://hunters.ai:443] Shell command PID 10064 returned an abnormal error code: '1'
+[ERROR][https://hunters.ai:443] Screenshot somehow failed
+
+[+] 0 actual URLs screenshot
+[+] 1 error(s)
+    https://hunters.ai:443
+[91m[+][0m Screenshot saved to /usr/share/sniper/loot/workspace/hunters.ai/screenshots/hunters.ai-port443.jpg
+[92m====================================================================================[0m
+[91m SCAN COMPLETE! [0m
+[92m====================================================================================[0m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[91m                ____               [0m
+[91m    _________  /  _/___  ___  _____[0m
+[91m   / ___/ __ \ / // __ \/ _ \/ ___/[0m
+[91m  (__  ) / / // // /_/ /  __/ /    [0m
+[91m /____/_/ /_/___/ .___/\___/_/     [0m
+[91m               /_/                 [0m
+
+[94m[*] Opening loot directory /usr/share/sniper/loot/workspace/hunters.ai [[0m[92mOK[0m[94m][0m
+[93m + -- --=[Starting Metasploit service...[0m
+[01;33m[i][00m Database already started
+[93m + -- --=[Importing NMap XML files into Metasploit...[0m
+[0m[36m     ,           ,
+    /             \
+   ((__---,,,---__))
+      (_) O O (_)_________
+         \ _ /            |\
+          o_o \   M S F   | \
+               \   _____  |  *
+                |||   WW|||
+                |||     |||
+[0m
+
+       =[ [33mmetasploit v5.0.46-dev[0m                          ]
++ -- --=[ 1921 exploits - 1075 auxiliary - 330 post       ]
++ -- --=[ 556 payloads - 45 encoders - 10 nops            ]
++ -- --=[ 4 evasion                                       ]
+
+[0m[1m[34m[*][0m Added workspace: hunters.ai
+[1m[34m[*][0m Workspace: hunters.ai
+[0m[1m[34m[*][0m Workspace: hunters.ai
+[0m[1m[34m[*][0m Importing 'Nmap XML' data
+[1m[34m[*][0m Import: Parsing with 'Nokogiri v1.10.4'
+[1m[34m[*][0m Importing host 185.56.75.150
+[1m[34m[*][0m Successfully imported /usr/share/sniper/loot/workspace/hunters.ai/nmap/nmap-hunters.ai.xml
+[0m
+Hosts
+=====
+
+address        mac  name                     os_name  os_flavor  os_sp  purpose  info  comments
+-------        ---  ----                     -------  ---------  -----  -------  ----  --------
+185.56.75.150       israel105.jetserver.net  Unknown                    device         
+
+[0mServices
+========
+
+host           port   proto  name              state  info
+----           ----   -----  ----              -----  ----
+185.56.75.150  1      tcp    tcpmux            open   
+185.56.75.150  7      tcp    echo              open   
+185.56.75.150  9      tcp    discard           open   
+185.56.75.150  13     tcp    daytime           open   
+185.56.75.150  19     tcp    chargen           open   
+185.56.75.150  21     tcp    ftp               open   
+185.56.75.150  22     tcp    ssh               open   
+185.56.75.150  23     tcp    telnet            open   
+185.56.75.150  37     tcp    time              open   
+185.56.75.150  42     tcp    nameserver        open   
+185.56.75.150  49     tcp    tacacs            open   
+185.56.75.150  53     tcp    domain            open   
+185.56.75.150  67     tcp    dhcps             open   
+185.56.75.150  68     tcp    dhcpc             open   
+185.56.75.150  69     tcp    tftp              open   
+185.56.75.150  79     tcp    finger            open   
+185.56.75.150  80     tcp    http              open   
+185.56.75.150  81     tcp    hosts2-ns         open   
+185.56.75.150  85     tcp    mit-ml-dev        open   
+185.56.75.150  88     tcp    kerberos-sec      open   
+185.56.75.150  105    tcp    csnet-ns          open   
+185.56.75.150  109    tcp    pop2              open   
+185.56.75.150  110    tcp    pop3              open   
+185.56.75.150  111    tcp    rpcbind           open   
+185.56.75.150  113    tcp    ident             open   
+185.56.75.150  123    tcp    ntp               open   
+185.56.75.150  135    tcp    msrpc             open   
+185.56.75.150  137    tcp    netbios-ns        open   
+185.56.75.150  138    tcp    netbios-dgm       open   
+185.56.75.150  139    tcp    netbios-ssn       open   
+185.56.75.150  143    tcp    imap              open   
+185.56.75.150  161    tcp    snmp              open   
+185.56.75.150  162    tcp    snmptrap          open   
+185.56.75.150  179    tcp    bgp               open   
+185.56.75.150  222    tcp    rsh-spx           open   
+185.56.75.150  264    tcp    bgmp              open   
+185.56.75.150  384    tcp    arns              open   
+185.56.75.150  389    tcp    ldap              open   
+185.56.75.150  402    tcp    genie             open   
+185.56.75.150  407    tcp    timbuktu          open   
+185.56.75.150  443    tcp    https             open   
+185.56.75.150  444    tcp    snpp              open   
+185.56.75.150  445    tcp    microsoft-ds      open   
+185.56.75.150  446    tcp    ddm-rdb           open   
+185.56.75.150  465    tcp    smtps             open   
+185.56.75.150  500    tcp    isakmp            open   
+185.56.75.150  502    tcp    mbap              open   
+185.56.75.150  512    tcp    exec              open   
+185.56.75.150  513    tcp    login             open   
+185.56.75.150  514    tcp    shell             open   
+185.56.75.150  515    tcp    printer           open   
+185.56.75.150  523    tcp    ibm-db2           open   
+185.56.75.150  524    tcp    ncp               open   
+185.56.75.150  540    tcp    uucp              open   
+185.56.75.150  548    tcp    afp               open   
+185.56.75.150  554    tcp    rtsp              open   
+185.56.75.150  587    tcp    submission        open   
+185.56.75.150  617    tcp    sco-dtmgr         open   
+185.56.75.150  623    tcp    oob-ws-http       open   
+185.56.75.150  631    tcp    ipp               open   
+185.56.75.150  655    tcp    tinc              open   
+185.56.75.150  689    tcp    nmap              open   
+185.56.75.150  705    tcp    agentx            open   
+185.56.75.150  771    tcp    rtip              open   
+185.56.75.150  783    tcp    spamassassin      open   
+185.56.75.150  831    tcp    netconf-beep      open   
+185.56.75.150  873    tcp    rsync             open   
+185.56.75.150  888    tcp    accessbuilder     open   
+185.56.75.150  902    tcp    iss-realsecure    open   
+185.56.75.150  910    tcp    kink              open   
+185.56.75.150  912    tcp    apex-mesh         open   
+185.56.75.150  921    tcp    unknown           open   
+185.56.75.150  993    tcp    imaps             open   
+185.56.75.150  995    tcp    pop3s             open   
+185.56.75.150  998    tcp    busboy            open   
+185.56.75.150  999    tcp    garcon            open   
+185.56.75.150  1000   tcp    cadlock           open   
+185.56.75.150  1024   tcp    kdm               open   
+185.56.75.150  1030   tcp    iad1              open   
+185.56.75.150  1035   tcp    multidropper      open   
+185.56.75.150  1090   tcp    ff-fms            open   
+185.56.75.150  1098   tcp    rmiactivation     open   
+185.56.75.150  1099   tcp    rmiregistry       open   
+185.56.75.150  1100   tcp    mctp              open   
+185.56.75.150  1101   tcp    pt2-discover      open   
+185.56.75.150  1102   tcp    adobeserver-1     open   
+185.56.75.150  1103   tcp    xaudio            open   
+185.56.75.150  1128   tcp    saphostctrl       open   
+185.56.75.150  1129   tcp    saphostctrls      open   
+185.56.75.150  1158   tcp    lsnr              open   
+185.56.75.150  1199   tcp    dmidi             open   
+185.56.75.150  1211   tcp    groove-dpp        open   
+185.56.75.150  1220   tcp    quicktime         open   
+185.56.75.150  1234   tcp    hotline           open   
+185.56.75.150  1241   tcp    nessus            open   
+185.56.75.150  1300   tcp    h323hostcallsc    open   
+185.56.75.150  1311   tcp    rxmon             open   
+185.56.75.150  1352   tcp    lotusnotes        open   
+185.56.75.150  1433   tcp    ms-sql-s          open   
+185.56.75.150  1434   tcp    ms-sql-m          open   
+185.56.75.150  1435   tcp    ibm-cics          open   
+185.56.75.150  1440   tcp    eicon-slp         open   
+185.56.75.150  1471   tcp    csdmbase          open   
+185.56.75.150  1494   tcp    citrix-ica        open   
+185.56.75.150  1521   tcp    oracle            open   
+185.56.75.150  1530   tcp    rap-service       open   
+185.56.75.150  1533   tcp    virtual-places    open   
+185.56.75.150  1581   tcp    mil-2045-47001    open   
+185.56.75.150  1582   tcp    msims             open   
+185.56.75.150  1604   tcp    icabrowser        open   
+185.56.75.150  1720   tcp    h323q931          open   
+185.56.75.150  1723   tcp    pptp              open   
+185.56.75.150  1755   tcp    wms               open   
+185.56.75.150  1811   tcp    scientia-sdb      open   
+185.56.75.150  1900   tcp    upnp              open   
+185.56.75.150  2000   tcp    cisco-sccp        open   
+185.56.75.150  2001   tcp    dc                open   
+185.56.75.150  2049   tcp    nfs               open   
+185.56.75.150  2067   tcp    dlswpn            open   
+185.56.75.150  2100   tcp    amiganetfs        open   
+185.56.75.150  2103   tcp    zephyr-clt        open   
+185.56.75.150  2121   tcp    ccproxy-ftp       open   
+185.56.75.150  2199   tcp    onehome-help      open   
+185.56.75.150  2207   tcp    hpssd             open   
+185.56.75.150  2222   tcp    ethernetip-1      open   
+185.56.75.150  2323   tcp    3d-nfsd           open   
+185.56.75.150  2362   tcp    digiman           open   
+185.56.75.150  2380   tcp    etcd-server       open   
+185.56.75.150  2381   tcp    compaq-https      open   
+185.56.75.150  2525   tcp    ms-v-worlds       open   
+185.56.75.150  2533   tcp    snifferserver     open   
+185.56.75.150  2598   tcp    citriximaclient   open   
+185.56.75.150  2638   tcp    sybase            open   
+185.56.75.150  2780   tcp    lbc-control       open   
+185.56.75.150  2809   tcp    corbaloc          open   
+185.56.75.150  2947   tcp    gpsd              open   
+185.56.75.150  2967   tcp    symantec-av       open   
+185.56.75.150  3000   tcp    ppp               open   
+185.56.75.150  3037   tcp    hp-san-mgmt       open   
+185.56.75.150  3050   tcp    gds_db            open   
+185.56.75.150  3057   tcp    goahead-fldup     open   
+185.56.75.150  3128   tcp    squid-http        open   
+185.56.75.150  3200   tcp    tick-port         open   
+185.56.75.150  3217   tcp    unite             open   
+185.56.75.150  3273   tcp    sxmp              open   
+185.56.75.150  3299   tcp    saprouter         open   
+185.56.75.150  3306   tcp    mysql             open   
+185.56.75.150  3310   tcp    dyna-access       open   
+185.56.75.150  3333   tcp    dec-notes         open   
+185.56.75.150  3389   tcp    ms-wbt-server     open   
+185.56.75.150  3460   tcp    edm-manager       open   
+185.56.75.150  3465   tcp    edm-mgr-cntrl     open   
+185.56.75.150  3500   tcp    rtmp-port         open   
+185.56.75.150  3628   tcp    ept-machine       open   
+185.56.75.150  3632   tcp    distccd           open   
+185.56.75.150  3690   tcp    svn               open   
+185.56.75.150  3780   tcp    nnp               open   
+185.56.75.150  3790   tcp    quickbooksrds     open   
+185.56.75.150  3817   tcp    tapeware          open   
+185.56.75.150  3900   tcp    udt_os            open   
+185.56.75.150  4000   tcp    remoteanything    open   
+185.56.75.150  4322   tcp    trim-event        open   
+185.56.75.150  4433   tcp    vop               open   
+185.56.75.150  4444   tcp    krb524            open   
+185.56.75.150  4445   tcp    upnotifyp         open   
+185.56.75.150  4659   tcp    playsta2-lob      open   
+185.56.75.150  4672   tcp    rfa               open   
+185.56.75.150  4679   tcp    mgesupervision    open   
+185.56.75.150  4800   tcp    iims              open   
+185.56.75.150  4848   tcp    appserv-http      open   
+185.56.75.150  5000   tcp    upnp              open   
+185.56.75.150  5009   tcp    airport-admin     open   
+185.56.75.150  5038   tcp                      open   
+185.56.75.150  5040   tcp    unknown           open   
+185.56.75.150  5051   tcp    ida-agent         open   
+185.56.75.150  5060   tcp    sip               open   
+185.56.75.150  5061   tcp    sip-tls           open   
+185.56.75.150  5093   tcp    sentinel-lm       open   
+185.56.75.150  5168   tcp    scte30            open   
+185.56.75.150  5227   tcp    perfd             open   
+185.56.75.150  5247   tcp    capwap-data       open   
+185.56.75.150  5250   tcp    soagateway        open   
+185.56.75.150  5351   tcp    nat-pmp           open   
+185.56.75.150  5353   tcp    mdns              open   
+185.56.75.150  5355   tcp    llmnr             open   
+185.56.75.150  5400   tcp    pcduo-old         open   
+185.56.75.150  5405   tcp    pcduo             open   
+185.56.75.150  5432   tcp    postgresql        open   
+185.56.75.150  5433   tcp    pyrrho            open   
+185.56.75.150  5466   tcp                      open   
+185.56.75.150  5498   tcp                      open   
+185.56.75.150  5520   tcp    sdlog             open   
+185.56.75.150  5521   tcp                      open   
+185.56.75.150  5554   tcp    sgi-esphttp       open   
+185.56.75.150  5555   tcp    freeciv           open   
+185.56.75.150  5560   tcp    isqlplus          open   
+185.56.75.150  5580   tcp    tmosms0           open   
+185.56.75.150  5631   tcp    pcanywheredata    open   
+185.56.75.150  5632   tcp    pcanywherestat    open   
+185.56.75.150  5666   tcp    nrpe              open   
+185.56.75.150  5800   tcp    vnc-http          open   
+185.56.75.150  5814   tcp    spt-automation    open   
+185.56.75.150  5900   tcp    vnc               open   
+185.56.75.150  5901   tcp    vnc-1             open   
+185.56.75.150  5902   tcp    vnc-2             open   
+185.56.75.150  5903   tcp    vnc-3             open   
+185.56.75.150  5904   tcp    unknown           open   
+185.56.75.150  5905   tcp    unknown           open   
+185.56.75.150  5906   tcp    unknown           open   
+185.56.75.150  5907   tcp    unknown           open   
+185.56.75.150  5908   tcp    unknown           open   
+185.56.75.150  5909   tcp    unknown           open   
+185.56.75.150  5910   tcp    cm                open   
+185.56.75.150  5920   tcp    unknown           open   
+185.56.75.150  5984   tcp    couchdb           open   
+185.56.75.150  5985   tcp    wsman             open   
+185.56.75.150  5986   tcp    wsmans            open   
+185.56.75.150  5999   tcp    ncd-conf          open   
+185.56.75.150  6000   tcp    x11               open   
+185.56.75.150  6050   tcp    arcserve          open   
+185.56.75.150  6060   tcp    x11               open   
+185.56.75.150  6070   tcp    messageasap       open   
+185.56.75.150  6080   tcp    gue               open   
+185.56.75.150  6082   tcp    p25cai            open   
+185.56.75.150  6093   tcp                      open   
+185.56.75.150  6095   tcp                      open   
+185.56.75.150  6101   tcp    backupexec        open   
+185.56.75.150  6106   tcp    isdninfo          open   
+185.56.75.150  6112   tcp    dtspc             open   
+185.56.75.150  6161   tcp    patrol-ism        open   
+185.56.75.150  6262   tcp                      open   
+185.56.75.150  6379   tcp    redis             open   
+185.56.75.150  6405   tcp    boe-pagesvr       open   
+185.56.75.150  6502   tcp    netop-rc          open   
+185.56.75.150  6503   tcp    boks_clntd        open   
+185.56.75.150  6504   tcp    unknown           open   
+185.56.75.150  6542   tcp                      open   
+185.56.75.150  6660   tcp                      open   
+185.56.75.150  6661   tcp                      open   
+185.56.75.150  6667   tcp    irc               open   
+185.56.75.150  6789   tcp    ibm-db2-admin     open   
+185.56.75.150  6905   tcp                      open   
+185.56.75.150  6988   tcp                      open   
+185.56.75.150  6996   tcp                      open   
+185.56.75.150  7000   tcp    afs3-fileserver   open   
+185.56.75.150  7001   tcp    afs3-callback     open   
+185.56.75.150  7021   tcp    dpserveadmin      open   
+185.56.75.150  7071   tcp    iwg1              open   
+185.56.75.150  7080   tcp    empowerid         open   
+185.56.75.150  7144   tcp                      open   
+185.56.75.150  7181   tcp    janus-disc        open   
+185.56.75.150  7210   tcp                      open   
+185.56.75.150  7272   tcp    watchme-7272      open   
+185.56.75.150  7414   tcp                      open   
+185.56.75.150  7426   tcp    pmdmgr            open   
+185.56.75.150  7443   tcp    oracleas-https    open   
+185.56.75.150  7510   tcp    ovhpas            open   
+185.56.75.150  7547   tcp    cwmp              open   
+185.56.75.150  7579   tcp                      open   
+185.56.75.150  7580   tcp                      open   
+185.56.75.150  7700   tcp    em7-secom         open   
+185.56.75.150  7770   tcp    unknown           open   
+185.56.75.150  7777   tcp    cbt               open   
+185.56.75.150  7778   tcp    interwise         open   
+185.56.75.150  7787   tcp    popup-reminders   open   
+185.56.75.150  7800   tcp    asr               open   
+185.56.75.150  7801   tcp    ssp-client        open   
+185.56.75.150  7878   tcp    owms              open   
+185.56.75.150  7879   tcp                      open   
+185.56.75.150  7890   tcp                      open   
+185.56.75.150  7902   tcp    tnos-dp           open   
+185.56.75.150  8000   tcp    http-alt          open   
+185.56.75.150  8001   tcp    vcom-tunnel       open   
+185.56.75.150  8008   tcp    http              open   
+185.56.75.150  8009   tcp    ajp13             open   
+185.56.75.150  8014   tcp    unknown           open   
+185.56.75.150  8020   tcp    intu-ec-svcdisc   open   
+185.56.75.150  8023   tcp    arca-api          open   
+185.56.75.150  8028   tcp                      open   
+185.56.75.150  8030   tcp                      open   
+185.56.75.150  8050   tcp    unknown           open   
+185.56.75.150  8051   tcp    rocrail           open   
+185.56.75.150  8080   tcp    http-proxy        open   
+185.56.75.150  8081   tcp    blackice-icecap   open   
+185.56.75.150  8082   tcp    blackice-alerts   open   
+185.56.75.150  8085   tcp    unknown           open   
+185.56.75.150  8086   tcp    d-s-n             open   
+185.56.75.150  8087   tcp    simplifymedia     open   
+185.56.75.150  8088   tcp    radan-http        open   
+185.56.75.150  8090   tcp    opsmessaging      open   
+185.56.75.150  8091   tcp    jamlink           open   
+185.56.75.150  8095   tcp    unknown           open   
+185.56.75.150  8101   tcp    ldoms-migr        open   
+185.56.75.150  8161   tcp    patrol-snmp       open   
+185.56.75.150  8180   tcp    unknown           open   
+185.56.75.150  8205   tcp    lm-instmgr        open   
+185.56.75.150  8222   tcp    unknown           open   
+185.56.75.150  8300   tcp    tmi               open   
+185.56.75.150  8303   tcp                      open   
+185.56.75.150  8333   tcp    bitcoin           open   
+185.56.75.150  8400   tcp    cvd               open   
+185.56.75.150  8443   tcp    https-alt         open   
+185.56.75.150  8444   tcp    pcsync-http       open   
+185.56.75.150  8445   tcp    copy              open   
+185.56.75.150  8503   tcp    lsp-self-ping     open   
+185.56.75.150  8642   tcp                      open   
+185.56.75.150  8686   tcp    sun-as-jmxrmi     open   
+185.56.75.150  8701   tcp    unknown           open   
+185.56.75.150  8787   tcp    msgsrvr           open   
+185.56.75.150  8800   tcp    sunwebadmin       open   
+185.56.75.150  8812   tcp                      open   
+185.56.75.150  8834   tcp    nessus-xmlrpc     open   
+185.56.75.150  8880   tcp    cddbp-alt         open   
+185.56.75.150  8888   tcp    sun-answerbook    open   
+185.56.75.150  8889   tcp    ddi-tcp-2         open   
+185.56.75.150  8890   tcp    ddi-tcp-3         open   
+185.56.75.150  8899   tcp    ospf-lite         open   
+185.56.75.150  8901   tcp    jmb-cds2          open   
+185.56.75.150  8902   tcp                      open   
+185.56.75.150  8903   tcp                      open   
+185.56.75.150  8980   tcp    nod-provider      open   
+185.56.75.150  8983   tcp                      open   
+185.56.75.150  8999   tcp    bctp              open   
+185.56.75.150  9000   tcp    cslistener        open   
+185.56.75.150  9001   tcp    tor-orport        open   
+185.56.75.150  9002   tcp    dynamid           open   
+185.56.75.150  9003   tcp    unknown           open   
+185.56.75.150  9004   tcp    unknown           open   
+185.56.75.150  9005   tcp    golem             open   
+185.56.75.150  9010   tcp    sdr               open   
+185.56.75.150  9050   tcp    tor-socks         open   
+185.56.75.150  9080   tcp    glrpc             open   
+185.56.75.150  9081   tcp    cisco-aqos        open   
+185.56.75.150  9084   tcp    aurora            open   
+185.56.75.150  9090   tcp    zeus-admin        open   
+185.56.75.150  9099   tcp    unknown           open   
+185.56.75.150  9100   tcp    jetdirect         open   
+185.56.75.150  9111   tcp    dragonidsconsole  open   
+185.56.75.150  9152   tcp    ms-sql2000        open   
+185.56.75.150  9200   tcp    wap-wsp           open   
+185.56.75.150  9256   tcp                      open   
+185.56.75.150  9300   tcp    vrace             open   
+185.56.75.150  9390   tcp    otp               open   
+185.56.75.150  9391   tcp                      open   
+185.56.75.150  9495   tcp                      open   
+185.56.75.150  9500   tcp    ismserver         open   
+185.56.75.150  9711   tcp                      open   
+185.56.75.150  9788   tcp                      open   
+185.56.75.150  9809   tcp                      open   
+185.56.75.150  9810   tcp                      open   
+185.56.75.150  9811   tcp                      open   
+185.56.75.150  9812   tcp    unknown           open   
+185.56.75.150  9813   tcp                      open   
+185.56.75.150  9814   tcp    unknown           open   
+185.56.75.150  9815   tcp    unknown           open   
+185.56.75.150  9855   tcp                      open   
+185.56.75.150  9875   tcp    sapv1             open   
+185.56.75.150  9876   tcp    sd                open   
+185.56.75.150  9910   tcp    unknown           open   
+185.56.75.150  9991   tcp    issa              open   
+185.56.75.150  9999   tcp    abyss             open   
+185.56.75.150  10000  tcp    snet-sensor-mgmt  open   
+185.56.75.150  10001  tcp    scp-config        open   
+185.56.75.150  10008  tcp    octopus           open   
+185.56.75.150  10050  tcp    zabbix-agent      open   
+185.56.75.150  10051  tcp    zabbix-trapper    open   
+185.56.75.150  10080  tcp    amanda            open   
+185.56.75.150  10098  tcp                      open   
+185.56.75.150  10099  tcp                      open   
+185.56.75.150  10162  tcp    snmptls-trap      open   
+185.56.75.150  10202  tcp                      open   
+185.56.75.150  10203  tcp                      open   
+185.56.75.150  10443  tcp    unknown           open   
+185.56.75.150  10616  tcp    unknown           open   
+185.56.75.150  10628  tcp    unknown           open   
+185.56.75.150  11000  tcp    irisa             open   
+185.56.75.150  11001  tcp    metasys           open   
+185.56.75.150  11099  tcp                      open   
+185.56.75.150  11211  tcp    memcache          open   
+185.56.75.150  11234  tcp                      open   
+185.56.75.150  11333  tcp                      open   
+185.56.75.150  11460  tcp                      open   
+185.56.75.150  12000  tcp    cce4x             open   
+185.56.75.150  12174  tcp    unknown           open   
+185.56.75.150  12203  tcp                      open   
+185.56.75.150  12221  tcp                      open   
+185.56.75.150  12345  tcp    netbus            open   
+185.56.75.150  12397  tcp                      open   
+185.56.75.150  12401  tcp                      open   
+185.56.75.150  13013  tcp                      open   
+185.56.75.150  13364  tcp                      open   
+185.56.75.150  13500  tcp                      open   
+185.56.75.150  13838  tcp                      open   
+185.56.75.150  14000  tcp    scotty-ft         open   
+185.56.75.150  14330  tcp                      open   
+185.56.75.150  15000  tcp    hydap             open   
+185.56.75.150  15001  tcp    unknown           open   
+185.56.75.150  15200  tcp                      open   
+185.56.75.150  16000  tcp    fmsas             open   
+185.56.75.150  16102  tcp                      open   
+185.56.75.150  16992  tcp    amt-soap-http     open   
+185.56.75.150  17185  tcp    soundsvirtual     open   
+185.56.75.150  17200  tcp                      open   
+185.56.75.150  18881  tcp    infotos           open   
+185.56.75.150  18980  tcp                      open   
+185.56.75.150  19300  tcp                      open   
+185.56.75.150  19810  tcp                      open   
+185.56.75.150  20000  tcp    dnp               open   
+185.56.75.150  20010  tcp                      open   
+185.56.75.150  20031  tcp    unknown           open   
+185.56.75.150  20034  tcp    nburn_id          open   
+185.56.75.150  20101  tcp                      open   
+185.56.75.150  20111  tcp    unknown           open   
+185.56.75.150  20171  tcp                      open   
+185.56.75.150  20222  tcp    ipulse-ics        open   
+185.56.75.150  22222  tcp    easyengine        open   
+185.56.75.150  23423  tcp                      open   
+185.56.75.150  23472  tcp                      open   
+185.56.75.150  23791  tcp                      open   
+185.56.75.150  23943  tcp                      open   
+185.56.75.150  25000  tcp    icl-twobase1      open   
+185.56.75.150  25025  tcp                      open   
+185.56.75.150  26000  tcp    quake             open   
+185.56.75.150  26122  tcp                      open   
+185.56.75.150  26256  tcp                      open   
+185.56.75.150  27000  tcp    flexlm0           open   
+185.56.75.150  27015  tcp    unknown           open   
+185.56.75.150  27017  tcp    mongod            open   
+185.56.75.150  27888  tcp                      open   
+185.56.75.150  27960  tcp                      open   
+185.56.75.150  28222  tcp                      open   
+185.56.75.150  28784  tcp                      open   
+185.56.75.150  30000  tcp    ndmps             open   
+185.56.75.150  30718  tcp    unknown           open   
+185.56.75.150  31001  tcp                      open   
+185.56.75.150  31099  tcp                      open   
+185.56.75.150  32022  tcp    unknown           open   
+185.56.75.150  32764  tcp    unknown           open   
+185.56.75.150  32913  tcp                      open   
+185.56.75.150  33000  tcp    unknown           open   
+185.56.75.150  34205  tcp                      open   
+185.56.75.150  34443  tcp                      open   
+185.56.75.150  37718  tcp                      open   
+185.56.75.150  37777  tcp    unknown           open   
+185.56.75.150  38080  tcp                      open   
+185.56.75.150  38292  tcp    landesk-cba       open   
+185.56.75.150  40007  tcp                      open   
+185.56.75.150  41025  tcp                      open   
+185.56.75.150  41080  tcp                      open   
+185.56.75.150  41523  tcp    unknown           open   
+185.56.75.150  41524  tcp                      open   
+185.56.75.150  44334  tcp    tinyfw            open   
+185.56.75.150  44818  tcp    ethernetip-2      open   
+185.56.75.150  45230  tcp                      open   
+185.56.75.150  46823  tcp                      open   
+185.56.75.150  46824  tcp                      open   
+185.56.75.150  47001  tcp    winrm             open   
+185.56.75.150  47002  tcp                      open   
+185.56.75.150  48080  tcp    unknown           open   
+185.56.75.150  48899  tcp                      open   
+185.56.75.150  49152  tcp    unknown           open   
+185.56.75.150  49180  tcp                      open   
+185.56.75.150  50000  tcp    ibm-db2           open   
+185.56.75.150  50001  tcp    unknown           open   
+185.56.75.150  50002  tcp    iiimsf            open   
+185.56.75.150  50003  tcp    unknown           open   
+185.56.75.150  50004  tcp                      open   
+185.56.75.150  50013  tcp                      open   
+185.56.75.150  50050  tcp    unknown           open   
+185.56.75.150  50500  tcp    unknown           open   
+185.56.75.150  50501  tcp                      open   
+185.56.75.150  50502  tcp                      open   
+185.56.75.150  50503  tcp                      open   
+185.56.75.150  50504  tcp                      open   
+185.56.75.150  52302  tcp                      open   
+185.56.75.150  52869  tcp    unknown           open   
+185.56.75.150  53413  tcp                      open   
+185.56.75.150  55553  tcp                      open   
+185.56.75.150  57772  tcp                      open   
+185.56.75.150  62078  tcp    iphone-sync       open   
+185.56.75.150  62514  tcp                      open   
+185.56.75.150  65535  tcp                      open   
+
+[0m[93m + -- --=[Generating reports...[0m
+[92m[[94m|[92m][0m
+[93m + -- --=[Sorting all domains...[0m
+[93m + -- --=[Removing blank screenshots...[0m
+[91m + -- --=[Sn1per Professional is not installed. To download Sn1per Professional, go to https://xerosecurity.com. [0m
+[93m + -- --=[Done![0m

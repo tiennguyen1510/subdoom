@@ -1,0 +1,33 @@
+[Crtsh]           staging.beathfapi.biofourmis.com
+[Forward DNS]     biofourmis.com
+[Crtsh]           api.pmbeta.biofourmis.com
+[Crtsh]           staging.solutionsapi.biofourmis.com
+[Crtsh]           mail.biofourmis.com
+[Crtsh]           www.new.biofourmis.com
+[Crtsh]           webdisk.biofourmis.com
+[Crtsh]           staging.painfocus.biofourmis.com
+[Crtsh]           new.biofourmis.com
+[Crtsh]           staging.wp.biofourmis.com
+[Crtsh]           www.biofourmis.com
+[Crtsh]           webmail.biofourmis.com
+[Crtsh]           staging.ctbeathf.biofourmis.com
+[Crtsh]           staging.beathf.biofourmis.com
+[Crtsh]           cpanel.biofourmis.com
+[Crtsh]           pmbeta.biofourmis.com
+[HackerTarget]    docs.biofourmis.com
+[HackerTarget]    biovitalapi.biofourmis.com
+[HackerTarget]    rhythmanalytics.biofourmis.com
+[Yahoo]           cardiostik.biofourmis.com
+[Yahoo]           pf.biofourmis.com
+[Brute Forcing]   stage.biofourmis.com
+[Brute Forcing]   live.biofourmis.com
+[ArchiveToday]    painfocus.biofourmis.com
+[ArchiveToday]    ctbeathf.biofourmis.com
+[Alterations]     pfapi.biofourmis.com
+[Alterations]     email.biofourmis.com
+[ArchiveToday]    beathfapi.biofourmis.com
+[VirusTotal]      beathf.biofourmis.com
+[Alterations]     wbeathf.biofourmis.com
+[Brute Forcing]   autodiscover.biofourmis.com
+[ArchiveToday]    solutionsapi.biofourmis.com
+[ArchiveToday]    wp.biofourmis.com

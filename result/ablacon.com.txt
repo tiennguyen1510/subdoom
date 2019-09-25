@@ -1,0 +1,7 @@
+[Forward DNS]     ablacon.com
+[Entrust]         www.ablacon.com
+[Brute Forcing]   wiki.ablacon.com
+[Brute Forcing]   ftp.ablacon.com
+[Brute Forcing]   groups.ablacon.com
+[Brute Forcing]   webmail.ablacon.com
+[Brute Forcing]   email.ablacon.com

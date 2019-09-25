@@ -1,0 +1,26 @@
+[Brute Forcing]   mail.anodot.com
+[Forward DNS]     anodot.com
+[Brute Forcing]   ftp.anodot.com
+[CertSpotter]     support.anodot.com
+[Censys]          app.anodot.com
+[VirusTotal]      api.anodot.com
+[Brute Forcing]   feedback.anodot.com
+[CertSpotter]     www.anodot.com
+[Brute Forcing]   calendar.anodot.com
+[Brute Forcing]   ap.anodot.com
+[Brute Forcing]   au.anodot.com
+[Brute Forcing]   ci.anodot.com
+[Brute Forcing]   email.anodot.com
+[Brute Forcing]   mobilemail.anodot.com
+[Brute Forcing]   smtp.anodot.com
+[CertSpotter]     blog.anodot.com
+[CertSpotter]     go.anodot.com
+[Brute Forcing]   cdn.anodot.com
+[Brute Forcing]   or.anodot.com
+[Brute Forcing]   att.anodot.com
+[Brute Forcing]   pop.anodot.com
+[Brute Forcing]   in.anodot.com
+[Brute Forcing]   imap.anodot.com
+[Alterations]     app2.anodot.com
+[Brute Forcing]   files.anodot.com
+[Brute Forcing]   fax.anodot.com

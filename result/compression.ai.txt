@@ -1,0 +1,5 @@
+[Forward DNS]     compression.ai
+[CommonCrawl]     developer.compression.ai
+[Brute Forcing]   app.compression.ai
+[Brute Forcing]   www.compression.ai
+[Yahoo]           playground.compression.ai
