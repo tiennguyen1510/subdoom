@@ -1,0 +1,13 @@
+[Crtsh]           db.terramonitor.com
+[Forward DNS]     terramonitor.com
+[Crtsh]           infra.terramonitor.com
+[Crtsh]           app.terramonitor.com
+[Crtsh]           mapserver.terramonitor.com
+[Crtsh]           www.terramonitor.com
+[Crtsh]           maps.terramonitor.com
+[Ask]             forest-beta.terramonitor.com
+[BufferOver]      feed.terramonitor.com
+[Brute Forcing]   blog.terramonitor.com
+[Brute Forcing]   calendar.terramonitor.com
+[Brute Forcing]   mail.terramonitor.com
+[Crtsh]           beta.terramonitor.com

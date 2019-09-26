@@ -589,3 +589,313 @@ ASN: 11377 - SENDGRID - SendGrid, Inc., US
 ASN: 8075 - MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US
 	40.64.0.0/10      	5    Subdomain Name(s)
 	2603:1000::/25    	5    Subdomain Name(s)
+Average DNS queries performed: 660/sec, DNS names remaining: 18
+Average DNS queries performed: 33/sec, DNS names remaining: 6
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+32 names discovered - dns: 1, cert: 5, alt: 2, brute: 16, api: 7, scrape: 1
+--------------------------------------------------------------------------------
+ASN: 26496 - AS-26496-GO-DADDY-CO - GoDaddy.com, LLC, US
+	173.201.192.0/22  	14   Subdomain Name(s)
+	45.40.128.0/18    	2    Subdomain Name(s)
+	45.40.140.0/22    	1    Subdomain Name(s)
+	72.167.236.0/22   	1    Subdomain Name(s)
+	50.62.236.0/22    	6    Subdomain Name(s)
+	50.63.200.0/22    	1    Subdomain Name(s)
+	97.74.132.0/22    	6    Subdomain Name(s)
+	68.178.252.0/22   	5    Subdomain Name(s)
+	68.178.212.0/22   	2    Subdomain Name(s)
+	184.168.128.0/22  	1    Subdomain Name(s)
+	72.167.216.0/22   	5    Subdomain Name(s)
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc., US
+	52.220.0.0/15     	2    Subdomain Name(s)
+ASN: 45102 - CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
+	47.254.128.0/18   	1    Subdomain Name(s)
+ASN: 38895 - AMAZON-AS-AP Amazon.com Tech Telecom
+	54.251.128.0/20   	2    Subdomain Name(s)
+	18.136.0.0/16     	1    Subdomain Name(s)
+	54.169.128.0/17   	1    Subdomain Name(s)
+	13.228.0.0/15     	3    Subdomain Name(s)
+	52.74.0.0/16      	1    Subdomain Name(s)
+	13.250.0.0/15     	1    Subdomain Name(s)
+ASN: 15169 - GOOGLE - Google LLC, US
+	35.198.0.0/16     	1    Subdomain Name(s)
+	108.177.97.0/24   	3    Subdomain Name(s)
+	2404:6800:4008::/48	3    Subdomain Name(s)
+ASN: 36351 - SOFTLAYER - SoftLayer Technologies Inc., US
+	119.81.0.0/18     	1    Subdomain Name(s)
+ASN: 11377 - SENDGRID - SendGrid, Inc., US
+	168.245.0.0/18    	1    Subdomain Name(s)
+	167.89.122.0/23   	1    Subdomain Name(s)
+	167.89.118.0/24   	1    Subdomain Name(s)
+ASN: 13335 - CLOUDFLARENET - Cloudflare, Inc., US
+	104.17.112.0/20   	10   Subdomain Name(s)
+	2606:4700::/44    	10   Subdomain Name(s)
+Average DNS queries performed: 1597/sec, DNS names remaining: 3817
+Average DNS queries performed: 1791/sec, DNS names remaining: 4234
+Average DNS queries performed: 767/sec, DNS names remaining: 37
+Average DNS queries performed: 26/sec, DNS names remaining: 16
+Average DNS queries performed: 0/sec, DNS names remaining: 13
+Average DNS queries performed: 0/sec, DNS names remaining: 9
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+88 names discovered - alt: 6, api: 36, cert: 30, brute: 15, dns: 1
+--------------------------------------------------------------------------------
+ASN: 0 - Reserved Network Address Blocks
+	172.16.0.0/12     	34   Subdomain Name(s)
+ASN: 16509 - AMAZON-02
+	34.192.0.0/10     	3    Subdomain Name(s)
+	54.186.0.0/15     	3    Subdomain Name(s)
+	52.36.0.0/14      	1    Subdomain Name(s)
+	34.208.0.0/12     	1    Subdomain Name(s)
+	52.52.0.0/15      	2    Subdomain Name(s)
+	13.236.8.128/25   	1    Subdomain Name(s)
+	52.10.0.0/15      	1    Subdomain Name(s)
+	54.68.0.0/15      	1    Subdomain Name(s)
+	35.156.0.0/14     	1    Subdomain Name(s)
+	54.192.148.0/22   	4    Subdomain Name(s)
+	54.200.0.0/15     	1    Subdomain Name(s)
+	52.8.0.0/16       	3    Subdomain Name(s)
+ASN: 54113 - FASTLY - Fastly, US
+	23.185.0.0/24     	2    Subdomain Name(s)
+	2620:12a:8000::/44	2    Subdomain Name(s)
+ASN: 13335 - CLOUDFLARENET
+	104.16.0.0/12     	35   Subdomain Name(s)
+	2606:4700::/32    	5    Subdomain Name(s)
+	172.64.0.0/13     	15   Subdomain Name(s)
+ASN: 15169 - GOOGLE - Google LLC, US
+	35.200.0.0/14     	1    Subdomain Name(s)
+ASN: 32475 - SINGLEHOP-LLC - SingleHop LLC, US
+	67.212.160.0/19   	1    Subdomain Name(s)
+ASN: 2635 - AUTOMATTIC - Automattic, Inc, US
+	192.0.78.0/24     	2    Subdomain Name(s)
+ASN: 14618 - Amazon-AES-IAD Amazon-AES-IAD
+	18.208.0.0/13     	7    Subdomain Name(s)
+	35.168.0.0/13     	3    Subdomain Name(s)
+	34.224.0.0/12     	2    Subdomain Name(s)
+	23.22.0.0/15      	1    Subdomain Name(s)
+	52.4.0.0/14       	2    Subdomain Name(s)
+	34.192.0.0/12     	7    Subdomain Name(s)
+Average DNS queries performed: 1116/sec, DNS names remaining: 21
+Average DNS queries performed: 13/sec, DNS names remaining: 13
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+20 names discovered - cert: 12, dns: 1, brute: 6, api: 1
+--------------------------------------------------------------------------------
+ASN: 26496 - GODADDY GoDaddy.com, Inc.
+	173.201.192.0/22  	7    Subdomain Name(s)
+	72.167.216.0/22   	2    Subdomain Name(s)
+	45.40.128.0/18    	1    Subdomain Name(s)
+	68.178.252.0/22   	3    Subdomain Name(s)
+	97.74.132.0/22    	2    Subdomain Name(s)
+ASN: 15169 - MERIT-ASN Merit Network Inc.
+	35.190.192.0/19   	4    Subdomain Name(s)
+	35.208.0.0/12     	1    Subdomain Name(s)
+	35.186.0.0/16     	1    Subdomain Name(s)
+	35.189.64.0/19    	1    Subdomain Name(s)
+	35.240.0.0/14     	4    Subdomain Name(s)
+	35.232.0.0/14     	4    Subdomain Name(s)
+	34.76.0.0/14      	2    Subdomain Name(s)
+ASN: 51055 - BRIDGEP-AS, GB
+	185.62.157.0/24   	1    Subdomain Name(s)
+ASN: 15395 - RACKSPACE-LON Rackspace UK
+	162.13.0.0/16     	1    Subdomain Name(s)
+Average DNS queries performed: 153/sec, DNS names remaining: 3
+Average DNS queries performed: 2/sec, DNS names remaining: 1
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+4 names discovered - brute: 3, dns: 1
+--------------------------------------------------------------------------------
+ASN: 13335 - CLOUDFLARENET - Cloudflare, Inc., US
+	104.28.16.0/20    	7    Subdomain Name(s)
+	2606:4700:30::/44 	4    Subdomain Name(s)
+Average DNS queries performed: 301/sec, DNS names remaining: 5
+Average DNS queries performed: 3/sec, DNS names remaining: 3
+Average DNS queries performed: 1/sec, DNS names remaining: 2
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+11 names discovered - dns: 3, cert: 1, brute: 5, api: 1, alt: 1
+--------------------------------------------------------------------------------
+ASN: 16276 - OVH SAS Shared Hosting Servers http://www.ovh.com
+	213.186.32.0/19   	3    Subdomain Name(s)
+	193.70.0.0/17     	6    Subdomain Name(s)
+ASN: 12876 - AS12876, FR
+	163.172.0.0/16    	2    Subdomain Name(s)
+Average DNS queries performed: 1623/sec, DNS names remaining: 2249
+Average DNS queries performed: 374/sec, DNS names remaining: 13
+Average DNS queries performed: 11/sec, DNS names remaining: 5
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+76 names discovered - api: 8, alt: 2, cert: 55, dns: 1, brute: 10
+--------------------------------------------------------------------------------
+ASN: 15169 - GOOGLE - Google LLC, US
+	35.224.0.0/14     	7    Subdomain Name(s)
+	74.125.203.0/24   	1    Subdomain Name(s)
+	2a00:1450:4016::/48	1    Subdomain Name(s)
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc., US
+	13.35.96.0/21     	4    Subdomain Name(s)
+	52.40.0.0/14      	5    Subdomain Name(s)
+	2600:9000:21eb::/48	8    Subdomain Name(s)
+	52.219.120.0/24   	1    Subdomain Name(s)
+	52.32.0.0/14      	3    Subdomain Name(s)
+	54.212.0.0/16     	1    Subdomain Name(s)
+	52.10.0.0/15      	3    Subdomain Name(s)
+	54.200.0.0/15     	6    Subdomain Name(s)
+	143.204.208.0/21  	4    Subdomain Name(s)
+	52.12.0.0/15      	1    Subdomain Name(s)
+	34.208.0.0/12     	15   Subdomain Name(s)
+	54.68.0.0/15      	9    Subdomain Name(s)
+	54.148.0.0/15     	7    Subdomain Name(s)
+	54.244.0.0/18     	1    Subdomain Name(s)
+	52.219.112.0/24   	2    Subdomain Name(s)
+	52.52.0.0/15      	1    Subdomain Name(s)
+	54.191.0.0/16     	1    Subdomain Name(s)
+	54.219.128.0/18   	1    Subdomain Name(s)
+	35.160.0.0/13     	15   Subdomain Name(s)
+	52.88.0.0/15      	6    Subdomain Name(s)
+	35.155.0.0/16     	1    Subdomain Name(s)
+	54.186.0.0/15     	2    Subdomain Name(s)
+	54.245.0.0/17     	1    Subdomain Name(s)
+	52.222.226.0/23   	4    Subdomain Name(s)
+	54.190.0.0/16     	1    Subdomain Name(s)
+	54.70.0.0/15      	2    Subdomain Name(s)
+	50.112.128.0/19   	1    Subdomain Name(s)
+	52.24.0.0/14      	8    Subdomain Name(s)
+	54.231.169.0/24   	1    Subdomain Name(s)
+	52.36.0.0/14      	6    Subdomain Name(s)
+	54.213.0.0/16     	5    Subdomain Name(s)
+	54.230.12.0/22    	4    Subdomain Name(s)
+	54.67.0.0/17      	1    Subdomain Name(s)
+ASN: 26496 - ACS-MY Proxy-registered aut-num object f
+	23.229.192.0/19   	1    Subdomain Name(s)
+ASN: 14061 - DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+	107.170.192.0/18  	1    Subdomain Name(s)
+ASN: 13335 - CLOUDFLARENET - Cloudflare, Inc., US
+	2606:4700::/44    	5    Subdomain Name(s)
+	104.17.112.0/20   	5    Subdomain Name(s)
+ASN: 53580 - MARKETO - MARKETO, Inc., US
+	192.28.154.0/23   	1    Subdomain Name(s)
+ASN: 0 - Reserved Network Address Blocks
+	172.16.0.0/12     	2    Subdomain Name(s)
+Average DNS queries performed: 503/sec, DNS names remaining: 4
+Average DNS queries performed: 6/sec, DNS names remaining: 2
+Average DNS queries performed: 1/sec, DNS names remaining: 0
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+17 names discovered - brute: 1, cert: 15, dns: 1
+--------------------------------------------------------------------------------
+ASN: 63949 - LINODE-AP Linode, LLC, US
+	45.56.64.0/20     	2    Subdomain Name(s)
+ASN: 15169 - GOOGLE - Google LLC, US
+	104.197.32.0/19   	7    Subdomain Name(s)
+	104.154.32.0/19   	1    Subdomain Name(s)
+ASN: 14618 - AMAZON-AES - Amazon.com, Inc., US
+	54.84.0.0/15      	1    Subdomain Name(s)
+	52.200.0.0/13     	3    Subdomain Name(s)
+	3.208.0.0/12      	3    Subdomain Name(s)
+ASN: 13335 - CLOUDFLARENET - Cloudflare, Inc., US
+	2606:4700::/44    	10   Subdomain Name(s)
+	104.16.48.0/20    	5    Subdomain Name(s)
+	104.17.112.0/20   	10   Subdomain Name(s)
+Average DNS queries performed: 57/sec, DNS names remaining: 4441
+Average DNS queries performed: 76/sec, DNS names remaining: 2501
+Average DNS queries performed: 69/sec, DNS names remaining: 2063
+Average DNS queries performed: 42/sec, DNS names remaining: 1243
+Average DNS queries performed: 33/sec, DNS names remaining: 471
+Average DNS queries performed: 10/sec, DNS names remaining: 105
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+13 names discovered - cert: 7, dns: 1, scrape: 1, api: 1, brute: 3
+--------------------------------------------------------------------------------
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc., US
+	52.57.0.0/16      	1    Subdomain Name(s)
+	52.29.0.0/16      	2    Subdomain Name(s)
+	52.28.0.0/16      	2    Subdomain Name(s)
+	54.93.128.0/17    	4    Subdomain Name(s)
+	76.223.9.0/24     	1    Subdomain Name(s)
+	52.58.0.0/15      	4    Subdomain Name(s)
+	3.120.0.0/14      	1    Subdomain Name(s)
+	54.93.32.0/19     	1    Subdomain Name(s)
+	54.93.64.0/18     	1    Subdomain Name(s)
+	35.156.0.0/14     	4    Subdomain Name(s)
+	13.248.141.0/24   	1    Subdomain Name(s)
+ASN: 14618 - AMAZON-AES - Amazon.com, Inc., US
+	34.192.0.0/12     	2    Subdomain Name(s)
+ASN: 15169 - GOOGLE - Google LLC, US
+	2a00:1450:400f::/48	2    Subdomain Name(s)
+Average DNS queries performed: 111/sec, DNS names remaining: 4
+Average DNS queries performed: 2/sec, DNS names remaining: 1
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+3 names discovered - dns: 1, cert: 1, ext: 1
+--------------------------------------------------------------------------------
+ASN: 201660 - JETSERVER-LTD, IL
+	185.56.72.0/22    	2    Subdomain Name(s)
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc., US
+	13.225.96.0/21    	4    Subdomain Name(s)
+Average DNS queries performed: 1610/sec, DNS names remaining: 4265
+Average DNS queries performed: 1633/sec, DNS names remaining: 34
+Average DNS queries performed: 75/sec, DNS names remaining: 22
+Average DNS queries performed: 24/sec, DNS names remaining: 9
+Average DNS queries performed: 4/sec, DNS names remaining: 3
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+131 names discovered - cert: 69, api: 42, brute: 9, scrape: 5, dns: 1, alt: 5
+--------------------------------------------------------------------------------
+ASN: 14618 - AMAZON-AES - Amazon.com, Inc., US
+	54.152.0.0/16     	2    Subdomain Name(s)
+	54.90.0.0/15      	4    Subdomain Name(s)
+	3.208.0.0/12      	2    Subdomain Name(s)
+	34.192.0.0/12     	1    Subdomain Name(s)
+	18.208.0.0/13     	3    Subdomain Name(s)
+	18.232.0.0/14     	16   Subdomain Name(s)
+	34.224.0.0/12     	11   Subdomain Name(s)
+	3.80.0.0/12       	7    Subdomain Name(s)
+	174.129.0.0/16    	1    Subdomain Name(s)
+	52.90.0.0/15      	1    Subdomain Name(s)
+	54.172.0.0/15     	9    Subdomain Name(s)
+ASN: 13335 - CLOUDFLARENET - Cloudflare, Inc., US
+	104.26.0.0/20     	20   Subdomain Name(s)
+	2606:4700:20::/44 	20   Subdomain Name(s)
+ASN: 26496 - ASN-PACIFIC-INTERNET-IX ASN-PACIFIC-INTE
+	203.124.116.0/22  	1    Subdomain Name(s)
+	166.62.8.0/22     	3    Subdomain Name(s)
+ASN: 19271 - PEAK10-AS19271 Peak 10, Inc.
+	74.126.94.0/24    	1    Subdomain Name(s)
+ASN: 33597 - INFORELAY http://www.inforelay.com
+	67.208.93.0/24    	2    Subdomain Name(s)
+ASN: 15169 - MERIT-ASN Merit Network Inc.
+	35.192.0.0/14     	1    Subdomain Name(s)
+	35.224.0.0/14     	2    Subdomain Name(s)
+	35.184.128.0/19   	25   Subdomain Name(s)
+	104.197.224.0/19  	3    Subdomain Name(s)
+	35.228.0.0/14     	5    Subdomain Name(s)
+	104.198.128.0/19  	2    Subdomain Name(s)
+	35.236.0.0/14     	5    Subdomain Name(s)
+	107.178.192.0/18  	2    Subdomain Name(s)
+ASN: 16509 - Amazon.com, Inc. (AMAZO-48)
+	54.219.192.0/18   	7    Subdomain Name(s)
+	54.219.128.0/18   	3    Subdomain Name(s)
+	13.57.0.0/16      	2    Subdomain Name(s)
+Average DNS queries performed: 118/sec, DNS names remaining: 2
+Average DNS queries performed: 1/sec, DNS names remaining: 1
+Average DNS queries performed: 1/sec, DNS names remaining: 1
+
+OWASP Amass v3.1.9                                https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+2 names discovered - cert: 1, dns: 1
+--------------------------------------------------------------------------------
+ASN: 15169 - GOOGLE - Google LLC, US
+	23.236.48.0/20    	1    Subdomain Name(s)
+ASN: 58182 - WIX_COM, IL
+	185.230.61.0/24   	1    Subdomain Name(s)

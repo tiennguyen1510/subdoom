@@ -1,0 +1,76 @@
+[Crtsh]           in-s.symphonyrm.com
+[Forward DNS]     symphonyrm.com
+[Brute Forcing]   autodiscover.symphonyrm.com
+[Crtsh]           portals.symphonyrm.com
+[Brute Forcing]   content.symphonyrm.com
+[Brute Forcing]   webmail.symphonyrm.com
+[Crtsh]           demoportal.symphonyrm.com
+[BufferOver]      middlesex.symphonyrm.com
+[Brute Forcing]   admin.symphonyrm.com
+[Crtsh]           jh.symphonyrm.com
+[BufferOver]      vca-staging.symphonyrm.com
+[BufferOver]      iapp-staging.symphonyrm.com
+[Brute Forcing]   logs.symphonyrm.com
+[Brute Forcing]   mail.symphonyrm.com
+[BufferOver]      insight.symphonyrm.com
+[BufferOver]      vpn.symphonyrm.com
+[Crtsh]           ui.sonar.symphonyrm.com
+[Crtsh]           nginx.sonar.symphonyrm.com
+[Brute Forcing]   ftp.symphonyrm.com
+[Brute Forcing]   files.symphonyrm.com
+[BufferOver]      griffin-staging.symphonyrm.com
+[Alterations]     ie-s.symphonyrm.com
+[Crtsh]           qa2-t.symphonyrm.com
+[Crtsh]           insight-staging.symphonyrm.com
+[Crtsh]           ibcs-s.symphonyrm.com
+[Crtsh]           rebels-two.symphonyrm.com
+[Crtsh]           dev.symphonyrm.com
+[Crtsh]           matomo-s.symphonyrm.com
+[Crtsh]           demo.symphonyrm.com
+[Crtsh]           griffin.symphonyrm.com
+[Crtsh]           qa3-t.symphonyrm.com
+[Crtsh]           wchn.symphonyrm.com
+[Crtsh]           virtua.symphonyrm.com
+[Crtsh]           solutions-scheduler-s.symphonyrm.com
+[Crtsh]           stvincents-s.symphonyrm.com
+[Crtsh]           demoprm.symphonyrm.com
+[Crtsh]           midhosp-s.symphonyrm.com
+[Crtsh]           svhp.symphonyrm.com
+[Crtsh]           prospect.symphonyrm.com
+[Crtsh]           prohealth.symphonyrm.com
+[Crtsh]           midhosp.symphonyrm.com
+[Crtsh]           prospect-s.symphonyrm.com
+[Crtsh]           prohealth-s.symphonyrm.com
+[Crtsh]           virtua-s.symphonyrm.com
+[Crtsh]           ibcs.symphonyrm.com
+[Name Service]    www.admin.symphonyrm.com
+[Crtsh]           inova.symphonyrm.com
+[GoogleCT]        external.api.symphonyrm.com
+[Crtsh]           inova-s.symphonyrm.com
+[Crtsh]           react-s.symphonyrm.com
+[Crtsh]           honorhealth.symphonyrm.com
+[Crtsh]           intranet.symphonyrm.com
+[Crtsh]           rockstars-one.symphonyrm.com
+[Crtsh]           train.symphonyrm.com
+[Crtsh]           rockstars-two.symphonyrm.com
+[Crtsh]           rebels-one.symphonyrm.com
+[Crtsh]           matomo.symphonyrm.com
+[Crtsh]           appdata-s.symphonyrm.com
+[Crtsh]           griffin-s.symphonyrm.com
+[Brute Forcing]   autodiscover.admin.symphonyrm.com
+[Crtsh]           stvincents.symphonyrm.com
+[Crtsh]           honorhealth-s.symphonyrm.com
+[Crtsh]           scheduler-s.symphonyrm.com
+[Crtsh]           iapp-s.symphonyrm.com
+[Crtsh]           e2e-s.symphonyrm.com
+[Crtsh]           svhp-s.symphonyrm.com
+[Crtsh]           scheduler.symphonyrm.com
+[Crtsh]           iapp.symphonyrm.com
+[Crtsh]           www.symphonyrm.com
+[Crtsh]           solutions-scheduler.symphonyrm.com
+[Crtsh]           external-s.api.symphonyrm.com
+[Crtsh]           multicare-s.symphonyrm.com
+[BufferOver]      trial-1.symphonyrm.com
+[BufferOver]      multicare.symphonyrm.com
+[Crtsh]           resources.symphonyrm.com
+[Brute Forcing]   go.symphonyrm.com

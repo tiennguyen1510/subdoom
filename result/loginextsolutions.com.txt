@@ -1,0 +1,32 @@
+[Forward DNS]     loginextsolutions.com
+[Crtsh]           www.loginextsolutions.com
+[Crtsh]           blog.loginextsolutions.com
+[Crtsh]           jobs.loginextsolutions.com
+[Name Service]    ftp.loginextsolutions.com
+[Brute Forcing]   demo.loginextsolutions.com
+[Brute Forcing]   live.loginextsolutions.com
+[BufferOver]      support.loginextsolutions.com
+[Brute Forcing]   testing.loginextsolutions.com
+[BufferOver]      jenkins.loginextsolutions.com
+[Brute Forcing]   developers.loginextsolutions.com
+[Brute Forcing]   website.loginextsolutions.com
+[Brute Forcing]   ups.loginextsolutions.com
+[Brute Forcing]   beta.loginextsolutions.com
+[Brute Forcing]   mobile.loginextsolutions.com
+[BufferOver]      ibmcloud.loginextsolutions.com
+[BufferOver]      kibana.loginextsolutions.com
+[DNSDumpster]     o1.mails.loginextsolutions.com
+[VirusTotal]      api.loginextsolutions.com
+[Brute Forcing]   docs.loginextsolutions.com
+[BufferOver]      products.loginextsolutions.com
+[Brute Forcing]   mail.loginextsolutions.com
+[Brute Forcing]   calendar.loginextsolutions.com
+[Alterations]     demo2.loginextsolutions.com
+[Brute Forcing]   email.loginextsolutions.com
+[AlienVault]      click.loginextsolutions.com
+[Brute Forcing]   smtp.loginextsolutions.com
+[Brute Forcing]   pop.loginextsolutions.com
+[Crtsh]           comms.loginextsolutions.com
+[CertSpotter]     info.loginextsolutions.com
+[Brute Forcing]   imap.loginextsolutions.com
+[Brute Forcing]   mobilemail.loginextsolutions.com

@@ -1,0 +1,4 @@
+[Brute Forcing]   www.senso.ai
+[Brute Forcing]   dev.senso.ai
+[Brute Forcing]   web.senso.ai
+[Forward DNS]     senso.ai

@@ -1,0 +1,20 @@
+[Crtsh]           staging.prowler.io
+[Crtsh]           piogcpsslvpn.prowler.io
+[Crtsh]           new.prowler.io
+[Crtsh]           piosslvpn.prowler.io
+[Crtsh]           jenkins.proxy.prowler.io
+[Forward DNS]     prowler.io
+[Crtsh]           www.prowler.io
+[Crtsh]           dev.prowler.io
+[Crtsh]           products.prowler.io
+[Crtsh]           api.prowler.io
+[Crtsh]           test.frontend.prowler.io
+[Crtsh]           dev.finance.prowler.io
+[Brute Forcing]   ftp.prowler.io
+[Brute Forcing]   old.prowler.io
+[Brute Forcing]   customers.prowler.io
+[Crtsh]           stg.jenkins.proxy.prowler.io
+[AlienVault]      env-dev.products.prowler.io
+[Brute Forcing]   dev.customer.prowler.io
+[Brute Forcing]   dev.products.prowler.io
+[Brute Forcing]   email.prowler.io
