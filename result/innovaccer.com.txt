@@ -1,60 +1,62 @@
-[Crtsh]           mountrail.innovaccer.com
-[Forward DNS]     innovaccer.com
 [Crtsh]           physician.innovaccer.com
-[BufferOver]      vbr.innovaccer.com
-[Brute Forcing]   careers.innovaccer.com
-[Crtsh]           www.innovaccer.com
-[Crtsh]           survey.innovaccer.com
-[Crtsh]           datashop.innovaccer.com
-[Crtsh]           resources.innovaccer.com
-[Crtsh]           utilization.innovaccer.com
-[Riddler]         legal.innovaccer.com
-[BufferOver]      sdoh.innovaccer.com
-[Brute Forcing]   docs.innovaccer.com
-[Brute Forcing]   mail.innovaccer.com
-[Riddler]         store.innovaccer.com
-[AlienVault]      aco.innovaccer.com
 [Crtsh]           stratifi.innovaccer.com
-[Brute Forcing]   qa.innovaccer.com
-[Brute Forcing]   calendar.innovaccer.com
-[BufferOver]      imperium.innovaccer.com
-[Brute Forcing]   feedback.innovaccer.com
-[Brute Forcing]   solutions.innovaccer.com
-[BufferOver]      psw.innovaccer.com
-[Brute Forcing]   orlando.innovaccer.com
-[Brute Forcing]   lib.innovaccer.com
+[Previous Enum]   training.innovaccer.com
+[Previous Enum]   staging-sanjoaquingeneral.innovaccer.com
+[Previous Enum]   hartford.innovaccer.com
+[Previous Enum]   saturn.innovaccer.com
+[Previous Enum]   hola.innovaccer.com
+[Crtsh]           mountrail.innovaccer.com
+[Previous Enum]   indata-beta.innovaccer.com
+[Previous Enum]   tessellate.innovaccer.com
 [Brute Forcing]   blog.innovaccer.com
-[Riddler]         hola.innovaccer.com
-[BufferOver]      training.innovaccer.com
-[BufferOver]      ucsd.innovaccer.com
-[BufferOver]      ahn.innovaccer.com
-[BufferOver]      demo.innovaccer.com
-[BufferOver]      imperium-mssp.innovaccer.com
-[BufferOver]      tessellate.innovaccer.com
-[Brute Forcing]   beta.innovaccer.com
-[BufferOver]      hartford.innovaccer.com
+[Brute Forcing]   orlando.innovaccer.com
 [Brute Forcing]   support.innovaccer.com
-[BufferOver]      indata-beta.innovaccer.com
-[BufferOver]      inmediata.innovaccer.com
-[BufferOver]      staging-dupage.innovaccer.com
-[BufferOver]      cmics.innovaccer.com
-[BufferOver]      humana.innovaccer.com
-[BufferOver]      pediatric.innovaccer.com
-[BufferOver]      osler.innovaccer.com
-[Brute Forcing]   apps.innovaccer.com
-[VirusTotal]      mercy-training.innovaccer.com
-[BufferOver]      git.innovaccer.com
-[BufferOver]      boncura.innovaccer.com
-[BufferOver]      dupage.innovaccer.com
-[Brute Forcing]   saturn.innovaccer.com
-[CommonCrawl]     500strong.innovaccer.com
-[DNSDumpster]     staging-imperium-mssp.innovaccer.com
-[Brute Forcing]   imap.innovaccer.com
-[DNSDumpster]     staging-imperium.innovaccer.com
-[DNSDumpster]     sanjoaquingeneral.innovaccer.com
+[Previous Enum]   staging-imperium-mssp.innovaccer.com
+[Previous Enum]   mssp.innovaccer.com
+[Previous Enum]   ucsd.innovaccer.com
+[Previous Enum]   demo.innovaccer.com
+[Previous Enum]   inmediata.innovaccer.com
+[Previous Enum]   staging-imperium.innovaccer.com
+[Previous Enum]   psw.innovaccer.com
+[Previous Enum]   git.innovaccer.com
+[Previous Enum]   ahn.innovaccer.com
+[Previous Enum]   qa.innovaccer.com
+[Forward DNS]     innovaccer.com
+[Previous Enum]   vbr.innovaccer.com
+[Previous Enum]   careers.innovaccer.com
+[Previous Enum]   apps.innovaccer.com
+[Previous Enum]   dupage.innovaccer.com
+[Previous Enum]   staging-dupage.innovaccer.com
+[Brute Forcing]   beta.innovaccer.com
+[Previous Enum]   mercy-training.innovaccer.com
+[Previous Enum]   osler.innovaccer.com
+[Previous Enum]   lib.innovaccer.com
+[Previous Enum]   pediatric.innovaccer.com
+[Previous Enum]   humana.innovaccer.com
+[Previous Enum]   imperium.innovaccer.com
+[Previous Enum]   boncura.innovaccer.com
+[Previous Enum]   cmics.innovaccer.com
+[Previous Enum]   imperium-mssp.innovaccer.com
+[Previous Enum]   sanjoaquingeneral.innovaccer.com
+[Crtsh]           resources.innovaccer.com
+[Censys]          sdoh.innovaccer.com
+[Crtsh]           utilization.innovaccer.com
+[Crtsh]           datashop.innovaccer.com
+[Crtsh]           survey.innovaccer.com
+[Censys]          aco.innovaccer.com
+[Crtsh]           www.innovaccer.com
+[Previous Enum]   store.innovaccer.com
+[Brute Forcing]   mail.innovaccer.com
+[Brute Forcing]   calendar.innovaccer.com
+[Previous Enum]   legal.innovaccer.com
+[Brute Forcing]   feedback.innovaccer.com
+[Previous Enum]   docs.innovaccer.com
+[Previous Enum]   500strong.innovaccer.com
+[Previous Enum]   solutions.innovaccer.com
+[Brute Forcing]   smtp.innovaccer.com
 [Crtsh]           developers.innovaccer.com
 [Crtsh]           content.innovaccer.com
-[Brute Forcing]   smtp.innovaccer.com
-[Brute Forcing]   pop.innovaccer.com
-[Alterations]     mssp.innovaccer.com
-[Alterations]     staging-sanjoaquingeneral.innovaccer.com
+[Brute Forcing]   imap.innovaccer.com
+[Previous Enum]   pop.innovaccer.com
+[Alterations]     staging-beta.innovaccer.com
+[Alterations]     staging-cmics.innovaccer.com

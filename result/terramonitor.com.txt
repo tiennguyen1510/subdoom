@@ -1,13 +1,14 @@
-[Crtsh]           db.terramonitor.com
+[BufferOver]      db.terramonitor.com
 [Forward DNS]     terramonitor.com
 [Crtsh]           infra.terramonitor.com
-[Crtsh]           app.terramonitor.com
-[Crtsh]           mapserver.terramonitor.com
 [Crtsh]           www.terramonitor.com
-[Crtsh]           maps.terramonitor.com
-[Ask]             forest-beta.terramonitor.com
-[BufferOver]      feed.terramonitor.com
-[Brute Forcing]   blog.terramonitor.com
-[Brute Forcing]   calendar.terramonitor.com
-[Brute Forcing]   mail.terramonitor.com
+[Crtsh]           app.terramonitor.com
+[Previous Enum]   feed.terramonitor.com
+[BufferOver]      blog.terramonitor.com
+[Previous Enum]   mail.terramonitor.com
+[Previous Enum]   calendar.terramonitor.com
+[Previous Enum]   forest-beta.terramonitor.com
 [Crtsh]           beta.terramonitor.com
+[Crtsh]           mapserver.terramonitor.com
+[Crtsh]           maps.terramonitor.com
+[Name Service]    www.feed.terramonitor.com

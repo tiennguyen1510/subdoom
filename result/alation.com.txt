@@ -1,9 +1,8 @@
 [Forward DNS]     alation.com
 [CertSpotter]     www.alation.com
-[BufferOver]      rosemeta.alation.com
-[Brute Forcing]   ftp.alation.com
+[Previous Enum]   rosemeta.alation.com
+[Previous Enum]   ftp.alation.com
 [CertSpotter]     community.alation.com
-[AlienVault]      cdn.alation.com
-[CertSpotter]     go.alation.com
 [CertSpotter]     enterpriseenrollment.alation.com
-[BufferOver]      partners.alation.com
+[CertSpotter]     go.alation.com
+[Brute Forcing]   partners.alation.com

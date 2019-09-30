@@ -1,14 +1,13 @@
 [Crtsh]           lp.cinnamon.is
 [Forward DNS]     cinnamon.is
-[Crtsh]           i.cinnamon.is
-[VirusTotal]      dev.cinnamon.is
-[VirusTotal]      em.cinnamon.is
-[BufferOver]      dev-platform.cinnamon.is
-[Brute Forcing]   products.cinnamon.is
-[HackerTarget]    stag-datapile.cinnamon.is
 [Brute Forcing]   www.cinnamon.is
-[BufferOver]      datapile.cinnamon.is
-[BufferOver]      dev-datapile.cinnamon.is
-[VirusTotal]      go.cinnamon.is
-[Alterations]     platform.cinnamon.is
-[BufferOver]      www.dora.cinnamon.is
+[Brute Forcing]   products.cinnamon.is
+[Previous Enum]   stag-datapile.cinnamon.is
+[Crtsh]           i.cinnamon.is
+[Previous Enum]   dev.cinnamon.is
+[Previous Enum]   datapile.cinnamon.is
+[Previous Enum]   go.cinnamon.is
+[Previous Enum]   em.cinnamon.is
+[Previous Enum]   dev-datapile.cinnamon.is
+[Previous Enum]   platform.cinnamon.is
+[Previous Enum]   dev-platform.cinnamon.is

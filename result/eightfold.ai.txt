@@ -1,16 +1,16 @@
 [Forward DNS]     eightfold.ai
-[Crtsh]           pages.eightfold.ai
 [Crtsh]           www.eightfold.ai
-[Brute Forcing]   stage.eightfold.ai
-[CommonCrawl]     tatacommunications.eightfold.ai
-[VirusTotal]      gigamon.eightfold.ai
-[VirusTotal]      nutanix.eightfold.ai
-[VirusTotal]      bluebirdbio.eightfold.ai
-[VirusTotal]      wpengine.eightfold.ai
-[VirusTotal]      hioscar.eightfold.ai
-[VirusTotal]      vale.eightfold.ai
-[Brute Forcing]   app.eightfold.ai
-[VirusTotal]      conagra.eightfold.ai
+[Previous Enum]   hioscar.eightfold.ai
+[Previous Enum]   nutanix.eightfold.ai
+[Previous Enum]   conagra.eightfold.ai
+[Censys]          app.eightfold.ai
+[Previous Enum]   elevateservices.eightfold.ai
+[Previous Enum]   tatacommunications.eightfold.ai
+[Previous Enum]   gigamon.eightfold.ai
 [Brute Forcing]   demo.eightfold.ai
-[BufferOver]      elevateservices.eightfold.ai
-[Brute Forcing]   li.eightfold.ai
+[Previous Enum]   li.eightfold.ai
+[Previous Enum]   wpengine.eightfold.ai
+[Previous Enum]   vale.eightfold.ai
+[Previous Enum]   bluebirdbio.eightfold.ai
+[Previous Enum]   stage.eightfold.ai
+[Previous Enum]   pages.eightfold.ai

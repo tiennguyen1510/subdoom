@@ -1,26 +1,28 @@
-[Brute Forcing]   mail.anodot.com
 [Forward DNS]     anodot.com
-[Brute Forcing]   ftp.anodot.com
-[CertSpotter]     support.anodot.com
-[Censys]          app.anodot.com
-[VirusTotal]      api.anodot.com
-[Brute Forcing]   feedback.anodot.com
-[CertSpotter]     www.anodot.com
-[Brute Forcing]   calendar.anodot.com
-[Brute Forcing]   ap.anodot.com
-[Brute Forcing]   au.anodot.com
-[Brute Forcing]   ci.anodot.com
-[Brute Forcing]   email.anodot.com
-[Brute Forcing]   mobilemail.anodot.com
-[Brute Forcing]   smtp.anodot.com
-[CertSpotter]     blog.anodot.com
-[CertSpotter]     go.anodot.com
+[Previous Enum]   ftp.anodot.com
+[Previous Enum]   feedback.anodot.com
+[Previous Enum]   mail.anodot.com
+[Crtsh]           www.anodot.com
+[Crtsh]           support.anodot.com
+[Previous Enum]   email.anodot.com
+[Previous Enum]   docs.anodot.com
+[Previous Enum]   or.anodot.com
 [Brute Forcing]   cdn.anodot.com
-[Brute Forcing]   or.anodot.com
+[Crtsh]           go.anodot.com
+[Crtsh]           blog.anodot.com
+[Brute Forcing]   calendar.anodot.com
+[Previous Enum]   status.anodot.com
+[Previous Enum]   api.anodot.com
 [Brute Forcing]   att.anodot.com
-[Brute Forcing]   pop.anodot.com
+[Previous Enum]   mobilemail.anodot.com
+[Brute Forcing]   au.anodot.com
+[Previous Enum]   imap.anodot.com
+[Previous Enum]   ci.anodot.com
+[ArchiveToday]    app.anodot.com
+[Previous Enum]   ap.anodot.com
+[Previous Enum]   app2.anodot.com
+[Previous Enum]   smtp.anodot.com
 [Brute Forcing]   in.anodot.com
-[Brute Forcing]   imap.anodot.com
-[Alterations]     app2.anodot.com
-[Brute Forcing]   files.anodot.com
-[Brute Forcing]   fax.anodot.com
+[Previous Enum]   files.anodot.com
+[Previous Enum]   pop.anodot.com
+[Previous Enum]   fax.anodot.com

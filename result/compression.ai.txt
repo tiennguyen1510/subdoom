@@ -1,6 +1,6 @@
 [Forward DNS]     compression.ai
-[CommonCrawl]     developer.compression.ai
-[Brute Forcing]   app.compression.ai
-[Brute Forcing]   www.compression.ai
-[Yahoo]           playground.compression.ai
-[Brute Forcing]   cdn.compression.ai
+[Previous Enum]   developer.compression.ai
+[Previous Enum]   playground.compression.ai
+[Previous Enum]   www.compression.ai
+[Previous Enum]   app.compression.ai
+[Previous Enum]   cdn.compression.ai

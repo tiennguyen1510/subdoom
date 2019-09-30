@@ -1,77 +1,76 @@
-[HackerTarget]    remote.crowdstrike.com
-[CertSpotter]     falcon.crowdstrike.com
-[Brute Forcing]   services.crowdstrike.com
-[Brute Forcing]   vader.crowdstrike.com
-[Brute Forcing]   download.crowdstrike.com
-[CertSpotter]     pluto.crowdstrike.com
-[CertSpotter]     proxy.osmium.crowdstrike.com
-[CertSpotter]     osmium.crowdstrike.com
-[Brute Forcing]   conference.osmium.crowdstrike.com
-[CertSpotter]     ashburn-gw.crowdstrike.com
-[Brute Forcing]   www.crowdstrike.com
-[CertSpotter]     venom.crowdstrike.com
-[Brute Forcing]   mail.crowdstrike.com
-[HackerTarget]    seamstress.crowdstrike.com
-[CertSpotter]     press.crowdstrike.com
-[Brute Forcing]   support.crowdstrike.com
-[HackerTarget]    shouldertap.crowdstrike.com
-[HackerTarget]    marketing.crowdstrike.com
-[HackerTarget]    ui01-b.crowdstrike.com
-[CertSpotter]     cs-staging-2-www.crowdstrike.com
-[CertSpotter]     sunny.crowdstrike.com
-[Brute Forcing]   software.crowdstrike.com
-[HackerTarget]    cs-staging-www.crowdstrike.com
-[CertSpotter]     mobilelasso.crowdstrike.com
-[HackerTarget]    dragos.crowdstrike.com
-[CertSpotter]     api.crowdstrike.com
-[HackerTarget]    re.api.crowdstrike.com
-[CertSpotter]     frontier.crowdstrike.com
-[HackerTarget]    blog.crowdstrike.com
-[CertSpotter]     r2d2.crowdstrike.com
+[Crtsh]           crowdre.crowdstrike.com
+[Crtsh]           frontier.crowdstrike.com
+[Crtsh]           api.crowdstrike.com
+[Crtsh]           shouldertap.crowdstrike.com
+[Crtsh]           mail.crowdstrike.com
+[Crtsh]           rabbithole.crowdstrike.com
+[Crtsh]           support.crowdstrike.com
 [Forward DNS]     crowdstrike.com
-[CertSpotter]     firehose.crowdstrike.com
-[HackerTarget]    rabbithole.crowdstrike.com
-[HackerTarget]    iportalmailer.crowdstrike.com
-[VirusTotal]      transform.crowdstrike.com
-[HackerTarget]    dragosx.crowdstrike.com
-[HackerTarget]    info2.crowdstrike.com
-[HackerTarget]    crowdre.crowdstrike.com
-[BufferOver]      cf-p.falcon.crowdstrike.com
-[BufferOver]      assets-public.falcon.crowdstrike.com
-[AlienVault]      assets.falcon.crowdstrike.com
-[CertSpotter]     cs-staging-services.crowdstrike.com
-[CertSpotter]     falconapi.eu-1.crowdstrike.com
-[CertSpotter]     falcon.eu-1.crowdstrike.com
-[CertSpotter]     community.crowdstrike.com
-[BufferOver]      connect.crowdstrike.com
-[BufferOver]      crowdconnect.crowdstrike.com
-[BufferOver]      crowd.crowdstrike.com
-[Brute Forcing]   cc.crowdstrike.com
-[Name Service]    www.venom.crowdstrike.com
-[CertSpotter]     assets.falcon.laggar.gcw.crowdstrike.com
-[CertSpotter]     falcon.laggar.gcw.crowdstrike.com
-[CertSpotter]     assets-public.falcon.laggar.gcw.crowdstrike.com
+[Crtsh]           proxy.osmium.crowdstrike.com
+[Crtsh]           osmium.crowdstrike.com
+[Crtsh]           conference.osmium.crowdstrike.com
+[Crtsh]           cs-staging-2-www.crowdstrike.com
+[Crtsh]           services.crowdstrike.com
+[Crtsh]           mobilelasso.crowdstrike.com
+[Crtsh]           vader.crowdstrike.com
+[Crtsh]           venom.crowdstrike.com
+[Crtsh]           ashburn-gw.crowdstrike.com
+[Crtsh]           sunny.crowdstrike.com
+[Crtsh]           press.crowdstrike.com
+[Crtsh]           r2d2.crowdstrike.com
+[Crtsh]           cs-staging-www.crowdstrike.com
+[Crtsh]           download.crowdstrike.com
+[Crtsh]           blog.crowdstrike.com
+[Forward DNS]     falcon.crowdstrike.com
+[Crtsh]           pluto.crowdstrike.com
+[Brute Forcing]   marketing.crowdstrike.com
+[Brute Forcing]   remote.crowdstrike.com
+[BufferOver]      seamstress.crowdstrike.com
+[Crtsh]           www.crowdstrike.com
+[Brute Forcing]   software.crowdstrike.com
+[Previous Enum]   ui01-b.crowdstrike.com
+[BufferOver]      info2.crowdstrike.com
+[Previous Enum]   safehouse.crowdstrike.com
+[Previous Enum]   iportalmailer.crowdstrike.com
+[BufferOver]      dragos.crowdstrike.com
+[Previous Enum]   dragosx.crowdstrike.com
+[Previous Enum]   www.venom.crowdstrike.com
+[Previous Enum]   transform.crowdstrike.com
+[Crtsh]           cf-p.falcon.crowdstrike.com
+[Crtsh]           assets-public.falcon.crowdstrike.com
+[BufferOver]      re.api.crowdstrike.com
+[Previous Enum]   assets.falcon.crowdstrike.com
+[Crtsh]           community.crowdstrike.com
+[Crtsh]           assets.falcon.laggar.gcw.crowdstrike.com
+[Crtsh]           falcon.laggar.gcw.crowdstrike.com
+[Crtsh]           assets-public.falcon.laggar.gcw.crowdstrike.com
+[Crtsh]           registration.crowdstrike.com
+[Crtsh]           intelapi.crowdstrike.com
+[Crtsh]           firehose.crowdstrike.com
+[Crtsh]           cc.crowdstrike.com
+[Crtsh]           crowdconnect.crowdstrike.com
+[Crtsh]           crowd.crowdstrike.com
+[Crtsh]           connect.crowdstrike.com
+[Crtsh]           falconapi.eu-1.crowdstrike.com
+[Crtsh]           marketplace-registration.crowdstrike.com
+[Crtsh]           firehose.eu-1.crowdstrike.com
+[Crtsh]           firehose.laggar.gcw.crowdstrike.com
+[Crtsh]           intel.crowdstrike.com
+[Crtsh]           bridge-api.crowdstrike.com
+[Crtsh]           info.crowdstrike.com
+[Crtsh]           ghost.crowdstrike.com
+[Crtsh]           falconapi.laggar.gcw.crowdstrike.com
+[Crtsh]           jssc.crowdstrike.com
+[Crtsh]           cs-staging-services.crowdstrike.com
+[Crtsh]           weaver.crowdstrike.com
+[Crtsh]           falcon.eu-1.crowdstrike.com
+[Crtsh]           falconapi.crowdstrike.com
 [BufferOver]      intel-origin1.crowdstrike.com
-[BufferOver]      intelapi.crowdstrike.com
-[CertSpotter]     falconapi.laggar.gcw.crowdstrike.com
-[BufferOver]      falconapi.crowdstrike.com
-[Brute Forcing]   info.crowdstrike.com
-[BufferOver]      jssc.crowdstrike.com
-[CertSpotter]     bridge-api.crowdstrike.com
-[BufferOver]      registration.crowdstrike.com
-[CertSpotter]     weaver.crowdstrike.com
-[CertSpotter]     firehose.laggar.gcw.crowdstrike.com
-[BufferOver]      ghost.crowdstrike.com
-[CertSpotter]     firehose.eu-1.crowdstrike.com
-[CertSpotter]     marketplace-registration.crowdstrike.com
-[Riddler]         intel.crowdstrike.com
-[Brute Forcing]   cf.falcon.crowdstrike.com
-[Brute Forcing]   partner.crowdstrike.com
-[Brute Forcing]   go.crowdstrike.com
-[CertSpotter]     supportportal.crowdstrike.com
-[BufferOver]      store.crowdstrike.com
-[Brute Forcing]   ir.crowdstrike.com
-[BufferOver]      sales-outreach.crowdstrike.com
-[Brute Forcing]   videos.crowdstrike.com
-[Forward DNS]     safehouse.crowdstrike.com
 [Forward DNS]     _ts3._udp.crowdstrike.com
+[Crtsh]           go.crowdstrike.com
+[Brute Forcing]   cf.falcon.crowdstrike.com
+[Crtsh]           sales-outreach.crowdstrike.com
+[Crtsh]           partner.crowdstrike.com
+[Crtsh]           supportportal.crowdstrike.com
+[Crtsh]           videos.crowdstrike.com
+[Crtsh]           ir.crowdstrike.com

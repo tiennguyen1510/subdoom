@@ -1,151 +1,168 @@
-[BufferOver]      test2.dataiku.com
-[Censys]          answers.dataiku.com
-[BufferOver]      analytics-api.dataiku.com
-[BufferOver]      dku20.dataiku.com
-[BufferOver]      analytics-prod.dataiku.com
-[BufferOver]      analytics.dataiku.com
-[BufferOver]      dku10.dataiku.com
-[BufferOver]      dscluster2.dataiku.com
-[BufferOver]      dssdemo2.dataiku.com
-[Forward DNS]     dataiku.com
 [Censys]          www.dataiku.com
-[BufferOver]      dku09.dataiku.com
-[BufferOver]      test3.dataiku.com
-[Censys]          tracker.dataiku.com
-[Censys]          fe-main.dataiku.com
+[Censys]          doc.dataiku.com
+[Previous Enum]   ibox.dataiku.com
+[HackerTarget]    uscluster2.dataiku.com
 [Censys]          downloads.dataiku.com
-[Brute Forcing]   dev.dataiku.com
-[Riddler]         update.dataiku.com
-[BufferOver]      learn.dataiku.com
-[BufferOver]      raas.dataiku.com
-[BufferOver]      my.dataiku.com
-[BufferOver]      fe-saas.dataiku.com
-[BufferOver]      dku06.dataiku.com
-[BufferOver]      gallery.dataiku.com
-[BufferOver]      test1.dataiku.com
-[BufferOver]      dku17.dataiku.com
-[BufferOver]      dku11.dataiku.com
-[BufferOver]      rex.dataiku.com
-[Crtsh]           cobalt-pentest-api.shadow.dataiku.com
-[BufferOver]      dscluster1.dataiku.com
-[BufferOver]      dku16.dataiku.com
-[AlienVault]      academy.dataiku.com
-[BufferOver]      uscluster2.dataiku.com
-[BufferOver]      dscluster4.dataiku.com
-[BufferOver]      dssdemo1.dataiku.com
-[BufferOver]      dku15.dataiku.com
+[Censys]          fe-main.dataiku.com
+[Censys]          tracker.dataiku.com
+[Previous Enum]   dev.dataiku.com
+[Brute Forcing]   update.dataiku.com
+[Previous Enum]   learn.dataiku.com
+[Previous Enum]   test2.dataiku.com
+[Previous Enum]   dscluster1.dataiku.com
+[Censys]          answers.dataiku.com
+[Previous Enum]   analytics-prod.dataiku.com
+[Previous Enum]   dku20.dataiku.com
+[Previous Enum]   raas.dataiku.com
+[Previous Enum]   analytics-api.dataiku.com
+[Previous Enum]   dscluster2.dataiku.com
+[Previous Enum]   dscluster4.dataiku.com
+[CertSpotter]     analytics.dataiku.com
+[Brute Forcing]   gallery.dataiku.com
+[Brute Forcing]   dku06.dataiku.com
+[CertSpotter]     api.dssdemo.dataiku.com
+[CertSpotter]     dssdemo2.dataiku.com
+[Previous Enum]   support2.dataiku.com
+[HackerTarget]    cobalt-pentest.shadow.dataiku.com
+[Previous Enum]   dl.dataiku.com
+[Previous Enum]   fe-filetransfer.dataiku.com
+[Previous Enum]   filetransfer.dataiku.com
+[CertSpotter]     rstudio.dssdemo.dataiku.com
+[CertSpotter]     dssdemo1.dataiku.com
+[CertSpotter]     lab.dssdemo.dataiku.com
 [Brute Forcing]   london.dataiku.com
-[BufferOver]      adm01.dataiku.com
-[BufferOver]      labs.dataiku.com
-[BufferOver]      dscluster3.dataiku.com
-[BufferOver]      dku13.dataiku.com
-[BufferOver]      dku05.dataiku.com
-[BufferOver]      api.dssdemo.dataiku.com
-[BufferOver]      dku19.dataiku.com
-[BufferOver]      dku12.dataiku.com
-[BufferOver]      dku14.dataiku.com
-[BufferOver]      dsproj2.dataiku.com
-[BufferOver]      dev04.dataiku.com
-[BufferOver]      doc.dataiku.com
-[BufferOver]      uscluster1.dataiku.com
-[BufferOver]      ptp-eu-2.parkeon.dataiku.com
-[BufferOver]      ptp-us-1.parkeon.dataiku.com
-[Crtsh]           analytics.dev.ptp.parkeon.dataiku.com
-[BufferOver]      lab.dssdemo.dataiku.com
-[BufferOver]      prod.dssdemo.dataiku.com
-[BufferOver]      uscluster3.dataiku.com
-[BufferOver]      dsproj1.dataiku.com
-[BufferOver]      filetransfer.dataiku.com
-[BufferOver]      prod-saas14.b.cloud.dataiku.com
-[BufferOver]      prod-saas12.b.cloud.dataiku.com
-[BufferOver]      ptp-eu-3.parkeon.dataiku.com
-[BufferOver]      backend2.parkeon.dataiku.com
-[BufferOver]      ptp-us-2.parkeon.dataiku.com
-[BufferOver]      ptp-us-3.parkeon.dataiku.com
-[Crtsh]           austin.public.prod.ptp.parkeon.dataiku.com
-[BufferOver]      ptp-eu-1.parkeon.dataiku.com
-[BufferOver]      prod-saas11.b.cloud.dataiku.com
-[BufferOver]      prod-saas15.b.cloud.dataiku.com
-[BufferOver]      prod-saas13.b.cloud.dataiku.com
-[BufferOver]      prod-saas10.b.cloud.dataiku.com
-[BufferOver]      cobalt-pentest-api2.shadow.dataiku.com
-[Crtsh]           acme.prod.ptp.parkeon.dataiku.com
-[BufferOver]      prod-saas9.b.cloud.dataiku.com
-[BufferOver]      analytics.prod.ptp.parkeon.dataiku.com
-[BufferOver]      sensors-us.prod.ptp.parkeon.dataiku.com
-[Brute Forcing]   sacramento.public.prod.ptp.parkeon.dataiku.com
-[AlienVault]      ready1.managedzone.dcimdev.dataiku.com
-[BufferOver]      acme.dev.ptp.parkeon.dataiku.com
-[Crtsh]           www.labs.dataiku.com
-[BufferOver]      sensors-int.int.ptp.parkeon.dataiku.com
-[BufferOver]      fortworth.public.prod.ptp.parkeon.dataiku.com
-[BufferOver]      cobalt-pentest.shadow.dataiku.com
-[BufferOver]      analytics.int.ptp.parkeon.dataiku.com
-[BufferOver]      acme.int.ptp.parkeon.dataiku.com
+[Previous Enum]   dsproj1.dataiku.com
+[Previous Enum]   dku17.dataiku.com
+[Previous Enum]   uscluster3.dataiku.com
+[Previous Enum]   adm01.dataiku.com
+[CertSpotter]     acme.int.ptp.parkeon.dataiku.com
+[Previous Enum]   dku09.dataiku.com
+[Forward DNS]     dataiku.com
+[Previous Enum]   my.dataiku.com
+[Previous Enum]   fe-saas.dataiku.com
+[CertSpotter]     labs.dataiku.com
+[CertSpotter]     www.labs.dataiku.com
+[CertSpotter]     sacramento.public.prod.ptp.parkeon.dataiku.com
+[Previous Enum]   dku13.dataiku.com
+[HackerTarget]    dku19.dataiku.com
+[CertSpotter]     dev.dssdemo.dataiku.com
+[CertSpotter]     prod.dssdemo.dataiku.com
+[HackerTarget]    disney-hackathon.dataiku.com
+[Previous Enum]   dku12.dataiku.com
+[Previous Enum]   dku14.dataiku.com
+[Previous Enum]   v2.dataiku.com
+[Previous Enum]   ibox-guest.dataiku.com
+[Previous Enum]   academy.dataiku.com
+[CertSpotter]     fortworth.public.prod.ptp.parkeon.dataiku.com
+[Previous Enum]   acme.dssdemo.dataiku.com
+[Previous Enum]   dku15.dataiku.com
+[CertSpotter]     sensors-int.int.ptp.parkeon.dataiku.com
+[Previous Enum]   dscluster3.dataiku.com
+[Previous Enum]   dku22.dataiku.com
+[CertSpotter]     austin.public.prod.ptp.parkeon.dataiku.com
+[Previous Enum]   test3.dataiku.com
+[Previous Enum]   dsproj2.dataiku.com
+[Previous Enum]   dku10.dataiku.com
+[CertSpotter]     analytics.dev.ptp.parkeon.dataiku.com
+[HackerTarget]    dku11.dataiku.com
+[Previous Enum]   dev04.dataiku.com
+[HackerTarget]    dku21.dataiku.com
+[Previous Enum]   dku16.dataiku.com
+[HackerTarget]    cobalt-pentest-api.shadow.dataiku.com
+[CertSpotter]     analytics.int.ptp.parkeon.dataiku.com
+[CertSpotter]     sensors-us.prod.ptp.parkeon.dataiku.com
+[Previous Enum]   dku05.dataiku.com
+[CertSpotter]     acme.prod.ptp.parkeon.dataiku.com
+[HackerTarget]    ptp-us-1.parkeon.dataiku.com
+[Previous Enum]   uscluster1.dataiku.com
+[HackerTarget]    cobalt-pentest-api2.shadow.dataiku.com
+[Previous Enum]   rex.dataiku.com
+[CertSpotter]     ready1.managedzone.dcimdev.dataiku.com
+[CertSpotter]     acme.dev.ptp.parkeon.dataiku.com
+[HackerTarget]    test1.dataiku.com
+[Previous Enum]   ptp-eu-2.parkeon.dataiku.com
+[HackerTarget]    ptp-eu-3.parkeon.dataiku.com
+[HackerTarget]    ptp-eu-1.parkeon.dataiku.com
+[Previous Enum]   backend2.parkeon.dataiku.com
+[HackerTarget]    ptp-us-3.parkeon.dataiku.com
+[Previous Enum]   nyc.dataiku.com
+[HackerTarget]    prod-saas18.b.cloud.dataiku.com
+[HackerTarget]    prod-saas15.b.cloud.dataiku.com
+[HackerTarget]    ptp-us-2.parkeon.dataiku.com
+[Previous Enum]   prod-saas16.b.cloud.dataiku.com
+[HackerTarget]    prod-saas17.b.cloud.dataiku.com
+[Previous Enum]   tracker.prod.ptp.parkeon.dataiku.com
+[HackerTarget]    prod-saas13.b.cloud.dataiku.com
+[HackerTarget]    prod-saas9.b.cloud.dataiku.com
+[Previous Enum]   prod-saas12.b.cloud.dataiku.com
+[HackerTarget]    prod-saas11.b.cloud.dataiku.com
+[Previous Enum]   analytics.prod.ptp.parkeon.dataiku.com
+[Previous Enum]   prod-saas10.b.cloud.dataiku.com
+[HackerTarget]    prod-saas14.b.cloud.dataiku.com
 [Censys]          global.egg.dataiku.com
-[BufferOver]      support.dataiku.com
-[Brute Forcing]   paris.egg.dataiku.com
-[Brute Forcing]   london.egg.dataiku.com
-[BufferOver]      sf.egg.dataiku.com
-[BufferOver]      nyc.egg.dataiku.com
-[Brute Forcing]   dev.dssdemo.dataiku.com
-[Crtsh]           amsterdam.egg.dataiku.com
-[Brute Forcing]   tracker.prod.ptp.parkeon.dataiku.com
-[Crtsh]           deutschland.egg.dataiku.com
-[Crtsh]           rstudio.dssdemo.dataiku.com
-[VirusTotal]      v2.dataiku.com
-[VirusTotal]      api.prod.ptp.parkeon.dataiku.com
-[Alterations]     support2.dataiku.com
-[BufferOver]      kb.dataiku.com
-[Brute Forcing]   videos.dataiku.com
-[BufferOver]      dss1-automation-hcsc.hadoop.training.dataiku.com
-[BufferOver]      dss0-automation-hcsc.hadoop.training.dataiku.com
-[BufferOver]      llc6.shadow.dataiku.com
-[BufferOver]      dss3-automation-hcsc.hadoop.training.dataiku.com
-[BufferOver]      cdn.downloads.dataiku.com
-[BufferOver]      dss2-automation-hcsc.hadoop.training.dataiku.com
-[Crtsh]           dss0-design-zurich.hadoop.training.dataiku.com
-[Crtsh]           dss0-automation-zurich.hadoop.training.dataiku.com
-[Brute Forcing]   smtp.dataiku.com
-[Crtsh]           dss0-automation-rabobank.hadoop.training.dataiku.com
-[Crtsh]           dss3-automation-ubs.hadoop.training.dataiku.com
-[Crtsh]           dss0-design-ge.hadoop.training.dataiku.com
+[Censys]          support.dataiku.com
+[CertSpotter]     sf.egg.dataiku.com
+[CertSpotter]     deutschland.egg.dataiku.com
+[Previous Enum]   cdn.downloads.dataiku.com
+[CertSpotter]     amsterdam.egg.dataiku.com
 [Crtsh]           dss0-design-rabobank.hadoop.training.dataiku.com
-[Crtsh]           dss2-automation-ubs.hadoop.training.dataiku.com
-[Crtsh]           dss2-design-ubs.hadoop.training.dataiku.com
-[Crtsh]           dss3-design-ubs.hadoop.training.dataiku.com
-[Markov Model]    api.dev.ptp.parkeon.dataiku.com
-[Markov Model]    acme.dssdemo.dataiku.com
-[Markov Model]    api.int.ptp.parkeon.dataiku.com
-[Alterations]     dku22.dataiku.com
-[Alterations]     dku21.dataiku.com
-[Markov Model]    nyc.dataiku.com
-[Crtsh]           dss0-automation-ubs.hadoop.training.dataiku.com
-[Crtsh]           dss1-design-ubs.hadoop.training.dataiku.com
-[Crtsh]           dss0-design-ubs.hadoop.training.dataiku.com
-[Crtsh]           dss1-automation-ubs.hadoop.training.dataiku.com
+[CertSpotter]     london.egg.dataiku.com
+[CertSpotter]     paris.egg.dataiku.com
+[CertSpotter]     nyc.egg.dataiku.com
+[Previous Enum]   partner.hadoop.training.dataiku.com
+[Previous Enum]   dss0-automation-rabobank.hadoop.training.dataiku.com
+[Previous Enum]   api.int.ptp.parkeon.dataiku.com
+[HackerTarget]    dss1.dtf4foe0umatpg.managedzone.dcimdev.dataiku.com
+[Previous Enum]   api.dev.ptp.parkeon.dataiku.com
+[Previous Enum]   api.prod.ptp.parkeon.dataiku.com
+[Previous Enum]   kb.dataiku.com
+[Brute Forcing]   smtp.dataiku.com
+[Previous Enum]   dssala1.shadow.dataiku.com
+[Crtsh]           dss2-automation-hcsc.hadoop.training.dataiku.com
+[Previous Enum]   dss3-automation-hcsc.hadoop.training.dataiku.com
+[Previous Enum]   dss1-automation-zurich.hadoop.training.dataiku.com
+[Previous Enum]   dss1-design-zurich.hadoop.training.dataiku.com
+[Previous Enum]   dss1-automation-rabobank.hadoop.training.dataiku.com
+[Previous Enum]   dss1-design-rabobank.hadoop.training.dataiku.com
+[Brute Forcing]   videos.dataiku.com
+[Previous Enum]   llc6.shadow.dataiku.com
+[Previous Enum]   dss2-design-ubs.hadoop.training.dataiku.com
+[Previous Enum]   dss0-design-ge.hadoop.training.dataiku.com
+[Previous Enum]   dss0-design-ubs.hadoop.training.dataiku.com
+[Previous Enum]   dss2-automation-ubs.hadoop.training.dataiku.com
+[Previous Enum]   dss0-design-zurich.hadoop.training.dataiku.com
+[Previous Enum]   dss2-automation-zurich.hadoop.training.dataiku.com
+[Previous Enum]   dss1-automation-ubs.hadoop.training.dataiku.com
+[Previous Enum]   dss0-automation-hcsc.hadoop.training.dataiku.com
+[Previous Enum]   dss1-automation-hcsc.hadoop.training.dataiku.com
+[Previous Enum]   dss0-automation-ubs.hadoop.training.dataiku.com
+[Previous Enum]   dss3-design-ubs.hadoop.training.dataiku.com
+[Previous Enum]   dss2-design-zurich.hadoop.training.dataiku.com
+[Previous Enum]   dss3-automation-ubs.hadoop.training.dataiku.com
+[Previous Enum]   dss1-design-ubs.hadoop.training.dataiku.com
+[Previous Enum]   dss0-automation-zurich.hadoop.training.dataiku.com
+[Alterations]     analytics-us.prod.ptp.parkeon.dataiku.com
 [Brute Forcing]   hello.dataiku.com
-[BufferOver]      dssala1.shadow.dataiku.com
-[Crtsh]           dss1-design-zurich.hadoop.training.dataiku.com
-[Crtsh]           dss3-design-orange.hadoop.training.dataiku.com
-[Crtsh]           dss1-automation-zurich.hadoop.training.dataiku.com
-[Crtsh]           dss1-automation-rabobank.hadoop.training.dataiku.com
-[Brute Forcing]   partner.hadoop.training.dataiku.com
-[Reverse DNS]     prod-saas16.b.cloud.dataiku.com
-[Crtsh]           dss1-design-orange.hadoop.training.dataiku.com
-[Crtsh]           dss2-design-orange.hadoop.training.dataiku.com
-[Crtsh]           dss1-design-rabobank.hadoop.training.dataiku.com
-[Crtsh]           dss0-design-orange.hadoop.training.dataiku.com
-[VirusTotal]      dl.dataiku.com
-[VirusTotal]      fe-filetransfer.dataiku.com
-[DNSDumpster]     prod-saas17.b.cloud.dataiku.com
-[DNSDumpster]     prod-saas18.b.cloud.dataiku.com
-[DNSDumpster]     ibox.dataiku.com
-[DNSDumpster]     ibox-guest.dataiku.com
-[Crtsh]           dss2-automation-zurich.hadoop.training.dataiku.com
-[Crtsh]           dss2-design-zurich.hadoop.training.dataiku.com
-[Crtsh]           dss4-design-orange.hadoop.training.dataiku.com
-[DNSDumpster]     disney-hackathon.dataiku.com
-[DNSDumpster]     dss1.dtf4foe0umatpg.managedzone.dcimdev.dataiku.com
-[Censys]          blog.dataiku.com
+[Crtsh]           support-us.dataiku.com
+[Crtsh]           dss0-design-airbus.hadoop.training.dataiku.com
+[Crtsh]           dss2-design-airbus.hadoop.training.dataiku.com
+[Crtsh]           dss1-design-airbus.hadoop.training.dataiku.com
+[Alterations]     llc3.shadow.dataiku.com
+[Alterations]     llc5.shadow.dataiku.com
+[Alterations]     llc1.shadow.dataiku.com
+[Alterations]     llc2.shadow.dataiku.com
+[Alterations]     llc4.shadow.dataiku.com
+[Alterations]     llc7.shadow.dataiku.com
+[Alterations]     dssala2.shadow.dataiku.com
+[Alterations]     llc8.shadow.dataiku.com
 [Censys]          pages.dataiku.com
+[Censys]          blog.dataiku.com
+[Alterations]     llc9.shadow.dataiku.com
+[Alterations]     llc12.shadow.dataiku.com
+[Alterations]     llc11.shadow.dataiku.com
+[Alterations]     llc10.shadow.dataiku.com
+[Alterations]     analytics-us3.prod.ptp.parkeon.dataiku.com
+[Alterations]     analytics-us2.prod.ptp.parkeon.dataiku.com
+[Alterations]     analytics-us1.prod.ptp.parkeon.dataiku.com
+[Alterations]     llc112.shadow.dataiku.com
+[Alterations]     llc113.shadow.dataiku.com

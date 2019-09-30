@@ -1,32 +1,32 @@
+[Crtsh]           jobs.loginextsolutions.com
+[Crtsh]           developers.loginextsolutions.com
 [Forward DNS]     loginextsolutions.com
 [Crtsh]           www.loginextsolutions.com
-[Crtsh]           blog.loginextsolutions.com
-[Crtsh]           jobs.loginextsolutions.com
-[Name Service]    ftp.loginextsolutions.com
-[Brute Forcing]   demo.loginextsolutions.com
+[Brute Forcing]   ftp.loginextsolutions.com
+[Previous Enum]   mobile.loginextsolutions.com
 [Brute Forcing]   live.loginextsolutions.com
-[BufferOver]      support.loginextsolutions.com
-[Brute Forcing]   testing.loginextsolutions.com
-[BufferOver]      jenkins.loginextsolutions.com
-[Brute Forcing]   developers.loginextsolutions.com
-[Brute Forcing]   website.loginextsolutions.com
-[Brute Forcing]   ups.loginextsolutions.com
-[Brute Forcing]   beta.loginextsolutions.com
-[Brute Forcing]   mobile.loginextsolutions.com
-[BufferOver]      ibmcloud.loginextsolutions.com
-[BufferOver]      kibana.loginextsolutions.com
-[DNSDumpster]     o1.mails.loginextsolutions.com
-[VirusTotal]      api.loginextsolutions.com
-[Brute Forcing]   docs.loginextsolutions.com
-[BufferOver]      products.loginextsolutions.com
-[Brute Forcing]   mail.loginextsolutions.com
-[Brute Forcing]   calendar.loginextsolutions.com
-[Alterations]     demo2.loginextsolutions.com
-[Brute Forcing]   email.loginextsolutions.com
-[AlienVault]      click.loginextsolutions.com
+[Previous Enum]   beta.loginextsolutions.com
+[Previous Enum]   ups.loginextsolutions.com
+[Brute Forcing]   support.loginextsolutions.com
+[Previous Enum]   ibmcloud.loginextsolutions.com
+[Crtsh]           blog.loginextsolutions.com
+[Previous Enum]   demo.loginextsolutions.com
+[Previous Enum]   o1.mails.loginextsolutions.com
+[Previous Enum]   testing.loginextsolutions.com
+[Previous Enum]   jenkins.loginextsolutions.com
+[Previous Enum]   website.loginextsolutions.com
+[Previous Enum]   demo2.loginextsolutions.com
+[Previous Enum]   kibana.loginextsolutions.com
+[Previous Enum]   products.loginextsolutions.com
+[Previous Enum]   api.loginextsolutions.com
+[Previous Enum]   calendar.loginextsolutions.com
+[Previous Enum]   mail.loginextsolutions.com
+[Previous Enum]   mobilemail.loginextsolutions.com
+[Previous Enum]   docs.loginextsolutions.com
+[Previous Enum]   click.loginextsolutions.com
+[Previous Enum]   imap.loginextsolutions.com
 [Brute Forcing]   smtp.loginextsolutions.com
-[Brute Forcing]   pop.loginextsolutions.com
+[Previous Enum]   email.loginextsolutions.com
+[Previous Enum]   pop.loginextsolutions.com
 [Crtsh]           comms.loginextsolutions.com
-[CertSpotter]     info.loginextsolutions.com
-[Brute Forcing]   imap.loginextsolutions.com
-[Brute Forcing]   mobilemail.loginextsolutions.com
+[Crtsh]           info.loginextsolutions.com

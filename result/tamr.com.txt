@@ -1,17 +1,17 @@
-[Crtsh]           newplaybook.tamr.com
+[CertSpotter]     events.tamr.com
+[Entrust]         newplaybook.tamr.com
+[Entrust]         msplaybook.tamr.com
+[CertSpotter]     www.tamr.com
 [Forward DNS]     tamr.com
-[Crtsh]           gcp-preview.tamr.com
-[Crtsh]           events.tamr.com
-[Crtsh]           www.tamr.com
-[Crtsh]           msplaybook.tamr.com
-[Crtsh]           training.tamr.com
-[GoogleCT]        cdi.tamr.com
-[Crtsh]           playbook.tamr.com
-[Crtsh]           datahub.tamr.com
-[Crtsh]           kr.tamr.com
-[Crtsh]           data.tamr.com
-[Crtsh]           tutorials.tamr.com
-[Crtsh]           docs.tamr.com
-[Crtsh]           resources.tamr.com
-[Crtsh]           email.tamr.com
-[Brute Forcing]   support.tamr.com
+[CertSpotter]     kr.tamr.com
+[CertSpotter]     playbook.tamr.com
+[CertSpotter]     datahub.tamr.com
+[CertSpotter]     cdi.tamr.com
+[Entrust]         training.tamr.com
+[Previous Enum]   gcp-preview.tamr.com
+[CertSpotter]     data.tamr.com
+[CertSpotter]     tutorials.tamr.com
+[CertSpotter]     docs.tamr.com
+[Previous Enum]   support.tamr.com
+[CertSpotter]     resources.tamr.com
+[CertSpotter]     email.tamr.com

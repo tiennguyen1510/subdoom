@@ -1,11 +1,11 @@
+[Brute Forcing]   www.sesamm.com
 [Forward DNS]     sesamm.com
-[Crtsh]           www.sesamm.com
-[Brute Forcing]   pop3.sesamm.com
-[Brute Forcing]   mail.sesamm.com
-[Brute Forcing]   imap.sesamm.com
-[Brute Forcing]   smtp.sesamm.com
-[BufferOver]      alert.sesamm.com
+[Previous Enum]   alert.sesamm.com
+[Previous Enum]   imap.sesamm.com
 [Brute Forcing]   ftp.sesamm.com
-[Name Service]    www.alert.sesamm.com
+[Previous Enum]   pop3.sesamm.com
+[Previous Enum]   mail.sesamm.com
+[Previous Enum]   smtp.sesamm.com
+[Previous Enum]   www.alert.sesamm.com
 [Forward DNS]     _submission._tcp.sesamm.com
 [Forward DNS]     _imaps._tcp.sesamm.com
